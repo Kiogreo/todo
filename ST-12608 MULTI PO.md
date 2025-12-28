@@ -31,26 +31,26 @@ collapsed:: true
 		- DONE Email
 			- DONE **Submission email** consist PO form name
 				- DONE Email was triggered without PO form name
-			- [x] **Approval email** consist PO form name
-				- [x] Email was triggered without PO form name
-- [x] **Form Details page** consist form name
-	- [x] Form name is not showing in form details page
-- [x] Listing Pages
-	- [x] Multi PO **My Listing page** consist Form Name column
-		- [x] Form Name column missing
-	- [x] Multi PO **Company Listing page** consist Form Name column
-		- [x] Form Name column missing
-	- [x] Multi PO **Company Listing page** consist filter option by Form Name
-		- [x] No option to filter by form name
-- [x] CSV
-	- [x] Multi PO **Submission CSV** consist Form Name column
-		- [x] CSV headers missing Form Name field
-	- [x] Multi PO **Item CSV** consist Form Name column
-		- [x] CSV headers missing Form Name field
-- [x] [LUQMAN] **Budget Details page** showing all different Form Type name for PO module
-	- [x] PO form type name populated in Budget Details page using default name only, not based on the latest form name
-- [x] [ZIKRI] User able to click “previous“ button in multi PO draft to redirect back to the form selection level page
-	- [x] User stays in submission level page
+			- DONE **Approval email** consist PO form name
+				- DONE Email was triggered without PO form name
+- DONE **Form Details page** consist form name
+	- DONE Form name is not showing in form details page
+- DONE Listing Pages
+	- DONE Multi PO **My Listing page** consist Form Name column
+		- DONE Form Name column missing
+	- DONE Multi PO **Company Listing page** consist Form Name column
+		- DONE Form Name column missing
+	- DONE Multi PO **Company Listing page** consist filter option by Form Name
+		- DONE No option to filter by form name
+- DONE CSV
+	- DONEMulti PO **Submission CSV** consist Form Name column
+		- DONE CSV headers missing Form Name field
+	- DONE Multi PO **Item CSV** consist Form Name column
+		- DONE CSV headers missing Form Name field
+- DONE [LUQMAN] **Budget Details page** showing all different Form Type name for PO module
+	- DONE PO form type name populated in Budget Details page using default name only, not based on the latest form name
+- DONE [ZIKRI] User able to click “previous“ button in multi PO draft to redirect back to the form selection level page
+	- DONE User stays in submission level page
 - [x] [ZIKRI] Deleted PO form type should not be visible during form selection stage in PO draft
 	- [x] Deleted form type still appears in selection list
 - [x] [ZIKRI] Cancelling multi PO draft should redirect user back to Multi PO listing page
