@@ -113,12 +113,12 @@ collapsed:: true
 		- TODO Able to perform **PO form assignment via user profile**
 			- TODO Able to perform **PO form assignment via user profile**
 				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
-			- [ ] **Solution**
-				- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-				- [ ] Or it could be due to chaching
-		- [ ] Able to perform **user assignment via PO form setting**
-			- [ ] Able to perform **user assignment via PO form setting**
-				- [ ] User still able to access any unassigned PO form in form draft (at form selection stage)
-			- [ ] **Solution**
-				- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-				- [ ] Or it could be due to chaching
+			- TODO **Solution**
+				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
+				- TODO Or it could be due to chaching
+		- TODO Able to perform **user assignment via PO form setting**
+			- TODO Able to perform **user assignment via PO form setting**
+				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
+			- TODO **Solution**
+				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
+				- Or it could be due to chaching
