@@ -89,16 +89,16 @@ collapsed:: true
 		- DONE ## **New bugs 2**
 			- DONE **Copy button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
 		- DONE ## **New bugs 3**
-			- [x] **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
-		- [ ] ## New bugs 4
-			- [ ] Users are not auto assigned to Default PO form
-			- [ ] **Solution**
-				- [ ] create new migration file utk assign default form setting to existing user
-		- [ ] ## New bugs 5
-			- [ ] `QTM/PO/00266` is not showing in both My and Company PO listing page
-			- [ ] **Solution**
-				- [ ]
-		- [ ] ## New bugs 6
+			- DONE **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
+		- TODO ## New bugs 4
+			- TODO Users are not auto assigned to Default PO form
+			- TODO **Solution**
+				- TODO create new migration file utk assign default form setting to existing user
+		- TODO ## New bugs 5
+			- TODO `QTM/PO/00266` is not showing in both My and Company PO listing page
+			- TODO **Solution**
+				- TODO
+		- TODO ## New bugs 6
 			- [ ] Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
 			- [ ] **Solution**
 				- [ ] remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
