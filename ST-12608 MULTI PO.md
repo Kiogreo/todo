@@ -7,7 +7,7 @@ collapsed:: true
 			- [ ] Multi draft is not included
 - ##  Deployment Checklist
 	- {{renderer :todomaster}}
-		- TODO pre & post deployment checklist: https://supplycart.atlassian.net/browse/ST-13221
+		- LATER pre & post deployment checklist: https://supplycart.atlassian.net/browse/ST-13221
 		  :LOGBOOK:
 		  CLOCK: [2025-12-28 Sun 17:00:04]--[2025-12-28 Sun 17:01:42] =>  00:01:38
 		  CLOCK: [2025-12-28 Sun 17:01:43]--[2025-12-28 Sun 17:01:48] =>  00:00:05
@@ -18,8 +18,11 @@ collapsed:: true
 		  CLOCK: [2025-12-28 Sun 17:01:59]--[2025-12-28 Sun 17:02:00] =>  00:00:01
 		  CLOCK: [2025-12-28 Sun 17:02:02]--[2025-12-28 Sun 17:02:02] =>  00:00:00
 		  CLOCK: [2025-12-28 Sun 17:02:02]--[2025-12-28 Sun 17:02:03] =>  00:00:01
+		  CLOCK: [2025-12-28 Sun 20:16:11]--[2025-12-28 Sun 20:16:11] =>  00:00:00
+		  CLOCK: [2025-12-28 Sun 20:16:13]--[2025-12-28 Sun 20:16:13] =>  00:00:00
 		  :END:
 - ## Bugs
+  collapsed:: true
 	- {{renderer :todomaster}}
 		- DONE Assignment
 			- DONE Migration on form setting **mapping for RFX → PO** default form
@@ -81,6 +84,9 @@ collapsed:: true
 - ## New bugs (Round 2)
 	- {{renderer :todomaster}}
 		- TODO ## New bugs 1
+		  :LOGBOOK:
+		  CLOCK: [2025-12-28 Sun 20:15:48]--[2025-12-28 Sun 20:15:49] =>  00:00:01
+		  :END:
 			- TODO Search filter function in My PO listing page is not working
 			- TODO Expected result
 				- TODO User able to search based on search option availability
@@ -121,4 +127,4 @@ collapsed:: true
 				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
 			- TODO **Solution**
 				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-				- Or it could be due to chaching
+				- TODO Or it could be due to chaching
