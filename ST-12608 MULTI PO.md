@@ -51,18 +51,18 @@ collapsed:: true
 	- DONE PO form type name populated in Budget Details page using default name only, not based on the latest form name
 - DONE [ZIKRI] User able to click “previous“ button in multi PO draft to redirect back to the form selection level page
 	- DONE User stays in submission level page
-- [x] [ZIKRI] Deleted PO form type should not be visible during form selection stage in PO draft
-	- [x] Deleted form type still appears in selection list
-- [x] [ZIKRI] Cancelling multi PO draft should redirect user back to Multi PO listing page
-	- [x] User redirected to single My PO listing page instead
-- [x] **deactivated** form type
-	- [x] **Copy button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
-		- [x] Copy button is NOT blocked and user able to create as new draft and proceed to submit
-	- [x] **Revise button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
-		- [x] Copy button is NOT blocked and user able to create revision draft and proceed to submit
-- [x] **deleted** form type
-	- [x] **Copy button** for PO that previously submitted using **deleted** form type should be blocked with hover message
-		- [x] Copy button is NOT blocked, however upon clicked, system throw error message and no copied draft created
+- DONE [ZIKRI] Deleted PO form type should not be visible during form selection stage in PO draft
+	- DONE Deleted form type still appears in selection list
+- DONE [ZIKRI] Cancelling multi PO draft should redirect user back to Multi PO listing page
+	- DOINE User redirected to single My PO listing page instead
+- DONE **deactivated** form type
+	- DONE **Copy button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
+		- DONE Copy button is NOT blocked and user able to create as new draft and proceed to submit
+	- DONE **Revise button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
+		- DONE Copy button is NOT blocked and user able to create revision draft and proceed to submit
+- DONE **deleted** form type
+	- DONE **Copy button** for PO that previously submitted using **deleted** form type should be blocked with hover message
+		- DONE Copy button is NOT blocked, however upon clicked, system throw error message and no copied draft created
 	- [x] **Revise button** for PO that previously submitted using **deleted** form type should be blocked with hover message
 		- [x] Revise button is NOT blocked and user able to create revision draft though unable to proceed until submit form
 	- [x] [LUQMAN] Approving PO form which using a deleted form Setting
