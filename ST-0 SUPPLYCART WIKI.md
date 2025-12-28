@@ -1,0 +1,7 @@
+- {{renderer :todomaster}}
+	- TODO write up documentation for FE code standardization (check [[FE & BE Code Standardization]])
+		- TODO Check if we already have FE standardization for naming the folder name to `kebab-case`
+	- DONE simplify PR template for ADAM
+	- DONE Update README:
+		- DONE Make sure to build & start shared services in order to run DB migration first
+		- DONE Then, start the whole ecosystem
