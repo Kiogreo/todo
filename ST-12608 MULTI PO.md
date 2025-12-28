@@ -99,8 +99,8 @@ collapsed:: true
 			- TODO **Solution**
 				- TODO
 		- TODO ## New bugs 6
-			- [ ] Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
-			- [ ] **Solution**
+			- TODO Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
+			- TODO **Solution**
 				- [ ] remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
 		- [ ] ## New bugs 7
 			- [ ] User manual invite should have PO form assignation as per all other modules
