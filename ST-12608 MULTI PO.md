@@ -101,18 +101,18 @@ collapsed:: true
 		- TODO ## New bugs 6
 			- TODO Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
 			- TODO **Solution**
-				- [ ] remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
-		- [ ] ## New bugs 7
-			- [ ] User manual invite should have PO form assignation as per all other modules
-			- [ ] **Solution**
-				- [ ] Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
-		- [ ] ## New bugs 8
-			- [ ] User bulk invite should have PO form assignation as per all other modules
-			- [ ] **Solution**
-				- [ ] Add PO form assignation in user bulk invite's CSV document
-		- [ ] Able to perform **PO form assignment via user profile**
-			- [ ] Able to perform **PO form assignment via user profile**
-				- [ ] User still able to access any unassigned PO form in form draft (at form selection stage)
+				- TODO remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
+		- TODO ## New bugs 7
+			- TODO User manual invite should have PO form assignation as per all other modules
+			- TODO **Solution**
+				- TODO Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
+		- TODO ## New bugs 8
+			- TODO User bulk invite should have PO form assignation as per all other modules
+			- TODO **Solution**
+				- TODO Add PO form assignation in user bulk invite's CSV document
+		- TODO Able to perform **PO form assignment via user profile**
+			- TODO Able to perform **PO form assignment via user profile**
+				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
 			- [ ] **Solution**
 				- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- [ ] Or it could be due to chaching
