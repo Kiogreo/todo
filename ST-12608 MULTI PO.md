@@ -42,42 +42,42 @@ collapsed:: true
 				- DONE Form Name column missing
 			- DONE Multi PO **Company Listing page** consist filter option by Form Name
 				- DONE No option to filter by form name
-- DONE CSV
-	- DONEMulti PO **Submission CSV** consist Form Name column
-		- DONE CSV headers missing Form Name field
-	- DONE Multi PO **Item CSV** consist Form Name column
-		- DONE CSV headers missing Form Name field
-- DONE [LUQMAN] **Budget Details page** showing all different Form Type name for PO module
-	- DONE PO form type name populated in Budget Details page using default name only, not based on the latest form name
-- DONE [ZIKRI] User able to click “previous“ button in multi PO draft to redirect back to the form selection level page
-	- DONE User stays in submission level page
-- DONE [ZIKRI] Deleted PO form type should not be visible during form selection stage in PO draft
-	- DONE Deleted form type still appears in selection list
-- DONE [ZIKRI] Cancelling multi PO draft should redirect user back to Multi PO listing page
-	- DOINE User redirected to single My PO listing page instead
-- DONE **deactivated** form type
-	- DONE **Copy button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
-		- DONE Copy button is NOT blocked and user able to create as new draft and proceed to submit
-	- DONE **Revise button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
-		- DONE Copy button is NOT blocked and user able to create revision draft and proceed to submit
-- DONE **deleted** form type
-	- DONE **Copy button** for PO that previously submitted using **deleted** form type should be blocked with hover message
-		- DONE Copy button is NOT blocked, however upon clicked, system throw error message and no copied draft created
-	- [x] **Revise button** for PO that previously submitted using **deleted** form type should be blocked with hover message
-		- [x] Revise button is NOT blocked and user able to create revision draft though unable to proceed until submit form
-	- [x] [LUQMAN] Approving PO form which using a deleted form Setting
-		- [x] System throws error
-	- [x] [LUQMAN] Approving on behalf PO form which using a deleted form Setting
-		- [x] System throws error
-- [x] Module Menu
-	- [x] Single PO and Multi PO modules should not exist simultaneously
-		- [x] Both Single and Multi PO modules appear together
-	- [x] Multi PO sub‑option in sidebar consist GR Listing page
-		- [x] Missing sub‑option for GR Listing page
-	- [x] Multi PO sub‑option in sidebar consist RTN Listing page
-		- [x] Missing sub‑option for RTN Listing page
-	- [x] Multi PO sub‑option in sidebar consist PI Listing page
-		- [x] Missing sub‑option for PI Listing page
+		- DONE CSV
+			- DONE Multi PO **Submission CSV** consist Form Name column
+				- DONE CSV headers missing Form Name field
+			- DONE Multi PO **Item CSV** consist Form Name column
+				- DONE CSV headers missing Form Name field
+		- DONE [LUQMAN] **Budget Details page** showing all different Form Type name for PO module
+			- DONE PO form type name populated in Budget Details page using default name only, not based on the latest form name
+		- DONE [ZIKRI] User able to click “previous“ button in multi PO draft to redirect back to the form selection level page
+			- DONE User stays in submission level page
+		- DONE [ZIKRI] Deleted PO form type should not be visible during form selection stage in PO draft
+			- DONE Deleted form type still appears in selection list
+		- DONE [ZIKRI] Cancelling multi PO draft should redirect user back to Multi PO listing page
+			- DONE User redirected to single My PO listing page instead
+		- DONE **deactivated** form type
+			- DONE **Copy button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
+				- DONE Copy button is NOT blocked and user able to create as new draft and proceed to submit
+			- DONE **Revise button** for PO that previously submitted using **deactivated** form type should be blocked with hover message
+				- DONE Copy button is NOT blocked and user able to create revision draft and proceed to submit
+		- DONE **deleted** form type
+			- DONE **Copy button** for PO that previously submitted using **deleted** form type should be blocked with hover message
+				- DONE Copy button is NOT blocked, however upon clicked, system throw error message and no copied draft created
+			- DONE **Revise button** for PO that previously submitted using **deleted** form type should be blocked with hover message
+				- DONE Revise button is NOT blocked and user able to create revision draft though unable to proceed until submit form
+			- DONE [LUQMAN] Approving PO form which using a deleted form Setting
+				- done System throws error
+			- DONE [LUQMAN] Approving on behalf PO form which using a deleted form Setting
+				- DONE System throws error
+		- DONE Module Menu
+			- DONE Single PO and Multi PO modules should not exist simultaneously
+				- DONE Both Single and Multi PO modules appear together
+			- DONE Multi PO sub‑option in sidebar consist GR Listing page
+				- DONE Missing sub‑option for GR Listing page
+			- DONE Multi PO sub‑option in sidebar consist RTN Listing page
+				- done Missing sub‑option for RTN Listing page
+			- [x] Multi PO sub‑option in sidebar consist PI Listing page
+				- [x] Missing sub‑option for PI Listing page
 - ## New bugs (Round 2)
 - [ ] ## New bugs 1
 	- [ ] Search filter function in My PO listing page is not working
