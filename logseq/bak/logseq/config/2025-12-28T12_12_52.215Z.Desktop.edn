@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["st-12608 multi po" "FE & BE Code Standardization" "ST-0 SUPPLYCART WIKI" "ST-13600 MULTI PO: PO FORM SETTING"]
+ :favorites ["FE & BE Code Standardization" "ST-0 SUPPLYCART WIKI" "ST-13600 MULTI PO: PO FORM SETTING" "ST-12608 MULTI PO"]
 
  ;; Set flashcards interval.
  ;; Expected value:
