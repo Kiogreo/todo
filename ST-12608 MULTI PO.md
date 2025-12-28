@@ -21,18 +21,18 @@ collapsed:: true
 		  :END:
 - ## Bugs
 	- {{renderer :todomaster}}
-- [x] Assignment
-	- [x] Migration on form setting **mapping for RFX → PO** default form
-		- [x] Migration was not done
-	- [x] **PO form assignment via user profile**
-		- [x] PO form assignments in user profile does not exist
-	- [x] Able to perform **user assignment via PO form setting**
-		- [x] User assignment tab in PO form setting does not exist
-- [x] Email
-	- [x] **Submission email** consist PO form name
-		- [x] Email was triggered without PO form name
-	- [x] **Approval email** consist PO form name
-		- [x] Email was triggered without PO form name
+		- DONE Assignment
+			- DONE Migration on form setting **mapping for RFX → PO** default form
+				- DONE Migration was not done
+			- DONE **PO form assignment via user profile**
+				- DONE PO form assignments in user profile does not exist
+			- DONE Able to perform **user assignment via PO form setting**
+				- DONE User assignment tab in PO form setting does not exist
+		- DONE Email
+			- DONE **Submission email** consist PO form name
+				- DONE Email was triggered without PO form name
+			- [x] **Approval email** consist PO form name
+				- [x] Email was triggered without PO form name
 - [x] **Form Details page** consist form name
 	- [x] Form name is not showing in form details page
 - [x] Listing Pages
