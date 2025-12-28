@@ -33,15 +33,15 @@ collapsed:: true
 				- DONE Email was triggered without PO form name
 			- DONE **Approval email** consist PO form name
 				- DONE Email was triggered without PO form name
-- DONE **Form Details page** consist form name
-	- DONE Form name is not showing in form details page
-- DONE Listing Pages
-	- DONE Multi PO **My Listing page** consist Form Name column
-		- DONE Form Name column missing
-	- DONE Multi PO **Company Listing page** consist Form Name column
-		- DONE Form Name column missing
-	- DONE Multi PO **Company Listing page** consist filter option by Form Name
-		- DONE No option to filter by form name
+		- DONE **Form Details page** consist form name
+			- DONE Form name is not showing in form details page
+		- DONE Listing Pages
+			- DONE Multi PO **My Listing page** consist Form Name column
+				- DONE Form Name column missing
+			- DONE Multi PO **Company Listing page** consist Form Name column
+				- DONE Form Name column missing
+			- DONE Multi PO **Company Listing page** consist filter option by Form Name
+				- DONE No option to filter by form name
 - DONE CSV
 	- DONEMulti PO **Submission CSV** consist Form Name column
 		- DONE CSV headers missing Form Name field
