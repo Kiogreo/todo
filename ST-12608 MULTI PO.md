@@ -75,49 +75,50 @@ collapsed:: true
 			- DONE Multi PO sub‑option in sidebar consist GR Listing page
 				- DONE Missing sub‑option for GR Listing page
 			- DONE Multi PO sub‑option in sidebar consist RTN Listing page
-				- done Missing sub‑option for RTN Listing page
-			- [x] Multi PO sub‑option in sidebar consist PI Listing page
-				- [x] Missing sub‑option for PI Listing page
+				- DONEMissing sub‑option for RTN Listing page
+			- DONE Multi PO sub‑option in sidebar consist PI Listing page
+				- DONE Missing sub‑option for PI Listing page
 - ## New bugs (Round 2)
-- [ ] ## New bugs 1
-	- [ ] Search filter function in My PO listing page is not working
-	- [ ] Expected result
-		- [ ] User able to search based on search option availability
-	- [ ] **Solution**
-		- [ ]
-- [x] ## **New bugs 2**
-	- [x] **Copy button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
-- [x] ## **New bugs 3**
-	- [x] **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
-- [ ] ## New bugs 4
-	- [ ] Users are not auto assigned to Default PO form
-	- [ ] **Solution**
-		- [ ] create new migration file utk assign default form setting to existing user
-- [ ] ## New bugs 5
-	- [ ] `QTM/PO/00266` is not showing in both My and Company PO listing page
-	- [ ] **Solution**
-		- [ ]
-- [ ] ## New bugs 6
-	- [ ] Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
-	- [ ] **Solution**
-		- [ ] remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
-- [ ] ## New bugs 7
-	- [ ] User manual invite should have PO form assignation as per all other modules
-	- [ ] **Solution**
-		- [ ] Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
-- [ ] ## New bugs 8
-	- [ ] User bulk invite should have PO form assignation as per all other modules
-	- [ ] **Solution**
-		- [ ] Add PO form assignation in user bulk invite's CSV document
-- [ ] Able to perform **PO form assignment via user profile**
-	- [ ] Able to perform **PO form assignment via user profile**
-		- [ ] User still able to access any unassigned PO form in form draft (at form selection stage)
-	- [ ] **Solution**
-		- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-		- [ ] Or it could be due to chaching
-- [ ] Able to perform **user assignment via PO form setting**
-	- [ ] Able to perform **user assignment via PO form setting**
-		- [ ] User still able to access any unassigned PO form in form draft (at form selection stage)
-	- [ ] **Solution**
-		- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-		- [ ] Or it could be due to chaching
+	- {{renderer :todomaster}}
+		- TODO ## New bugs 1
+			- TODO Search filter function in My PO listing page is not working
+			- TODO Expected result
+				- TODO User able to search based on search option availability
+			- TODO **Solution**
+				- TODO
+		- DONE ## **New bugs 2**
+			- DONE **Copy button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
+		- DONE ## **New bugs 3**
+			- [x] **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
+		- [ ] ## New bugs 4
+			- [ ] Users are not auto assigned to Default PO form
+			- [ ] **Solution**
+				- [ ] create new migration file utk assign default form setting to existing user
+		- [ ] ## New bugs 5
+			- [ ] `QTM/PO/00266` is not showing in both My and Company PO listing page
+			- [ ] **Solution**
+				- [ ]
+		- [ ] ## New bugs 6
+			- [ ] Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
+			- [ ] **Solution**
+				- [ ] remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
+		- [ ] ## New bugs 7
+			- [ ] User manual invite should have PO form assignation as per all other modules
+			- [ ] **Solution**
+				- [ ] Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
+		- [ ] ## New bugs 8
+			- [ ] User bulk invite should have PO form assignation as per all other modules
+			- [ ] **Solution**
+				- [ ] Add PO form assignation in user bulk invite's CSV document
+		- [ ] Able to perform **PO form assignment via user profile**
+			- [ ] Able to perform **PO form assignment via user profile**
+				- [ ] User still able to access any unassigned PO form in form draft (at form selection stage)
+			- [ ] **Solution**
+				- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
+				- [ ] Or it could be due to chaching
+		- [ ] Able to perform **user assignment via PO form setting**
+			- [ ] Able to perform **user assignment via PO form setting**
+				- [ ] User still able to access any unassigned PO form in form draft (at form selection stage)
+			- [ ] **Solution**
+				- [ ] add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
+				- [ ] Or it could be due to chaching
