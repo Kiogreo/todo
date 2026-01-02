@@ -87,6 +87,8 @@ collapsed:: true
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2025-12-28 Sun 20:15:48]--[2025-12-28 Sun 20:15:49] =>  00:00:01
+		  CLOCK: [2026-01-02 Fri 22:14:12]--[2026-01-02 Fri 22:14:14] =>  00:00:02
+		  CLOCK: [2026-01-02 Fri 22:14:14]--[2026-01-02 Fri 22:14:15] =>  00:00:01
 		  :END:
 			- TODO Search filter function in My PO listing page is not working
 			- TODO Expected result
@@ -99,7 +101,7 @@ collapsed:: true
 		- DONE ## **New bugs 3**
 		  collapsed:: true
 			- DONE **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
-		- TODO ## New bugs 4
+		- DONE ## New bugs 4
 		  collapsed:: true
 			- TODO Users are not auto assigned to Default PO form
 			- TODO **Solution**
@@ -109,12 +111,12 @@ collapsed:: true
 			- TODO `QTM/PO/00266` is not showing in both My and Company PO listing page
 			- TODO **Solution**
 				- TODO
-		- TODO ## New bugs 6
+		- DONE ## New bugs 6
 		  collapsed:: true
 			- TODO Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
 			- TODO **Solution**
 				- TODO remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
-		- TODO ## New bugs 7
+		- DONE ## New bugs 7
 		  collapsed:: true
 			- TODO User manual invite should have PO form assignation as per all other modules
 			- TODO **Solution**
@@ -132,8 +134,7 @@ collapsed:: true
 				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- TODO Or it could be due to chaching
 		- TODO Able to perform **user assignment via PO form setting**
-			- TODO Able to perform **user assignment via PO form setting**
-				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
+			- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
 			- TODO **Solution**
 				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- TODO Or it could be due to chaching
