@@ -84,6 +84,7 @@ collapsed:: true
 - ## New bugs (Round 2)
 	- {{renderer :todomaster}}
 		- TODO ## New bugs 1
+		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2025-12-28 Sun 20:15:48]--[2025-12-28 Sun 20:15:49] =>  00:00:01
 		  :END:
@@ -93,30 +94,38 @@ collapsed:: true
 			- TODO **Solution**
 				- TODO
 		- DONE ## **New bugs 2**
+		  collapsed:: true
 			- DONE **Copy button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
 		- DONE ## **New bugs 3**
+		  collapsed:: true
 			- DONE **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
 		- TODO ## New bugs 4
+		  collapsed:: true
 			- TODO Users are not auto assigned to Default PO form
 			- TODO **Solution**
 				- TODO create new migration file utk assign default form setting to existing user
 		- TODO ## New bugs 5
+		  collapsed:: true
 			- TODO `QTM/PO/00266` is not showing in both My and Company PO listing page
 			- TODO **Solution**
 				- TODO
 		- TODO ## New bugs 6
+		  collapsed:: true
 			- TODO Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
 			- TODO **Solution**
 				- TODO remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
 		- TODO ## New bugs 7
+		  collapsed:: true
 			- TODO User manual invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
 		- TODO ## New bugs 8
+		  collapsed:: true
 			- TODO User bulk invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user bulk invite's CSV document
 		- TODO Able to perform **PO form assignment via user profile**
+		  collapsed:: true
 			- TODO Able to perform **PO form assignment via user profile**
 				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
 			- TODO **Solution**
