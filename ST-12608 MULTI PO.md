@@ -7,7 +7,7 @@ collapsed:: true
 			- [ ] Multi draft is not included
 - ##  Deployment Checklist
 	- {{renderer :todomaster}}
-		- LATER pre & post deployment checklist: https://supplycart.atlassian.net/browse/ST-13221
+		- DONE pre & post deployment checklist: https://supplycart.atlassian.net/browse/ST-13221
 		  :LOGBOOK:
 		  CLOCK: [2025-12-28 Sun 17:00:04]--[2025-12-28 Sun 17:01:42] =>  00:01:38
 		  CLOCK: [2025-12-28 Sun 17:01:43]--[2025-12-28 Sun 17:01:48] =>  00:00:05
@@ -20,6 +20,8 @@ collapsed:: true
 		  CLOCK: [2025-12-28 Sun 17:02:02]--[2025-12-28 Sun 17:02:03] =>  00:00:01
 		  CLOCK: [2025-12-28 Sun 20:16:11]--[2025-12-28 Sun 20:16:11] =>  00:00:00
 		  CLOCK: [2025-12-28 Sun 20:16:13]--[2025-12-28 Sun 20:16:13] =>  00:00:00
+		  CLOCK: [2026-01-03 Sat 11:09:19]--[2026-01-03 Sat 11:09:19] =>  00:00:00
+		  CLOCK: [2026-01-03 Sat 11:09:20]--[2026-01-03 Sat 11:09:24] =>  00:00:04
 		  :END:
 - ## Bugs
   collapsed:: true
