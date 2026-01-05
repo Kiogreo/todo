@@ -167,9 +167,10 @@ collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
 		  :END:
-		- DONE https://supplycart.atlassian.net/browse/ST-13271
+		- DONE [#A] https://supplycart.atlassian.net/browse/ST-13271
+			-
 			- PR
-			- https://github.com/supplycart/adam/pull/8037
+				- https://github.com/supplycart/adam/pull/8037
 			- Root cause
 				- missed out feature
 		- DOING https://supplycart.atlassian.net/browse/ST-13272
