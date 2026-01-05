@@ -24,8 +24,8 @@ collapsed:: true
 		  CLOCK: [2026-01-03 Sat 11:09:20]--[2026-01-03 Sat 11:09:24] =>  00:00:04
 		  :END:
 - ## Bugs
-  collapsed:: true
-	- {{renderer :todomaster}}
+	- ### Round 1 {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE Assignment
 			- DONE Migration on form setting **mapping for RFX → PO** default form
 				- DONE Migration was not done
@@ -83,8 +83,11 @@ collapsed:: true
 				- DONEMissing sub‑option for RTN Listing page
 			- DONE Multi PO sub‑option in sidebar consist PI Listing page
 				- DONE Missing sub‑option for PI Listing page
+	-
+-
 - ## New bugs (Round 2)
 	- {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE [[Single PO filter button missing]]
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
@@ -136,7 +139,7 @@ collapsed:: true
 			- TODO User manual invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
-		- TODO ## New bugs 8
+		- DONE ## New bugs 8
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:09:08]--[2026-01-05 Mon 08:09:10] =>  00:00:02
@@ -147,7 +150,7 @@ collapsed:: true
 			- TODO User bulk invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user bulk invite's CSV document
-		- TODO Able to perform **PO form assignment via user profile**
+		- DONE Able to perform **PO form assignment via user profile**
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:10:11]--[2026-01-05 Mon 08:10:11] =>  00:00:00
@@ -157,8 +160,9 @@ collapsed:: true
 			- TODO **Solution**
 				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- TODO Or it could be due to chaching
-		- TODO Able to perform **user assignment via PO form setting**
-			- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
-			- TODO **Solution**
-				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-				- TODO Or it could be due to chaching
+		- DONE Able to perform **user assignment via PO form setting**
+		  collapsed:: true
+			- DONE User still able to access any unassigned PO form in form draft (at form selection stage)
+			- DONE **Solution**
+				- DONE add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
+				- DONE Or it could be due to chaching
