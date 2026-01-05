@@ -169,6 +169,7 @@ collapsed:: true
 		  :END:
 		- TODO https://supplycart.atlassian.net/browse/ST-13271
 			- Root cause
+				- missed out feature
 			- Solution
 		- TODO https://supplycart.atlassian.net/browse/ST-13272
 			- Root cause
