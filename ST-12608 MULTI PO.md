@@ -93,6 +93,7 @@ collapsed:: true
 		  CLOCK: [2025-12-28 Sun 20:15:48]--[2025-12-28 Sun 20:15:49] =>  00:00:01
 		  CLOCK: [2026-01-02 Fri 22:14:12]--[2026-01-02 Fri 22:14:14] =>  00:00:02
 		  CLOCK: [2026-01-02 Fri 22:14:14]--[2026-01-02 Fri 22:14:15] =>  00:00:01
+		  CLOCK: [2026-01-05 Mon 08:08:32]--[2026-01-05 Mon 08:08:32] =>  00:00:00
 		  :END:
 			- TODO Search filter function in My PO listing page is not working
 			- TODO Expected result
