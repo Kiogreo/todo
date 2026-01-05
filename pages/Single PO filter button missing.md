@@ -1,5 +1,5 @@
 - {{renderer :todomaster}}
 	- DONE The filter button should be visible & clickable
 	- DONE Clicking it shoukld displkay filter criteria options
-	- TODO Check Multi PO is working properly
+	- DONE Check Multi PO is working properly
 	-
