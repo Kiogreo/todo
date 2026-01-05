@@ -115,11 +115,13 @@ collapsed:: true
 			- TODO Users are not auto assigned to Default PO form
 			- TODO **Solution**
 				- TODO create new migration file utk assign default form setting to existing user
-		- LATER ## New bugs 5
+		- DONE ## New bugs 5
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:48]--[2026-01-05 Mon 08:08:49] =>  00:00:01
 		  CLOCK: [2026-01-05 Mon 08:09:09]--[2026-01-05 Mon 08:09:09] =>  00:00:00
+		  CLOCK: [2026-01-05 Mon 08:10:04]--[2026-01-05 Mon 08:10:05] =>  00:00:01
+		  CLOCK: [2026-01-05 Mon 08:10:06]--[2026-01-05 Mon 08:10:08] =>  00:00:02
 		  :END:
 			- TODO `QTM/PO/00266` is not showing in both My and Company PO listing page
 			- TODO **Solution**
