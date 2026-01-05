@@ -115,7 +115,7 @@ collapsed:: true
 			- TODO Users are not auto assigned to Default PO form
 			- TODO **Solution**
 				- TODO create new migration file utk assign default form setting to existing user
-		- DONE ## New bugs 5
+		- TODO ## New bugs 5
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:48]--[2026-01-05 Mon 08:08:49] =>  00:00:01
@@ -136,7 +136,7 @@ collapsed:: true
 			- TODO User manual invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
-		- LATER ## New bugs 8
+		- TODO ## New bugs 8
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:09:08]--[2026-01-05 Mon 08:09:10] =>  00:00:02
@@ -149,6 +149,9 @@ collapsed:: true
 				- TODO Add PO form assignation in user bulk invite's CSV document
 		- TODO Able to perform **PO form assignment via user profile**
 		  collapsed:: true
+		  :LOGBOOK:
+		  CLOCK: [2026-01-05 Mon 08:10:11]--[2026-01-05 Mon 08:10:11] =>  00:00:00
+		  :END:
 			- TODO Able to perform **PO form assignment via user profile**
 				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
 			- TODO **Solution**
