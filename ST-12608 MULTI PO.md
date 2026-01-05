@@ -83,12 +83,7 @@ collapsed:: true
 				- DONEMissing sub‑option for RTN Listing page
 			- DONE Multi PO sub‑option in sidebar consist PI Listing page
 				- DONE Missing sub‑option for PI Listing page
-	- ## Round 2 {{renderer :todomaster}}
-		- DONE [[Single PO filter button missing]]
-		  :LOGBOOK:
-		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
-		  :END:
-		- TODO:
+	- ### Round 2 {{renderer :todomaster}}
 		- DONE ## New bugs 1
 		  collapsed:: true
 		  :LOGBOOK:
@@ -98,11 +93,9 @@ collapsed:: true
 		  CLOCK: [2026-01-05 Mon 08:08:32]--[2026-01-05 Mon 08:08:32] =>  00:00:00
 		  CLOCK: [2026-01-05 Mon 08:08:42]--[2026-01-05 Mon 08:08:50] =>  00:00:08
 		  :END:
-			- TODO Search filter function in My PO listing page is not working
-			- TODO Expected result
-				- TODO User able to search based on search option availability
-			- TODO **Solution**
-				- TODO
+			- DONE Search filter function in My PO listing page is not working
+			- DONE Expected result
+				- DONE User able to search based on search option availability
 		- DONE ## **New bugs 2**
 		  collapsed:: true
 			- DONE **Copy button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
@@ -111,9 +104,12 @@ collapsed:: true
 			- DONE **Revise button** for PO always showing hover message of “Copying disabled as the form used has been deleted/deactivated“ even though the form still exist and active
 		- DONE ## New bugs 4
 		  collapsed:: true
-			- TODO Users are not auto assigned to Default PO form
-			- TODO **Solution**
-				- TODO create new migration file utk assign default form setting to existing user
+			- DONE Users are not auto assigned to Default PO form
+			- DONE **Solution**
+				- DONE create new migration file utk assign default form setting to existing user
+				  :LOGBOOK:
+				  CLOCK: [2026-01-05 Mon 08:21:04]--[2026-01-05 Mon 08:21:05] =>  00:00:01
+				  :END:
 		- DONE ## New bugs 5
 		  collapsed:: true
 		  :LOGBOOK:
@@ -125,14 +121,17 @@ collapsed:: true
 			- DONE `QTM/PO/00266` is not showing in both My and Company PO listing page
 		- DONE ## New bugs 6
 		  collapsed:: true
-			- TODO Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
-			- TODO **Solution**
-				- TODO remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
+			- DONE Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
+			- DONE **Solution**
+				- DONE remove mapping to PO for any company that uses RFX configuration of `RQ > RFX > PR > PO` when running the `php artisan multi-po:set-default-po-form-setting-and-mapping`
 		- DONE ## New bugs 7
 		  collapsed:: true
-			- TODO User manual invite should have PO form assignation as per all other modules
-			- TODO **Solution**
-				- TODO Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
+			- DONE User manual invite should have PO form assignation as per all other modules
+			  :LOGBOOK:
+			  CLOCK: [2026-01-05 Mon 08:21:15]--[2026-01-05 Mon 08:21:16] =>  00:00:01
+			  :END:
+			- DONE **Solution**
+				- DONE Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
 		- DONE ## New bugs 8
 		  collapsed:: true
 		  :LOGBOOK:
@@ -141,24 +140,27 @@ collapsed:: true
 		  CLOCK: [2026-01-05 Mon 08:09:11]--[2026-01-05 Mon 08:09:12] =>  00:00:01
 		  CLOCK: [2026-01-05 Mon 08:09:12]--[2026-01-05 Mon 08:09:14] =>  00:00:02
 		  :END:
-			- TODO User bulk invite should have PO form assignation as per all other modules
-			- TODO **Solution**
-				- TODO Add PO form assignation in user bulk invite's CSV document
+			- DONE User bulk invite should have PO form assignation as per all other modules
+			- DONE **Solution**
+				- DONE Add PO form assignation in user bulk invite's CSV document
 		- DONE Able to perform **PO form assignment via user profile**
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:10:11]--[2026-01-05 Mon 08:10:11] =>  00:00:00
 		  :END:
-			- TODO Able to perform **PO form assignment via user profile**
-				- TODO User still able to access any unassigned PO form in form draft (at form selection stage)
-			- TODO **Solution**
-				- TODO add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
-				- TODO Or it could be due to chaching
+			- DONE Able to perform **PO form assignment via user profile**
+				- DONE User still able to access any unassigned PO form in form draft (at form selection stage)
+			- DONE **Solution**
+				- DONE add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
+				- DONE Or it could be due to chaching
 		- DONE Able to perform **user assignment via PO form setting**
 		  collapsed:: true
 			- DONE User still able to access any unassigned PO form in form draft (at form selection stage)
 			- DONE **Solution**
 				- DONE add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- DONE Or it could be due to chaching
-	- ## Post Production
-		-
+	- ### Post Production
+		- DONE [[Single PO filter button missing]]
+		  :LOGBOOK:
+		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
+		  :END:
