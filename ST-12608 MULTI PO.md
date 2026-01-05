@@ -174,11 +174,11 @@ collapsed:: true
 			- Root cause
 				- missed out feature
 		- DOING [#B] https://supplycart.atlassian.net/browse/ST-13272
-		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 09:59:02]--[2026-01-05 Mon 14:33:26] =>  04:34:24
 		  CLOCK: [2026-01-05 Mon 14:33:26]
 		  :END:
 			- PR
 			- Root cause
+-
 -
