@@ -1,11 +1,13 @@
-## Demo
+## Demo {{renderer :todomaster}}
 collapsed:: true
 	- DONE 2025-11-20
-	- TODO Feedback after DEMO
-		- [ ] Not included
-			- [ ] PO Setting not included
-			- [ ] Multi draft is not included
-- ##  Deployment Checklist
+	- DONE Feedback after DEMO
+	  collapsed:: true
+		- Not included
+			- PO Setting not included
+			- Multi draft is not included
+- ##  Deployment Checklist {{renderer :todomaster}}
+  collapsed:: true
 	- {{renderer :todomaster}}
 		- DONE pre & post deployment checklist: https://supplycart.atlassian.net/browse/ST-13221
 		  :LOGBOOK:
@@ -23,7 +25,7 @@ collapsed:: true
 		  CLOCK: [2026-01-03 Sat 11:09:19]--[2026-01-03 Sat 11:09:19] =>  00:00:00
 		  CLOCK: [2026-01-03 Sat 11:09:20]--[2026-01-03 Sat 11:09:24] =>  00:00:04
 		  :END:
-- ## Bugs
+- ## Bugs {{renderer :todomaster}}
 	- ### Round 1 {{renderer :todomaster}}
 	  collapsed:: true
 		- DONE Assignment
@@ -84,6 +86,7 @@ collapsed:: true
 			- DONE Multi PO sub‑option in sidebar consist PI Listing page
 				- DONE Missing sub‑option for PI Listing page
 	- ### Round 2 {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE ## New bugs 1
 		  collapsed:: true
 		  :LOGBOOK:
@@ -159,10 +162,11 @@ collapsed:: true
 			- DONE **Solution**
 				- DONE add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- DONE Or it could be due to chaching
-	- ### Post Production
+	- ### Post Production {{renderer :todomaster}}
 		- DONE [[Single PO filter button missing]]
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
 		  :END:
 		- TODO https://supplycart.atlassian.net/browse/ST-13271
-		-
+		- TODO https://supplycart.atlassian.net/browse/ST-13272
+-
