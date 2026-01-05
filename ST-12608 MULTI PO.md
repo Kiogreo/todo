@@ -85,15 +85,19 @@ collapsed:: true
 				- DONE Missing sub‑option for PI Listing page
 - ## New bugs (Round 2)
 	- {{renderer :todomaster}}
-		- TODO [[Single PO filter button missing]]
+		- DONE [[Single PO filter button missing]]
+		  :LOGBOOK:
+		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
+		  :END:
 		- TODO:
-		- TODO ## New bugs 1
+		- DONE ## New bugs 1
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2025-12-28 Sun 20:15:48]--[2025-12-28 Sun 20:15:49] =>  00:00:01
 		  CLOCK: [2026-01-02 Fri 22:14:12]--[2026-01-02 Fri 22:14:14] =>  00:00:02
 		  CLOCK: [2026-01-02 Fri 22:14:14]--[2026-01-02 Fri 22:14:15] =>  00:00:01
 		  CLOCK: [2026-01-05 Mon 08:08:32]--[2026-01-05 Mon 08:08:32] =>  00:00:00
+		  CLOCK: [2026-01-05 Mon 08:08:42]--[2026-01-05 Mon 08:08:50] =>  00:00:08
 		  :END:
 			- TODO Search filter function in My PO listing page is not working
 			- TODO Expected result
@@ -111,8 +115,12 @@ collapsed:: true
 			- TODO Users are not auto assigned to Default PO form
 			- TODO **Solution**
 				- TODO create new migration file utk assign default form setting to existing user
-		- TODO ## New bugs 5
+		- LATER ## New bugs 5
 		  collapsed:: true
+		  :LOGBOOK:
+		  CLOCK: [2026-01-05 Mon 08:08:48]--[2026-01-05 Mon 08:08:49] =>  00:00:01
+		  CLOCK: [2026-01-05 Mon 08:09:09]--[2026-01-05 Mon 08:09:09] =>  00:00:00
+		  :END:
 			- TODO `QTM/PO/00266` is not showing in both My and Company PO listing page
 			- TODO **Solution**
 				- TODO
@@ -126,8 +134,14 @@ collapsed:: true
 			- TODO User manual invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user manual invite (go to: `Settings` > `Users` > Click on the plus icon `+`)
-		- TODO ## New bugs 8
+		- LATER ## New bugs 8
 		  collapsed:: true
+		  :LOGBOOK:
+		  CLOCK: [2026-01-05 Mon 08:09:08]--[2026-01-05 Mon 08:09:10] =>  00:00:02
+		  CLOCK: [2026-01-05 Mon 08:09:10]--[2026-01-05 Mon 08:09:11] =>  00:00:01
+		  CLOCK: [2026-01-05 Mon 08:09:11]--[2026-01-05 Mon 08:09:12] =>  00:00:01
+		  CLOCK: [2026-01-05 Mon 08:09:12]--[2026-01-05 Mon 08:09:14] =>  00:00:02
+		  :END:
 			- TODO User bulk invite should have PO form assignation as per all other modules
 			- TODO **Solution**
 				- TODO Add PO form assignation in user bulk invite's CSV document
