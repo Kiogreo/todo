@@ -10,6 +10,6 @@
 	  CLOCK: [2026-01-03 Sat 11:08:41]--[2026-01-03 Sat 11:08:42] =>  00:00:01
 	  :END:
 - ## Wiki
-- TODO [#C] [[ST-0 SUPPLYCART WIKI]]
+	- TODO [#C] [[ST-0 SUPPLYCART WIKI]]
 - ## Devops
-- TODO [#B] [[ST-0 automate db initialization & db dumping]]
+	- TODO [#B] [[ST-0 automate db initialization & db dumping]]
