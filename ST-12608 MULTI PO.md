@@ -25,7 +25,7 @@ collapsed:: true
 		  CLOCK: [2026-01-03 Sat 11:09:19]--[2026-01-03 Sat 11:09:19] =>  00:00:00
 		  CLOCK: [2026-01-03 Sat 11:09:20]--[2026-01-03 Sat 11:09:24] =>  00:00:04
 		  :END:
-- ## Bugs {{renderer :todomaster}}
+- ## Bug {{renderer :todomaster}}
 	- ### Round 1 {{renderer :todomaster}}
 	  collapsed:: true
 		- DONE Assignment
