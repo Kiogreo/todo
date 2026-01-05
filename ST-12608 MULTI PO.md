@@ -83,11 +83,7 @@ collapsed:: true
 				- DONEMissing sub‑option for RTN Listing page
 			- DONE Multi PO sub‑option in sidebar consist PI Listing page
 				- DONE Missing sub‑option for PI Listing page
-	-
--
-- ## New bugs (Round 2)
-	- {{renderer :todomaster}}
-	  collapsed:: true
+	- ## Round 2 {{renderer :todomaster}}
 		- DONE [[Single PO filter button missing]]
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
@@ -118,7 +114,7 @@ collapsed:: true
 			- TODO Users are not auto assigned to Default PO form
 			- TODO **Solution**
 				- TODO create new migration file utk assign default form setting to existing user
-		- TODO ## New bugs 5
+		- DONE ## New bugs 5
 		  collapsed:: true
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:48]--[2026-01-05 Mon 08:08:49] =>  00:00:01
@@ -126,9 +122,7 @@ collapsed:: true
 		  CLOCK: [2026-01-05 Mon 08:10:04]--[2026-01-05 Mon 08:10:05] =>  00:00:01
 		  CLOCK: [2026-01-05 Mon 08:10:06]--[2026-01-05 Mon 08:10:08] =>  00:00:02
 		  :END:
-			- TODO `QTM/PO/00266` is not showing in both My and Company PO listing page
-			- TODO **Solution**
-				- TODO
+			- DONE `QTM/PO/00266` is not showing in both My and Company PO listing page
 		- DONE ## New bugs 6
 		  collapsed:: true
 			- TODO Migration on form setting **mapping for RFX → PR**. Currently, RFX form also being auto assigned to PO default form even when using configuration = RQ > RFX > PR > PO
@@ -166,3 +160,5 @@ collapsed:: true
 			- DONE **Solution**
 				- DONE add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- DONE Or it could be due to chaching
+	- ## Post Production
+		-
