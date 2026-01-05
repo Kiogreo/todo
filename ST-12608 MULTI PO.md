@@ -168,13 +168,16 @@ collapsed:: true
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
 		  :END:
 		- DONE [#B] https://supplycart.atlassian.net/browse/ST-13271
+		  collapsed:: true
 			- PR
 				- https://github.com/supplycart/adam/pull/8037
 			- Root cause
 				- missed out feature
 		- DOING [#B] https://supplycart.atlassian.net/browse/ST-13272
+		  collapsed:: true
 		  :LOGBOOK:
-		  CLOCK: [2026-01-05 Mon 09:59:02]
+		  CLOCK: [2026-01-05 Mon 09:59:02]--[2026-01-05 Mon 14:33:26] =>  04:34:24
+		  CLOCK: [2026-01-05 Mon 14:33:26]
 		  :END:
 			- PR
 			- Root cause
