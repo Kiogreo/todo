@@ -168,6 +168,11 @@ collapsed:: true
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
 		  :END:
 		- TODO https://supplycart.atlassian.net/browse/ST-13271
+			- Root cause
+			- Solution
 		- TODO https://supplycart.atlassian.net/browse/ST-13272
+			- Root cause
+			- Solution
+-
 -
 -
