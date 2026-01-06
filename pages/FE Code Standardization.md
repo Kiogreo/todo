@@ -1,4 +1,3 @@
-- #wiki
 - TODO Helper libraries
 - TODO Some codes/components to avoid
 	- `hasPermission()` (resources/js/constants/permissions/index.js)
