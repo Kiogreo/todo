@@ -15,7 +15,3 @@
 - ## Wiki {{renderer :todomaster}}
 	- TODO [#B] [[FE Code Standardization]]
 	- TODO [#C] [[Focussed Section for New Joiner]]
--
-- [[page xdak]]
--
--
