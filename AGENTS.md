@@ -1,0 +1,332 @@
+# AGENTS.md - OpenCode Agent System Guide
+
+## Overview
+
+This is an **OpenCode Agent System** repository - a framework for AI-driven development with plan-first workflows and approval-based execution. This guide helps agentic coding assistants understand the codebase structure, build commands, and coding standards.
+
+---
+
+## Build & Test Commands
+
+### Package Management
+```bash
+# Install dependencies (in .opencode/ directory)
+cd .opencode && npm install
+
+# Or using Bun (preferred runtime)
+cd .opencode && bun install
+```
+
+### TypeScript Compilation
+```bash
+# Type check TypeScript files
+npx tsc --noEmit
+
+# Compile TypeScript (if tsconfig.json exists)
+npx tsc
+```
+
+### Running Tests
+```bash
+# Run all tests (if Jest/Vitest configured)
+npm test
+
+# Run single test file
+npm test -- path/to/test-file.test.ts
+
+# Run tests in watch mode
+npm test -- --watch
+
+# Run specific test by name
+npm test -- -t "test name pattern"
+```
+
+### Linting & Formatting
+```bash
+# Lint TypeScript files (if ESLint configured)
+npx eslint .
+
+# Fix auto-fixable issues
+npx eslint . --fix
+
+# Format with Prettier (if configured)
+npx prettier --write .
+```
+
+### Git Operations
+```bash
+# Use the /commit command for smart commits
+/commit
+
+# Validate repository consistency
+/validate-repo
+```
+
+---
+
+## Project Structure
+
+```
+.opencode/
+├── agent/              # AI agents (category-based organization)
+│   ├── core/          # Core system agents (openagent, opencoder)
+│   ├── meta/          # Meta-level agents (system-builder)
+│   └── subagents/     # Specialized helpers (task-manager, tester, etc.)
+├── command/           # Slash commands (/commit, /test, /optimize)
+├── context/           # Knowledge base for agents
+│   ├── core/         # Essential patterns and standards
+│   └── project/      # Project-specific patterns
+├── plugin/           # Optional extensions (Telegram notifications)
+└── tool/             # Optional tools (Gemini AI image generation)
+
+pages/                # Markdown documentation/notes
+journals/             # Daily journals (Logseq)
+tasks/                # Task management files
+```
+
+---
+
+## Code Style Guidelines
+
+### Language & Runtime
+- **Primary Language:** TypeScript
+- **Runtime:** Node.js / Bun (Bun preferred)
+- **Package Manager:** npm / pnpm / yarn
+
+### Core Philosophy
+**Modular, Functional, Maintainable**
+
+- ✅ **Pure functions** - Same input = same output, no side effects
+- ✅ **Immutability** - Create new data, don't modify existing
+- ✅ **Composition** - Build complex from simple functions
+- ✅ **Small functions** - Keep under 50 lines
+- ✅ **Explicit dependencies** - Use dependency injection
+
+### Imports
+```typescript
+// ✅ Prefer named imports
+import { tool } from "@opencode-ai/plugin/tool"
+import { mkdir } from "fs/promises"
+import { join, dirname, basename } from "path"
+
+// ✅ Group imports logically
+// 1. External packages
+// 2. Internal modules
+// 3. Types/interfaces
+
+// ✅ Use type imports when possible
+import type { Plugin } from "@opencode-ai/plugin"
+```
+
+### Formatting
+- **Indentation:** 2 spaces (no tabs)
+- **Line length:** Aim for 80-100 characters
+- **Semicolons:** Use them consistently
+- **Quotes:** Double quotes for strings
+- **Trailing commas:** Use in multi-line objects/arrays
+
+### Types
+```typescript
+// ✅ Define interfaces for complex types
+interface ImageConfig {
+  outputDir?: string
+  useTimestamp?: boolean
+  preserveOriginal?: boolean
+  customName?: string
+}
+
+// ✅ Use explicit return types for functions
+async function generateImage(prompt: string, config: ImageConfig = {}): Promise<string> {
+  // ...
+}
+
+// ✅ Avoid 'any' - use 'unknown' or proper types
+const data: unknown = JSON.parse(input)
+```
+
+### Naming Conventions
+- **Files:** `lowercase-with-dashes.ts` or `camelCase.ts`
+- **Functions:** `verbPhrases` (getUser, validateEmail, createService)
+- **Predicates:** `isValid`, `hasPermission`, `canAccess`
+- **Variables:** Descriptive names (userCount not uc), use `const` by default
+- **Constants:** `UPPER_SNAKE_CASE`
+- **Classes/Interfaces:** `PascalCase`
+- **Private members:** Prefix with underscore `_privateMethod`
+
+### Error Handling
+```typescript
+// ✅ Explicit error handling with result objects
+function parseJSON(text: string) {
+  try {
+    return { success: true, data: JSON.parse(text) }
+  } catch (error) {
+    return { success: false, error: error.message }
+  }
+}
+
+// ✅ Validate at boundaries
+function createUser(userData: UserData) {
+  const validation = validateUserData(userData)
+  if (!validation.isValid) {
+    return { success: false, errors: validation.errors }
+  }
+  return { success: true, user: saveUser(userData) }
+}
+
+// ✅ Throw for truly exceptional cases
+if (!apiKey) {
+  throw new Error("GEMINI_API_KEY is required")
+}
+```
+
+### Async/Await
+```typescript
+// ✅ Use async/await over promises
+async function fetchData(): Promise<Data> {
+  const response = await fetch(url)
+  return await response.json()
+}
+
+// ✅ Handle errors properly
+async function safeOperation() {
+  try {
+    const result = await riskyOperation()
+    return { success: true, result }
+  } catch (error) {
+    return { success: false, error: error.message }
+  }
+}
+```
+
+### Anti-Patterns to Avoid
+- ❌ **Mutation** - Modifying data in place
+- ❌ **Side effects** - console.log, API calls in pure functions
+- ❌ **Deep nesting** - Use early returns instead
+- ❌ **God modules** - Split into focused modules
+- ❌ **Global state** - Pass dependencies explicitly
+- ❌ **Large functions** - Keep under 50 lines
+
+---
+
+## Agent-Specific Patterns
+
+### Agent Structure (Markdown)
+```markdown
+---
+description: "What this agent does"
+mode: primary|subagent
+tools: [read, edit, bash, task]
+---
+
+# Agent Name
+
+**EXECUTE** this [process] for every [task]:
+
+**1. ACTION** the subject:
+- Specific instruction 1
+- Specific instruction 2
+
+**RULES:**
+- **ALWAYS** [critical requirement]
+- **NEVER** [forbidden action]
+```
+
+### Command Structure
+```markdown
+---
+name: command-name
+agent: target-agent
+---
+
+You are [doing specific task].
+
+**Request:** $ARGUMENTS
+
+**Context Loaded:**
+@.opencode/context/core/essential-patterns.md
+
+Execute [task] now.
+```
+
+### Context Loading
+- Commands load context using `@` references
+- Maximum 4 context files per command (250-450 lines total)
+- Keep context files focused (50-150 lines each)
+
+---
+
+## Testing Guidelines
+
+- Write tests for all new features
+- Use descriptive test names
+- Follow AAA pattern: Arrange, Act, Assert
+- Mock external dependencies
+- Test edge cases and error conditions
+
+---
+
+## Documentation Standards
+
+- Use Markdown for all documentation
+- Keep README files up to date
+- Document complex logic with inline comments
+- Use JSDoc for public APIs
+- Update AGENTS.md when adding new patterns
+
+---
+
+## Security Best Practices
+
+- Never commit API keys or secrets
+- Use environment variables for sensitive data
+- Validate all user inputs
+- Sanitize data before processing
+- Follow principle of least privilege
+- Request approval for destructive operations
+
+---
+
+## Git Workflow
+
+- Use conventional commits format
+- Use `/commit` command for smart commit messages
+- Keep commits atomic and focused
+- Write descriptive commit messages
+- Review changes before committing
+
+---
+
+## Quick Reference
+
+**Start development:**
+```bash
+opencode --agent openagent
+```
+
+**Common commands:**
+- `/commit` - Smart git commits
+- `/test` - Run tests
+- `/optimize` - Code optimization
+- `/clean` - Cleanup operations
+- `/context` - Context management
+
+**Key files to check:**
+- `.opencode/context/core/standards/code.md` - Code standards
+- `.opencode/context/core/standards/tests.md` - Test standards
+- `.opencode/context/project/project-context.md` - Project patterns
+
+---
+
+## Notes for AI Agents
+
+1. **Always load context first** - Check `.opencode/context/` before executing tasks
+2. **Follow approval workflow** - Propose plan → Get approval → Execute
+3. **Validate incrementally** - Test after each significant change
+4. **Delegate when appropriate** - Use subagents for specialized tasks
+5. **Document changes** - Update relevant docs and context files
+6. **Security first** - Never skip validation or approval gates
+
+---
+
+*Last updated: 2026-01-06*
+*Version: 1.0*
