@@ -163,6 +163,7 @@ collapsed:: true
 				- DONE add checking in the PO draft form step 1 (form selection screen) to not allow unassigned user
 				- DONE Or it could be due to chaching
 	- ### Post LIVE {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE [#A] [[Single PO filter button missing]] https://supplycart.atlassian.net/browse/ST-13270
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 08:08:45]--[2026-01-05 Mon 08:08:54] =>  00:00:09
@@ -173,12 +174,9 @@ collapsed:: true
 				- https://github.com/supplycart/adam/pull/8037
 			- Root cause
 				- missed out feature
-		- DOING [#B] https://supplycart.atlassian.net/browse/ST-13272
+		- DONE [#B] https://supplycart.atlassian.net/browse/ST-13272
 		  :LOGBOOK:
 		  CLOCK: [2026-01-05 Mon 09:59:02]--[2026-01-05 Mon 14:33:26] =>  04:34:24
-		  CLOCK: [2026-01-05 Mon 14:33:26]
+		  CLOCK: [2026-01-05 Mon 14:33:26]--[2026-01-06 Tue 16:15:43] =>  25:42:17
 		  :END:
-			- PR
-			- Root cause
--
 -
