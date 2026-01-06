@@ -9,9 +9,9 @@
 	  CLOCK: [2026-01-03 Sat 11:08:11]--[2026-01-03 Sat 11:08:12] =>  00:00:01
 	  CLOCK: [2026-01-03 Sat 11:08:41]--[2026-01-03 Sat 11:08:42] =>  00:00:01
 	  :END:
+- ## Devops {{renderer :todomaster}}
+	- TODO [#B] [[ST-0 automate db initialization & db dumping]]
 - ## Wiki {{renderer :todomaster}}
 	- TODO [#B] [[FE Code Standardization]]
 	- TODO [#C] [[Focussed Section for New Joiner]]
-- ## Devops {{renderer :todomaster}}
-	- TODO [#B] [[ST-0 automate db initialization & db dumping]]
 -
