@@ -7,11 +7,9 @@
 	  logseq.order-list-type:: number
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
 - # Task Breakdown
 	- ## Company & Form Setting Setup {{renderer :todomaster}}
 		- #re-test **Hub/ADAM features page**
-		  collapsed:: true
 			- TODO #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO #q&a What does it mean by this statement? **"Create new PO form setting (for switchover)"**
@@ -138,4 +136,5 @@
 				- #re-test Item information
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
+-
 -
