@@ -131,6 +131,4 @@
 				- #re-test Submission Information
 				- #re-test Item information
 			- #re-test PO PDF Tab
-				-
 			- #re-test Setup Logs
-				-
