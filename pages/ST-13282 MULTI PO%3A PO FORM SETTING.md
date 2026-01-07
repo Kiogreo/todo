@@ -38,7 +38,7 @@
 				  ```
 		- ### Individual PO Form Setting
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
-				- PR
+				- **PR**
 					- TODO `Manual PR -> PO`
 					- TODO `Auto PR -> PO`
 				- RFX
