@@ -9,7 +9,7 @@
 		- PR or RFX Form Settings can be routed to the different PO forms
 			- #### PR
 			  id:: 695dd758-64a5-4891-907c-362e5c70611d
-				- In PR Form Setting, if `Internal Source` is enabled, the `Source Modules`
+				- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
 			- #### RFX
 		- Each PO will have GR & IR form attached
 			- TODO We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
