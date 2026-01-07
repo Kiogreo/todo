@@ -35,6 +35,7 @@
 			- Internal Source
 				- TODO figure out howit work in BE
 			- PO Acceptance
+				- Is this referring to a scenario where vendor2 is
 			- Enable Requestor to access PO Details
 			- Revise & Edit PO
 			- Company PO Page filters
