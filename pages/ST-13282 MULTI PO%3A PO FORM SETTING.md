@@ -5,6 +5,8 @@
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
 	- Reorganise PO Settings
 	  logseq.order-list-type:: number
+		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 - # Task Breakdown
 	- ## Company & Form Setting Setup {{renderer :todomaster}}
