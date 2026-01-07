@@ -38,16 +38,13 @@
 				  ```
 		- ### Individual PO Form Setting
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
-			  collapsed:: true
 				- PR
-				  collapsed:: true
-					- TODO Manual PR -> PO
-					- TODO Auto PR -> PO
+					- TODO `Manual PR -> PO`
+					- TODO `Auto PR -> PO`
 				- RFX
-				  collapsed:: true
-					- TODO RQ > RFX > PR
+					- TODO `RQ > RFX > PR`
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
-					- TODO PR > RFX > PO
+					- TODO `PR > RFX > PO`
 			- #re-test Each PO will have GR & IR form attached
 			  collapsed:: true
 				- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
