@@ -56,7 +56,8 @@
 					- TODO Enable Receiving Invoice Price Update
 					- TODO Enable Goods Return
 			- Advance Payment
-				-
+				- TODO create mailing group
+				- TODO check advance payment flow
 			- EVA settings
 			- (More Settings) button leads to **Form listing Page**
 		- ### Individual setting  page
