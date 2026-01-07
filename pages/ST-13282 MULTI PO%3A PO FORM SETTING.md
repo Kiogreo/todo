@@ -2,24 +2,24 @@
 	- ### Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
-		-
+-
 	- ### Global PO Form Setting
 		-
 	- ### Individual PO Form Setting
-		- **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
+		- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			- #### PR
 			  id:: 695dd758-64a5-4891-907c-362e5c70611d
 				- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
 			- #### RFX
 				-
-		- Each PO will have GR & IR form attached
+		- #re-test Each PO will have GR & IR form attached
 			- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
 				- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
 				- DONE Seems like `PI` listing page does not have CSV export
 			- DONE This will affect the search query within `GR` & `PI` listing page?
 			- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
 			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
-		- Each PO form can be revised or **issued** and sent to a different approval flow
+		- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the word `issued` here are synonymous to `created` PO?
 	- ### Setup Setting
 		- **Hub/ADAM features page**
@@ -28,8 +28,8 @@
 			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
 		- #re-test **Role & Permissions**
 			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
-		- TODO **User Form Assignment**
-			- we already implemented this in existing Multi PO & Single PO
+		- #re-test **User Form Assignment**
+			- TODO we already implemented this in existing Multi PO & Single PO
 			-
 	- ### Reorganise PO Settings
 		- ### Global setting page
