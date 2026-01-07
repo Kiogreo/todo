@@ -73,9 +73,13 @@
 			- #re-test Internal Source
 			  collapsed:: true
 				- TODO figure out how it work in BE
-			- PO Acceptance
+			- collapsed:: true
+			  
+			  PO Acceptance
 				- TODO #q&a Is this referring to a scenario where vendor is accepted?
-			- Enable Requestor to access PO Details
+			- collapsed:: true
+			  
+			  Enable Requestor to access PO Details
 				- TODO #q&a I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- #re-test Revise & Edit PO
 			  collapsed:: true
@@ -108,6 +112,7 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 			- #re-test (More Settings) button leads to **Form listing Page**
+			  collapsed:: true
 				- Form listing page (make sure no other bugs happening since this part has been deployed during Phase 1 of Multi PO)
 				- TODO Create new Form
 				- TODO History Logs
