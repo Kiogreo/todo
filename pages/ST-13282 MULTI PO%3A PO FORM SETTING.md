@@ -15,10 +15,8 @@
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO #q&a What does it mean by this statement? **"Create new PO form setting (for switchover)"**
 		- #re-test **Role & Permissions**
-		  collapsed:: true
 			- TODO #q&a The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
 		- #re-test **User Form Assignment**
-		  collapsed:: true
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
 	  collapsed:: true
