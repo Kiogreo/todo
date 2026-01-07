@@ -1,6 +1,7 @@
 ## Acceptance Criteria
 	- Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
-		- **Global PO Form Setting** page = The current PO Setting page (`Purchase Order: Purchase Orders Settings`) will be considered as .
+		- **Global PO Form Setting** page = The current PO Setting page (`Purchase Order: Purchase Orders Settings`).
+		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
 		- User click on `More Settings` to go into the **Individual PO form setting** page
 	- Global PO Form Setting
 		-
