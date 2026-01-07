@@ -40,13 +40,15 @@
 			- Enable Requestor to access PO Details
 				- TODO I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- Revise & Edit PO
-				- TODO confirm back the flow for the below cases:
-					- Enable Revise PO
-					- Require Approval for Lower Revision Sum
-					- Enable Revise on POs that have GR activity on them
-					- Enable Edit PO
+				- confirm back the flow for the below cases:
+					- TODO Enable Revise PO
+					- TODO Require Approval for Lower Revision Sum
+					- TODO Enable Revise on POs that have GR activity on them
+					- TODO Enable Edit PO
 			- Company PO Page filters
+				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- Closing Po
+				-
 			- Advance Payment
 			- EVA settings
 			- (More Settings) button leads to **Form listing Page**
