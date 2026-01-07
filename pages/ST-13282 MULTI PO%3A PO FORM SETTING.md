@@ -1,5 +1,5 @@
 # Acceptance Criteria
-	- ### Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
+	- ## Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
 - # Task
@@ -16,7 +16,6 @@
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
 		- ### Individual setting  page
-		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 				- #### PR
 					- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
@@ -77,7 +76,6 @@
 						- Form Deletion
 						- Form Name Change
 						- Form Details change
-						-
 - ## Q&A
 	- TODO From ticket`Context` section:
 		- ```
