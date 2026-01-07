@@ -33,6 +33,7 @@
 	- ### Reorganise PO Settings
 		- ### Global setting page
 			- Internal Source
+				- TODO figure out howit work in BE
 			- PO Acceptance
 			- Enable Requestor to access PO Details
 			- Revise & Edit PO
