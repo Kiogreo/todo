@@ -35,7 +35,7 @@
 					- TODO #q&a What does **"for GROUPs"** here is referring to?
 					- TODO #q&a what does it mean by **PO Template**?
 			-
-		- ### Individual setting  page
+		- ### Individual PO Form Setting
 		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			  collapsed:: true
@@ -69,7 +69,7 @@
 				- Form Details change
 		-
 	- ## Reorganise PO Settings
-		- ### Global setting page
+		- ### Global PO Form Setting
 			- #re-test Internal Source
 			  collapsed:: true
 				- TODO figure out how it work in BE
@@ -122,4 +122,4 @@
 					- Form Deletion
 					- Form Name Change
 					- Form Details change
--
+		- ## Individual PO Form Setting
