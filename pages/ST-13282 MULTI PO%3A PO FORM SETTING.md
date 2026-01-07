@@ -18,7 +18,7 @@
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
-			- #qna TODO From ticket`Context` section:
+			- TODO From ticket`Context` section:
 				- ```
 				  Context:
 				  Previous understanding was that within a company, only ONE template for PO is ever used
@@ -27,8 +27,8 @@
 				  
 				  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
 				  ```
-					- TODO What does **"for GROUPs"** here is referring to?
-					- TODO what does it mean by **PO Template**?
+					- TODO #q&a What does **"for GROUPs"** here is referring to?
+					- TODO #q&a what does it mean by **PO Template**?
 			-
 		- ### Individual setting  page
 		  collapsed:: true
