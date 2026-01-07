@@ -7,7 +7,7 @@
 	  logseq.order-list-type:: number
 		-
 - # Task Breakdown
-	- ## Company & Form Setting Setup
+	- ## Company & Form Setting Setup {{renderer :todomaster}}
 		- #re-test **Hub/ADAM features page**
 		  collapsed:: true
 			- TODO #q&a Do we still need to add setting in HUB?
@@ -20,9 +20,10 @@
 		  collapsed:: true
 			- TODO we already implemented this in existing Multi PO & Single PO
 		-
-	- ## Form Setting Splitting
+	- ## Form Setting Splitting {{renderer :todomaster}}
 		- ### Global PO Form Setting
 			- #q&a From ticket`Context` section:
+			  collapsed:: true
 				- ```
 				  Context:
 				  Previous understanding was that within a company, only ONE template for PO is ever used
@@ -38,12 +39,14 @@
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			  collapsed:: true
 				- PR
-					- Manual PR -> PO
-					- Auto PR -> PO
+				  collapsed:: true
+					- TODO Manual PR -> PO
+					- TODO Auto PR -> PO
 				- RFX
-					- RQ > RFX > PR
+				  collapsed:: true
+					- TODO RQ > RFX > PR
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
-					- PR > RFX > PO
+					- TODO PR > RFX > PO
 			- #re-test Each PO will have GR & IR form attached
 			  collapsed:: true
 				- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
