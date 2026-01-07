@@ -24,7 +24,9 @@
 	- ### Setup Setting
 		- **Hub/ADAM features page**
 			- TODO Do we still need to add setting in HUB?
-			- Create new PO form setting (for switchover)
+			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
+		- Role & Permissions
+		-
 	- ### Reorganise PO Settings
 - ## Q&A
 	- TODO From ticket`Context` section:
