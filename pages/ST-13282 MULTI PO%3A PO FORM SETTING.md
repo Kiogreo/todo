@@ -1,6 +1,7 @@
 ## Acceptance Criteria
-	- Split current PO Form Setting in **Global** & Individual PO Form Setting
-	-
+	- Split current PO Form Setting in **Global** & Individual PO Form Setting.
+		- The current
+		- User click on `More Settings` to go into the **Individual PO form setting** page
 	- Global PO Form Setting
 		-
 	- Individual PO Form Setting
