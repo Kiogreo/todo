@@ -17,7 +17,9 @@
 			  collapsed:: true
 				- A: `switchover` here means when we switch from partial Multi PO implementation into full Multi PO implementation throughout **ADAM**
 		- #re-test **Role & Permissions**
-			- TODO #q&a The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
+			- DONE #q&a The **"remain the same"** here means that all single PO's exis``ting permission applies to multi PO, right?
+			  collapsed:: true
+				- A: the **Remain the same** statement under the **Roles & Permissions** means that all Multi PO’s permission shares the same permission as existing Single PO
 		- #re-test **User Form Assignment**
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
