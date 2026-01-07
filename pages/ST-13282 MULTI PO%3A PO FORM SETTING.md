@@ -18,6 +18,7 @@
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
+		  collapsed:: true
 			- From ticket`Context` section:
 				- ```
 				  Context:
@@ -41,18 +42,22 @@
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
 					- PR > RFX > PO
 			- #re-test Each PO will have GR & IR form attached
+			  collapsed:: true
 				- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
 				  collapsed:: true
 					- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
 					- DONE Seems like `PI` listing page does not have CSV export
-				- DONE This will affect the search query within `GR` & `PI` listing page?
-				- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
-				- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
+				- DONE #q&a This will affect the search query within `GR` & `PI` listing page?
+				- DONE #q&a Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
+				- DONE #q&a We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
-				- TODO Does the word `issued` here are synonymous to `created` PO?
-			- Create new Form
+			  collapsed:: true
+				- TODO #q&a Does the word `issued` here are synonymous to `created` PO?
+			- #re-test Create new Form
+			  collapsed:: true
 				- Type of PO form
-			- History Logs
+			- #re-test History Logs
+			  collapsed:: true
 				- Form Creation
 				- Form Deletion
 				- Form Name Change
