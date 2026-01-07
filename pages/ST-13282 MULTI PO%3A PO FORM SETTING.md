@@ -1,4 +1,6 @@
-- Acceptance Criteria
+## Acceptance Criteria
+	- Split current PO Form Setting in **Global** & Individual PO Form Setting
+	-
 	- Global PO Form Setting
 		-
 	- Individual PO Form Setting
