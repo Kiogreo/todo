@@ -1,6 +1,6 @@
 ## Acceptance Criteria
-	- Split current PO Form Setting in **Global** & Individual PO Form Setting.
-		- The current
+	- Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
+		- The current PO Setting page (`Purchase Order: Purchase Orders Settings`)
 		- User click on `More Settings` to go into the **Individual PO form setting** page
 	- Global PO Form Setting
 		-
