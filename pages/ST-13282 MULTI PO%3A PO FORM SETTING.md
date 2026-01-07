@@ -37,7 +37,7 @@
 			- PO Acceptance
 				- TODO Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
-				- TODO I guess it means to
+				- TODO I guess it means that the user who created RQ should be able to access PO details even without loging in 1s
 			- Revise & Edit PO
 			- Company PO Page filters
 			- Closing Po
