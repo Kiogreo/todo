@@ -21,7 +21,10 @@
 			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 		- Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the word `issued` here are synonymous to `created` PO?
-	- ###
+	- ### Setup Setting
+		- **Hub/ADAM features page**
+			- TODO Do we still need to add setting in HUB?
+			- Create new PO form setting (for switchover)
 	- ### Reorganise PO Settings
 - ## Q&A
 	- TODO From ticket`Context` section:
