@@ -3,7 +3,8 @@
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
-	- ## Reorganise PO Settings
+	- Reorganise PO Settings
+	  logseq.order-list-type:: number
 		-
 - # Task Breakdown
 	- ## Setup Setting
