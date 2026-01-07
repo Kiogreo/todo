@@ -19,7 +19,7 @@
 			- TODO Does the word `issued` here are synonymous to `created` PO?
 			-
 - ## Q&A
-	- From ticket`Context` section:
+	- TODO From ticket`Context` section:
 		- ```
 		  Context:
 		  Previous understanding was that within a company, only ONE template for PO is ever used
@@ -28,3 +28,4 @@
 		  
 		  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
 		  ```
+			- TODO What does **for GROUPs** here is referring to?
