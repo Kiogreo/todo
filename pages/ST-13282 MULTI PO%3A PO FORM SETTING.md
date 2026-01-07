@@ -71,7 +71,6 @@
 	- ## Reorganise PO Settings
 		- ### Form Listing Page
 			- #re-test **Form listing Page** (deployed during Phase 1 of Multi PO)
-			  collapsed:: true
 				- TODO Create new Form
 				- TODO History Logs
 				  collapsed:: true
@@ -80,6 +79,7 @@
 					- Form Deletion
 					- Form Name Change
 					- Form Details change
+				-
 		- ### Global PO Form Setting
 			- #re-test Internal Source
 			  collapsed:: true
