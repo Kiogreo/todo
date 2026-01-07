@@ -12,6 +12,9 @@
 			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
 		- #re-test **User Form Assignment**
 			- TODO we already implemented this in existing Multi PO & Single PO
+	-
+	- ## Form Setting Splitting
+	-
 	- ## Global PO Form Setting
 		-
 	- ## Individual PO Form Setting
@@ -70,6 +73,20 @@
 						- Form Details change
 						-
 		- ### Individual setting  page
+			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
+				- #### PR
+					- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
+				- #### RFX
+					-
+			- #re-test Each PO will have GR & IR form attached
+				- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
+					- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
+					- DONE Seems like `PI` listing page does not have CSV export
+				- DONE This will affect the search query within `GR` & `PI` listing page?
+				- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
+				- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
+			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
+				- TODO Does the word `issued` here are synonymous to `created` PO?
 			- Create new Form
 				- Type of PO form
 			- History Logs
