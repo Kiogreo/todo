@@ -60,6 +60,7 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 			- (More Settings) button leads to **Form listing Page**
+				- TODO confirm that it should be showing the form setting listing page
 		- ### Individual setting  page
 			- Create new Form
 				- Type of PO form
