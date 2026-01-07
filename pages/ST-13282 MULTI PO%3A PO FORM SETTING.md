@@ -26,10 +26,11 @@
 			- TODO Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
-		- Role & Permissions
+		- **Role & Permissions**
 			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
-		- TODO User Form Assignment (we already implemented this in existing Multi PO & Single PO)
-			- So, should be no issue
+		- TODO **User Form Assignment**
+			- we already implemented this in existing Multi PO & Single PO
+			-
 	- ### Reorganise PO Settings
 		- ### Global setting page
 			- Internal Source
@@ -39,9 +40,11 @@
 			- Enable Requestor to access PO Details
 				- TODO I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- Revise & Edit PO
-				- TODO confirm back the flow for both **REVISE**
-				- Current test cases
-					-
+				- TODO confirm back the flow for the below cases:
+					- Enable Revise PO
+					- Require Approval for Lower Revision Sum
+					- Enable Revise on POs that have GR activity on them
+					- Enable Edit PO
 			- Company PO Page filters
 			- Closing Po
 			- Advance Payment
