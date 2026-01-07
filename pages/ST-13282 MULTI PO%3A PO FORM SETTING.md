@@ -3,4 +3,6 @@
 - Individual PO Form Setting
 	- Output
 		- Each PO have GR & IR form attached
-		- `Each PO form can be revised or issued and sent to a different approval flow`
+		- Each PO form can be revised or **issued** and sent to a different approval flow
+			- TODO Does the `issued` here are refferring to create PO
+			-
