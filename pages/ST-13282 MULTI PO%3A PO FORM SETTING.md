@@ -40,7 +40,7 @@
 				- TODO I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- Revise & Edit PO
 				- TODO confirm back the flow for both **REVISE**
-				- TODO find out the possible
+				- TODO find out the possible flow or cases I need to
 			- Company PO Page filters
 			- Closing Po
 			- Advance Payment
