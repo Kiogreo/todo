@@ -8,7 +8,8 @@
 	- Individual PO Form Setting
 		- PR or RFX Form Settings can be routed to the different PO forms
 		- Each PO will have GR & IR form attached
-			- TODO This will affect the
+			- TODO This will affect the query & filter within `Good Returns` & `Purchase Invoice` listing page
+			- TODO Do we need to add filter
 		- Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the `issued` here are refferring to create PO
 			-
