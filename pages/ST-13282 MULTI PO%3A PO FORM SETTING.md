@@ -37,9 +37,9 @@
 			- PO Acceptance
 				- TODO Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
-				- TODO I guess it means that the user who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
+				- TODO I guess it means that the user (in this case, ) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- Revise & Edit PO
-				-
+				- TODO confirm back the flow that I should
 			- Company PO Page filters
 			- Closing Po
 			- Advance Payment
