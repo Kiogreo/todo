@@ -7,7 +7,7 @@
 	  logseq.order-list-type:: number
 		-
 - # Task Breakdown
-	- ## Setup Setting
+	- ## Company & Form Setting Setup
 		- #re-test **Hub/ADAM features page**
 		  collapsed:: true
 			- TODO #q&a Do we still need to add setting in HUB?
@@ -69,7 +69,10 @@
 				- Form Details change
 		-
 	- ## Reorganise PO Settings
+		- ### Form Listing Page
+			-
 		- ### Global PO Form Setting
+		  collapsed:: true
 			- #re-test Internal Source
 			  collapsed:: true
 				- TODO figure out how it work in BE
@@ -122,5 +125,6 @@
 					- Form Deletion
 					- Form Name Change
 					- Form Details change
-		- ## Individual PO Form Setting
+		- ### Individual PO Form Setting
+		  collapsed:: true
 			-
