@@ -67,8 +67,7 @@
 				- Form Details change
 	- ## Reorganise PO Settings {{renderer :todomaster}}
 		- ### Form Listing Page
-			- #re-test **Form listing Page** (deployed during Phase 1 of Multi PO)
-			  collapsed:: true
+			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- TODO Create new Form
 				- TODO History Logs
 					- Form Creation
