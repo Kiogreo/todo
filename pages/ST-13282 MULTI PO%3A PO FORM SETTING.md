@@ -1,11 +1,20 @@
-## Acceptance Criteria
+# Acceptance Criteria
 	- ### Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
--
-	- ### Global PO Form Setting
+- # Task
+	- ## Setup Setting
+		- **Hub/ADAM features page**
+			- TODO Do we still need to add setting in HUB?
+				- We already implemented the feature flag without using HUB at the moment
+			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
+		- #re-test **Role & Permissions**
+			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
+		- #re-test **User Form Assignment**
+			- TODO we already implemented this in existing Multi PO & Single PO
+	- ## Global PO Form Setting
 		-
-	- ### Individual PO Form Setting
+	- ## Individual PO Form Setting
 		- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			- #### PR
 			  id:: 695dd758-64a5-4891-907c-362e5c70611d
@@ -21,16 +30,6 @@
 			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 		- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the word `issued` here are synonymous to `created` PO?
-	- ### Setup Setting
-		- **Hub/ADAM features page**
-			- TODO Do we still need to add setting in HUB?
-				- We already implemented the feature flag without using HUB at the moment
-			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
-		- #re-test **Role & Permissions**
-			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
-		- #re-test **User Form Assignment**
-			- TODO we already implemented this in existing Multi PO & Single PO
-			-
 	- ### Reorganise PO Settings
 		- ### Global setting page
 			- #re-test Internal Source
