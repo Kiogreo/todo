@@ -7,6 +7,7 @@
 	  logseq.order-list-type:: number
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
+	-
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 		- #re-test **Hub/ADAM features page**
@@ -111,9 +112,7 @@
 				- TODO Enable Invoice Received Closing
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
-			- collapsed:: true
-			  
-			  Advance Payment
+			- Advance Payment
 				- TODO create mailing group
 				- TODO check advance payment flow
 			- collapsed:: true
