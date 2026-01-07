@@ -32,6 +32,7 @@
 			-
 		- ### Individual setting  page
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
+			  collapsed:: true
 				- PR
 					- Manual PR -> PO
 					- Auto PR -> PO
@@ -40,7 +41,8 @@
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
 					- PR > RFX > PO
 			- #re-test Each PO will have GR & IR form attached
-				- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
+				- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
+				  collapsed:: true
 					- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
 					- DONE Seems like `PI` listing page does not have CSV export
 				- DONE This will affect the search query within `GR` & `PI` listing page?
