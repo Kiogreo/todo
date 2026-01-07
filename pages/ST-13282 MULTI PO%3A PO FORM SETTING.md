@@ -8,8 +8,7 @@
 		-
 - # Task Breakdown
 	- ## Setup Setting
-	  collapsed:: true
-		- **Hub/ADAM features page**
+		- #re-test **Hub/ADAM features page**
 			- TODO Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
@@ -18,9 +17,8 @@
 		- #re-test **User Form Assignment**
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## Form Setting Splitting
-	  collapsed:: true
 		- ### Global PO Form Setting
-			- TODO From ticket`Context` section:
+			- #qna TODO From ticket`Context` section:
 				- ```
 				  Context:
 				  Previous understanding was that within a company, only ONE template for PO is ever used
@@ -57,7 +55,6 @@
 				- Form Details change
 		-
 	- ## Reorganise PO Settings
-	  collapsed:: true
 		- ### Global setting page
 			- #re-test Internal Source
 				- TODO figure out how it work in BE
