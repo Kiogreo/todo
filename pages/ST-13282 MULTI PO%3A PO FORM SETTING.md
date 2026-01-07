@@ -28,8 +28,11 @@
 			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
 		- Role & Permissions
 			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
-		- User Form Assignment (we already implemented this )
+		- TODO User Form Assignment (we already implemented this in existing Multi PO & Single PO)
+			- So, should be no issue
 	- ### Reorganise PO Settings
+		- Global setting page
+		- Individual setting  page
 - ## Q&A
 	- TODO From ticket`Context` section:
 		- ```
