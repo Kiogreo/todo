@@ -63,7 +63,7 @@
 				- TODO confirm that it should be showing the form setting listing page
 				- Form listing page
 					- TODO Create new Form
-					- TODO History Logs
+					- TODO History Logs (make sure no other bugs happening since this part has been )
 						- Form Creation
 						  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
 						- Form Deletion
