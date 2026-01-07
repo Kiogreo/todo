@@ -122,6 +122,7 @@
 		- ### Individual PO Form Setting
 			- Form Setting Tab
 				- Auto PO
+					- moved from
 				- Auto PO Email
 				- PO T&C
 				- PO Email Text
@@ -132,3 +133,4 @@
 				- #re-test Item information
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
+-
