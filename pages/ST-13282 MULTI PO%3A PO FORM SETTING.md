@@ -5,7 +5,6 @@
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
 	- Reorganise PO Settings
 	  logseq.order-list-type:: number
-		-
 - # Task Breakdown
 	- ## Company & Form Setting Setup {{renderer :todomaster}}
 		- #re-test **Hub/ADAM features page**
@@ -19,7 +18,6 @@
 		- #re-test **User Form Assignment**
 		  collapsed:: true
 			- TODO we already implemented this in existing Multi PO & Single PO
-		-
 	- ## Form Setting Splitting {{renderer :todomaster}}
 		- ### Global PO Form Setting
 			- #q&a From ticket`Context` section:
@@ -34,7 +32,6 @@
 				  ```
 					- TODO What does **"for GROUPs"** here is referring to?
 					- TODO What does it mean by **PO Template** (is it **Form Setting**)?
-			-
 		- ### Individual PO Form Setting
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			  collapsed:: true
@@ -68,8 +65,7 @@
 				- Form Deletion
 				- Form Name Change
 				- Form Details change
-		-
-	- ## Reorganise PO Settings
+	- ## Reorganise PO Settings {{renderer :todomaster}}
 		- ### Form Listing Page
 			- #re-test **Form listing Page** (deployed during Phase 1 of Multi PO)
 			  collapsed:: true
