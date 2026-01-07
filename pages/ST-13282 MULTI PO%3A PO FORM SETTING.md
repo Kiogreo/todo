@@ -24,9 +24,11 @@
 	- ### Setup Setting
 		- **Hub/ADAM features page**
 			- TODO Do we still need to add setting in HUB?
+				- We already implemented
 			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
 		- Role & Permissions
-		-
+			- The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
+		- User Form Assignment
 	- ### Reorganise PO Settings
 - ## Q&A
 	- TODO From ticket`Context` section:
