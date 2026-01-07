@@ -64,11 +64,11 @@
 				- Form listing page
 					- TODO Create new Form
 					- TODO History Logs
-						- TODO Form Creation
+						- Form Creation
 						  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
-						- TODO Form Creation
-						- TODO Form Creation
-						- TODO Form Creation
+						- Form Deletion
+						- Form Name Change
+						- Form Details change
 						-
 		- ### Individual setting  page
 			- Create new Form
