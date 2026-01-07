@@ -3,7 +3,7 @@
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
 		-
-- # Task
+- # Task Breakdown
 	- ## Setup Setting
 		- **Hub/ADAM features page**
 			- TODO Do we still need to add setting in HUB?
@@ -16,7 +16,22 @@
 	-
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
+			- TODO From ticket`Context` section:
+				- ```
+				  Context:
+				  Previous understanding was that within a company, only ONE template for PO is ever used
+				  
+				  However, from our understanding, for GROUPs, each company may have a different PO template. Also, within a single company, there can be multiple PO types.
+				  
+				  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
+				  ```
+					- TODO What does **"for GROUPs"** here is referring to?
+					- TODO what does it mean by **PO Template**?
+					-
+					-
+			-
 		- ### Individual setting  page
+		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 				- #### PR
 					- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
