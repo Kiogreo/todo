@@ -35,8 +35,9 @@
 			- Internal Source
 				- TODO figure out howit work in BE
 			- PO Acceptance
-				- Is this referring to a scenario where vendor is accepted
+				- TODO Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
+				- TODO I guess it means to
 			- Revise & Edit PO
 			- Company PO Page filters
 			- Closing Po
