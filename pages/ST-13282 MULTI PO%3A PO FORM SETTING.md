@@ -26,27 +26,27 @@
 			- TODO Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO What does it mean by this statement? **"Create new PO form setting (for switchover)"**
-		- **Role & Permissions**
+		- #re-test **Role & Permissions**
 			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
 		- TODO **User Form Assignment**
 			- we already implemented this in existing Multi PO & Single PO
 			-
 	- ### Reorganise PO Settings
 		- ### Global setting page
-			- Internal Source #re-test
+			- #re-test Internal Source
 				- TODO figure out how it work in BE
 			- PO Acceptance
 				- TODO Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
 				- TODO I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
-			- Revise & Edit PO
+			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
 				- TODO Enable Revise on POs that have GR activity on them
 				- TODO Enable Edit PO
-			- Company PO Page filters
+			- #re-test Company PO Page filters
 				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
-			- Closing Po
+			- #re-test Closing Po
 				- TODO Enable Goods Received Closing
 				- TODO Enable Extra Receiving Quantity
 				- TODO Enable FOC Quantities
@@ -59,7 +59,7 @@
 			- EVA settings
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
-			- (More Settings) button leads to **Form listing Page**
+			- #re-test (More Settings) button leads to **Form listing Page**
 				- TODO confirm that it should be showing the form setting listing page
 				- Form listing page (make sure no other bugs happening since this part has been deployed during Phase 1 of Multi PO)
 					- TODO Create new Form
