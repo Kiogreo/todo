@@ -13,12 +13,12 @@
 			- #### RFX
 				-
 		- Each PO will have GR & IR form attached
-			- TODO We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
-				- TODO If yes, then  Export Submission CSV should also be affected since we need to add a new column
+			- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
+				- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
 				- TODO Seems like `PI` listing page does not have CSV export
-			- TODO This will affect the search query within `GR` & `PI` listing page?
-			- TODO Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
-			- TODO We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
+			- DONE This will affect the search query within `GR` & `PI` listing page?
+			- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
+			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 		- Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the word `issued` here are synonymous to `created` PO?
 			-
@@ -33,5 +33,6 @@
 		  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
 		  ```
 			- TODO What does **"for GROUPs"** here is referring to?
-			- /todo what does it mean by **PO Template**?
+			- TODO what does it mean by **PO Template**?
+			-
 			-
