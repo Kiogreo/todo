@@ -13,12 +13,12 @@
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO #q&a What does it mean by this statement? **"Create new PO form setting (for switchover)"**
 		- #re-test **Role & Permissions**
-			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
+			- TODO #q&a The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
 		- #re-test **User Form Assignment**
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
-			- TODO From ticket`Context` section:
+			- From ticket`Context` section:
 				- ```
 				  Context:
 				  Previous understanding was that within a company, only ONE template for PO is ever used
@@ -31,11 +31,8 @@
 					- TODO #q&a what does it mean by **PO Template**?
 			-
 		- ### Individual setting  page
-		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
-				- #### PR
-					- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
-				- #### RFX
+				- RFX
 					-
 			- #re-test Each PO will have GR & IR form attached
 				- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
