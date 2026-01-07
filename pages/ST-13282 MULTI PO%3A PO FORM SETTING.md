@@ -1,2 +1,6 @@
 - Global PO Form Setting
-- Individual
+	-
+- Individual PO Form Setting
+	- Output
+		- Each PO have GR & IR form attached
+		- `Each PO form can be revised or issued and sent to a different approval flow`
