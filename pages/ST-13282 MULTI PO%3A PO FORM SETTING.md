@@ -1,12 +1,12 @@
 ## Acceptance Criteria
-	- Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
+	- ### Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
 		-
-	- Global PO Form Setting
+	- ### Global PO Form Setting
 		-
 		-
-	- Individual PO Form Setting
+	- ### Individual PO Form Setting
 		- PR or RFX Form Settings can be routed to the different PO forms
 		- Each PO will have GR & IR form attached
 			- TODO We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
@@ -28,4 +28,5 @@
 		  
 		  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
 		  ```
-			- TODO What does **for GROUPs** here is referring to?
+			- TODO What does **"for GROUPs"** here is referring to?
+			-
