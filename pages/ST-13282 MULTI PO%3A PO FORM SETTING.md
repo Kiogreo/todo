@@ -33,8 +33,8 @@
 			-
 	- ### Reorganise PO Settings
 		- ### Global setting page
-			- Internal Source
-				- TODO figure out howit work in BE
+			- Internal Source #re-test
+				- TODO figure out how it work in BE
 			- PO Acceptance
 				- TODO Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
