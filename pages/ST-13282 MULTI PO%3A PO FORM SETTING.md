@@ -70,10 +70,10 @@
 		-
 	- ## Reorganise PO Settings
 		- ### Form Listing Page
-			- #re-test **Form listing Page**
-				- Form listing page (make sure no other bugs happening since this part has been deployed during Phase 1 of Multi PO)
+			- #re-test **Form listing Page** (deployed during Phase 1 of Multi PO)
 				- TODO Create new Form
 				- TODO History Logs
+				  collapsed:: true
 					- Form Creation
 					  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
 					- Form Deletion
