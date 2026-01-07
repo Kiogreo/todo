@@ -61,9 +61,9 @@
 				- TODO Notify Users when Vendor Uploads Invoice
 			- (More Settings) button leads to **Form listing Page**
 				- TODO confirm that it should be showing the form setting listing page
-				- Form listing page
+				- Form listing page (make sure no other bugs happening since this part has been deployed during Phase 1)
 					- TODO Create new Form
-					- TODO History Logs (make sure no other bugs happening since this part has been )
+					- TODO History Logs
 						- Form Creation
 						  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
 						- Form Deletion
