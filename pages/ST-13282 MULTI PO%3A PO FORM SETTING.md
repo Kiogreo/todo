@@ -30,7 +30,7 @@
 			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 		- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the word `issued` here are synonymous to `created` PO?
-	- ### Reorganise PO Settings
+	- ## Reorganise PO Settings
 		- ### Global setting page
 			- #re-test Internal Source
 				- TODO figure out how it work in BE
