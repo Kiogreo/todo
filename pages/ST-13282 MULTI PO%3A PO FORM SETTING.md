@@ -14,25 +14,31 @@
 			- TODO we already implemented this in existing Multi PO & Single PO
 	-
 	- ## Form Setting Splitting
-	-
-	- ## Global PO Form Setting
+		- ### Global PO Form Setting
+		- ### Individual setting  page
+		  collapsed:: true
+			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
+				- #### PR
+					- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
+				- #### RFX
+					-
+			- #re-test Each PO will have GR & IR form attached
+				- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
+					- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
+					- DONE Seems like `PI` listing page does not have CSV export
+				- DONE This will affect the search query within `GR` & `PI` listing page?
+				- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
+				- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
+			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
+				- TODO Does the word `issued` here are synonymous to `created` PO?
+			- Create new Form
+				- Type of PO form
+			- History Logs
+				- Form Creation
+				- Form Deletion
+				- Form Name Change
+				- Form Details change
 		-
-	- ## Individual PO Form Setting
-		- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
-			- #### PR
-			  id:: 695dd758-64a5-4891-907c-362e5c70611d
-				- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
-			- #### RFX
-				-
-		- #re-test Each PO will have GR & IR form attached
-			- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
-				- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
-				- DONE Seems like `PI` listing page does not have CSV export
-			- DONE This will affect the search query within `GR` & `PI` listing page?
-			- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
-			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
-		- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
-			- TODO Does the word `issued` here are synonymous to `created` PO?
 	- ## Reorganise PO Settings
 		- ### Global setting page
 			- #re-test Internal Source
@@ -72,28 +78,6 @@
 						- Form Name Change
 						- Form Details change
 						-
-		- ### Individual setting  page
-			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
-				- #### PR
-					- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
-				- #### RFX
-					-
-			- #re-test Each PO will have GR & IR form attached
-				- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
-					- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
-					- DONE Seems like `PI` listing page does not have CSV export
-				- DONE This will affect the search query within `GR` & `PI` listing page?
-				- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
-				- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
-			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
-				- TODO Does the word `issued` here are synonymous to `created` PO?
-			- Create new Form
-				- Type of PO form
-			- History Logs
-				- Form Creation
-				- Form Deletion
-				- Form Name Change
-				- Form Details change
 - ## Q&A
 	- TODO From ticket`Context` section:
 		- ```
