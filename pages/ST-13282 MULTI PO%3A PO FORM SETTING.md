@@ -120,5 +120,11 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Individual PO Form Setting
-			- 4 new tabs
-				- Form Setting
+			- Form Setting Tab
+				-
+			- #re-test Form Fields Tab
+				-
+			- #re-test PO PDF Tab
+				-
+			- #re-test Setup Logs
+				-
