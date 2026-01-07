@@ -14,6 +14,7 @@
 			- TODO #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
 			- DONE #q&a What does it mean by this statement? **"Create new PO form setting (for switchover)"**
+			  collapsed:: true
 				- A: `switchover` here means when we switch from partial Multi PO implementation into full Multi PO implementation throughout **ADAM**
 		- #re-test **Role & Permissions**
 			- TODO #q&a The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
