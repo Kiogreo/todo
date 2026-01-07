@@ -9,13 +9,17 @@
 - # Task Breakdown
 	- ## Setup Setting
 		- #re-test **Hub/ADAM features page**
+		  collapsed:: true
 			- TODO #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
 			- TODO #q&a What does it mean by this statement? **"Create new PO form setting (for switchover)"**
 		- #re-test **Role & Permissions**
+		  collapsed:: true
 			- TODO #q&a The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
 		- #re-test **User Form Assignment**
+		  collapsed:: true
 			- TODO we already implemented this in existing Multi PO & Single PO
+		-
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
 		  collapsed:: true
@@ -32,6 +36,7 @@
 					- TODO #q&a what does it mean by **PO Template**?
 			-
 		- ### Individual setting  page
+		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			  collapsed:: true
 				- PR
@@ -66,16 +71,20 @@
 	- ## Reorganise PO Settings
 		- ### Global setting page
 			- #re-test Internal Source
+			  collapsed:: true
 				- TODO figure out how it work in BE
 			- PO Acceptance
-				- TODO Is this referring to a scenario where vendor is accepted?
+				- TODO #q&a Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
-				- TODO I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
+				- TODO #q&a I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
 				- TODO Enable Revise on POs that have GR activity on them
-				- TODO Enable Edit PO
+				- DOING Enable Edit PO
+				  :LOGBOOK:
+				  CLOCK: [2026-01-07 Wed 16:07:55]
+				  :END:
 			- #re-test Company PO Page filters
 				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
