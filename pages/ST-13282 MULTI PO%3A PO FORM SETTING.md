@@ -8,8 +8,9 @@
 	- Individual PO Form Setting
 		- PR or RFX Form Settings can be routed to the different PO forms
 		- Each PO will have GR & IR form attached
-			- TODO This will affect the search query within `Good Returns` & `Purchase Invoice` listing page?
-			- TODO Do we need to add filter dropdown for PO Form Setting within  `Good Returns` & `Purchase invoices` listing page?
+			- TODO We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI)` similar to the `My Purchase Orders` & `Company Purchase Order`
+			- TODO This will affect the search query within `Good Received` & `Purchase Invoice` listing page?
+			- TODO Do we need to add filter dropdown for PO Form Setting within  `Good Received` & `Purchase invoices` listing page?
 		- Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the `issued` here are refferring to create PO
 			-
