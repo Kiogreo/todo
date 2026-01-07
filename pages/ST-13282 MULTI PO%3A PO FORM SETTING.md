@@ -1,10 +1,13 @@
 # Acceptance Criteria
-	- ## Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
+	- Split current PO Form Setting in **Global** & **Individual** PO Form Setting.
+	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
 		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
-		-
+-
+	-
 - # Task Breakdown
 	- ## Setup Setting
+	  collapsed:: true
 		- **Hub/ADAM features page**
 			- TODO Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
@@ -15,6 +18,7 @@
 			- TODO we already implemented this in existing Multi PO & Single PO
 	-
 	- ## Form Setting Splitting
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- TODO From ticket`Context` section:
 				- ```
@@ -27,8 +31,6 @@
 				  ```
 					- TODO What does **"for GROUPs"** here is referring to?
 					- TODO what does it mean by **PO Template**?
-					-
-					-
 			-
 		- ### Individual setting  page
 		  collapsed:: true
@@ -54,7 +56,9 @@
 				- Form Name Change
 				- Form Details change
 		-
+	-
 	- ## Reorganise PO Settings
+	  collapsed:: true
 		- ### Global setting page
 			- #re-test Internal Source
 				- TODO figure out how it work in BE
@@ -92,17 +96,3 @@
 						- Form Deletion
 						- Form Name Change
 						- Form Details change
-- ## Q&A
-	- TODO From ticket`Context` section:
-		- ```
-		  Context:
-		  Previous understanding was that within a company, only ONE template for PO is ever used
-		  
-		  However, from our understanding, for GROUPs, each company may have a different PO template. Also, within a single company, there can be multiple PO types.
-		  
-		  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
-		  ```
-			- TODO What does **"for GROUPs"** here is referring to?
-			- TODO what does it mean by **PO Template**?
-			-
-			-
