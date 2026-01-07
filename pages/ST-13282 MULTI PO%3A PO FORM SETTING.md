@@ -18,5 +18,13 @@
 		- Each PO form can be revised or **issued** and sent to a different approval flow
 			- TODO Does the word `issued` here are synonymous to `created` PO?
 			-
-			-
--
+- ## Q&A
+	- From ticket`Context` section:
+		- ```
+		  Context:
+		  Previous understanding was that within a company, only ONE template for PO is ever used
+		  
+		  However, from our understanding, for GROUPs, each company may have a different PO template. Also, within a single company, there can be multiple PO types.
+		  
+		  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
+		  ```
