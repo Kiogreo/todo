@@ -21,6 +21,7 @@
 		  collapsed:: true
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 			  collapsed:: true
@@ -68,6 +69,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Form Listing Page
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 			  collapsed:: true
