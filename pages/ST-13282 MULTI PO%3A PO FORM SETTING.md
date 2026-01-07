@@ -17,7 +17,6 @@
 			- TODO The **"remain the same"** here means that all single PO's existing permission applies to multi PO, right?
 		- #re-test **User Form Assignment**
 			- TODO we already implemented this in existing Multi PO & Single PO
-	-
 	- ## Form Setting Splitting
 	  collapsed:: true
 		- ### Global PO Form Setting
@@ -57,7 +56,6 @@
 				- Form Name Change
 				- Form Details change
 		-
-	-
 	- ## Reorganise PO Settings
 	  collapsed:: true
 		- ### Global setting page
@@ -97,3 +95,4 @@
 						- Form Deletion
 						- Form Name Change
 						- Form Details change
+-
