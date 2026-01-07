@@ -22,8 +22,7 @@
 		-
 	- ## Form Setting Splitting
 		- ### Global PO Form Setting
-		  collapsed:: true
-			- From ticket`Context` section:
+			- #q&a From ticket`Context` section:
 				- ```
 				  Context:
 				  Previous understanding was that within a company, only ONE template for PO is ever used
@@ -32,11 +31,10 @@
 				  
 				  For Lembaga Zakat Selangor, different PO types also have different approvals as some POs require management approvals, and others which have been pre-approved, can just be departmental approval
 				  ```
-					- TODO #q&a What does **"for GROUPs"** here is referring to?
-					- TODO #q&a what does it mean by **PO Template**?
+					- TODO What does **"for GROUPs"** here is referring to?
+					- TODO What does it mean by **PO Template**?
 			-
 		- ### Individual PO Form Setting
-		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 			  collapsed:: true
 				- PR
@@ -71,6 +69,7 @@
 	- ## Reorganise PO Settings
 		- ### Form Listing Page
 			- #re-test **Form listing Page** (deployed during Phase 1 of Multi PO)
+			  collapsed:: true
 				- TODO Create new Form
 				- TODO History Logs
 					- Form Creation
@@ -78,7 +77,7 @@
 					- Form Deletion
 					- Form Name Change
 					- Form Details change
-				-
+				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 266, :width 750}
 		- ### Global PO Form Setting
 		  collapsed:: true
 			- #re-test Internal Source
