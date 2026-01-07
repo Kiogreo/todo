@@ -121,9 +121,15 @@
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Individual PO Form Setting
 			- Form Setting Tab
-				-
+				- Auto PO
+				- Auto PO Email
+				- PO T&C
+				- PO Email Text
 			- #re-test Form Fields Tab
-				-
+				- #re-test Delivery Information
+				- #re-test Vendor Information
+				- #re-test Submission Information
+				- #re-test Item information
 			- #re-test PO PDF Tab
 				-
 			- #re-test Setup Logs
