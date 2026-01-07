@@ -41,7 +41,7 @@
 				- **PR**
 					- TODO `Manual PR -> PO`
 					- TODO `Auto PR -> PO`
-				- RFX
+				- **RFX**
 					- TODO `RQ > RFX > PR`
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
 					- TODO `PR > RFX > PO`
