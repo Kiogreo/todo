@@ -20,7 +20,7 @@
 			- TODO we already implemented this in existing Multi PO & Single PO
 	- ## Form Setting Splitting {{renderer :todomaster}}
 		- ### Global PO Form Setting
-			- #q&a From ticket`Context` section:
+			- #q&a From ticket `Context` section:
 			  collapsed:: true
 				- ```
 				  Context:
