@@ -48,8 +48,15 @@
 			- Company PO Page filters
 				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- Closing Po
-				-
+				- confirm back the flow for the below cases:
+					- TODO Enable Goods Received Closing
+					- TODO Enable Extra Receiving Quantity
+					- TODO Enable FOC Quantities
+					- TODO Enable Invoice Received Closing
+					- TODO Enable Receiving Invoice Price Update
+					- TODO Enable Goods Return
 			- Advance Payment
+				-
 			- EVA settings
 			- (More Settings) button leads to **Form listing Page**
 		- ### Individual setting  page
