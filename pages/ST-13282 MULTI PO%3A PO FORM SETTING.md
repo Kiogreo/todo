@@ -15,7 +15,7 @@
 		- Each PO will have GR & IR form attached
 			- DONE We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
 				- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
-				- TODO Seems like `PI` listing page does not have CSV export
+				- DONE Seems like `PI` listing page does not have CSV export
 			- DONE This will affect the search query within `GR` & `PI` listing page?
 			- DONE Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
 			- DONE We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
