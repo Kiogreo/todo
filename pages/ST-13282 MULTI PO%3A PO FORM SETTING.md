@@ -6,7 +6,7 @@
 	- ### Global PO Form Setting
 		-
 	- ### Individual PO Form Setting
-		- PR or RFX Form Settings can be routed to the different PO forms
+		- **PR** or **RFX** Form Settings can be routed to the different **PO** Form Setting
 			- #### PR
 			  id:: 695dd758-64a5-4891-907c-362e5c70611d
 				- In PR Form Setting, if `Internal Source` is enabled & `Source Modules` link to
