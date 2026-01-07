@@ -31,8 +31,24 @@
 		- TODO User Form Assignment (we already implemented this in existing Multi PO & Single PO)
 			- So, should be no issue
 	- ### Reorganise PO Settings
-		- Global setting page
-		- Individual setting  page
+		- ### Global setting page
+			- Internal Source
+			- PO Acceptance
+			- Enable Requestor to access PO Details
+			- Revise & Edit PO
+			- Company PO Page filters
+			- Closing Po
+			- Advance Payment
+			- EVA settings
+			- (More Settings) button leads to **Form listing Page**
+		- ### Individual setting  page
+			- Create new Form
+				- Type of PO form
+			- History Logs
+				- Form Creation
+				- Form Deletion
+				- Form Name Change
+				- Form Details change
 - ## Q&A
 	- TODO From ticket`Context` section:
 		- ```
