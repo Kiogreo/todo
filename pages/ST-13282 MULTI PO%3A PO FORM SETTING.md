@@ -74,7 +74,6 @@
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
 				- TODO figure out how it work in BE
-			-
 			- PO Acceptance
 				- TODO #q&a Is this referring to a scenario where vendor is accepted?
 			- Enable Requestor to access PO Details
