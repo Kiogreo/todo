@@ -132,4 +132,9 @@
 				- #re-test Item information
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
--
+- ## Q&A
+	- What is the main difference between Global PO Setting & Individual PO Setting?
+		- | Global PO Setting | Individual PO Setting |
+		  | --- | ---- |
+		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
+		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
