@@ -140,18 +140,18 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | `Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
-							  | `Send a copy to submitter` |  | |
-							  | `Send a copy to requestor` |  | |
-							  | `Auto Email PO generated via Auto PO for the following PR forms` |  | |
-							  | `Send a copy to submitter` |  | |
-							  | `Send a copy to requestor` |  | |
+							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
+							  | Send a copy to submitter | `` | |
+							  | Send a copy to requestor | `` | |
+							  | Auto Email PO generated via Auto PO for the following PR forms | `` | |
+							  | Send a copy to submitter | `` | |
+							  | Send a copy to requestor | `` | |
 					- TODO PO T&C
 						- ![image.png](../assets/image_1767851154836_0.png)
 						- Setting key
-							- | **TABLE** | **KEY** | **REMARKS** |
+							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | `settings` |  | |
+							  |  | `` | |
 					- TODO PO Email Text
 						- ![image.png](../assets/image_1767851187113_0.png)
 						- Setting key
