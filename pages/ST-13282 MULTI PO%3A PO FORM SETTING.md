@@ -100,9 +100,10 @@
 				- TODO Enable Invoice Received Closing
 					- | Toggle | Screenshot |
 					  | --- | --- |
-					  | **Enabled** | {:height 109, :width 658} |
+					  | **Enabled** | ![image.png](../assets/image_1767849912691_0.png) |
 					  | **Disabled** | ![image.png](../assets/image_1767849829983_0.png) |
 				- TODO Enable Receiving Invoice Price Update
+					-
 				- TODO Enable Goods Return
 			- Advance Payment
 				- TODO create mailing group
