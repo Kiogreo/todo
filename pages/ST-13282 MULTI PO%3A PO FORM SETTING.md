@@ -151,13 +151,14 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  |  | `` | |
+							  | PDF Terms & Conditions | `` | |
 					- TODO PO Email Text
 						- ![image.png](../assets/image_1767851187113_0.png)
 						- Setting key
-							- | **TABLE** | **KEY** | **REMARKS** |
+							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | `settings` | `purchase_requisition_tnc` | |
+							  | Send a copy to submitter | `` | |
+							  | Send a copy to requestor | `` | |
 			- #re-test Form Fields Tab
 				- #re-test Delivery Information
 				- #re-test Vendor Information
