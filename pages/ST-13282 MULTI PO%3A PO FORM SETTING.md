@@ -131,10 +131,10 @@
 						- Setting key
 						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
 							- id:: 695f450e-dd00-47d5-811b-1a042eeed348
-							  | **TABLE** | **KEY** | **REMARKS** |
+							  | **Field** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | `settings` | `purchase_requisition_enable_auto_generate_po_from_pr` | |
-							  | `settings` | `purchase_requisition_enable_auto_split_po_from_pr` | |
+							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
+							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
 					- TODO Auto PO Email
 						- ![image.png](../assets/image_1767851132776_0.png)
 						- Setting key
