@@ -87,9 +87,11 @@
 				  collapsed:: true
 					- A: yes
 				- TODO For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
+					- `Tanya ben`
 			- Enable Requestor to access PO Details
 				- TODO #q&a Is this still used?
 					- I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN** in 1s?
+					- `Tanya ben` (maybe x pakai)
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
