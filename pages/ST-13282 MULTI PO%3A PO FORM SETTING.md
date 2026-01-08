@@ -76,7 +76,7 @@
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
-					- What doe revision sum means & how does it work
+					- What doe revision sum means & how does it work?
 				- TODO Enable Revise on POs that have GR activity on them
 				- DOING Enable Edit PO
 				  :LOGBOOK:
