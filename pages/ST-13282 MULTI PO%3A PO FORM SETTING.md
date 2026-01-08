@@ -33,7 +33,6 @@
 		  collapsed:: true
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
@@ -67,7 +66,6 @@
 				- DONE #q&a Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
 				- DONE #q&a We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
-			  collapsed:: true
 				- DONE #q&a Does the word `issued` here are synonymous to `created` PO?
 			- #re-test Create new Form
 				- Type of PO form
@@ -79,7 +77,6 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-		  collapsed:: true
 			- #re-test Internal Source
 			  collapsed:: true
 				- DONE figure out how it work in BE
