@@ -100,8 +100,8 @@
 				- TODO Enable Invoice Received Closing
 					- | Toggle | Screenshot |
 					  | --- | --- |
-					  | **Enabled** |  |
-					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
+					  | **Enabled** | {:height 109, :width 658} |
+					  | **Disabled** | ![image.png](../assets/image_1767849829983_0.png) |
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
 			- Advance Payment
