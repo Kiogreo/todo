@@ -129,7 +129,9 @@
 					- TODO Auto PO
 						- ![image.png](../assets/image_1767851079463_0.png)
 						- Setting key
-							-
+							- | **TABLE** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | --- | `purchase_requisition_tnc` | --- |
 					- TODO Auto PO Email
 						- ![image.png](../assets/image_1767851132776_0.png)
 					- TODO PO T&C
