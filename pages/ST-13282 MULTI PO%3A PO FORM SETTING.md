@@ -10,6 +10,7 @@
 	-
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
+	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 			- TODO #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
@@ -21,6 +22,7 @@
 		- #re-test **User Form Assignment**
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- TODO What does **"for GROUPs"** & **PO Template** refers to?
@@ -60,16 +62,6 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-		- ### Form Listing Page
-			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
-				- TODO Create new Form
-				- TODO History Logs
-					- Form Creation
-					  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
-					- Form Deletion
-					- Form Name Change
-					- Form Details change
-				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
@@ -101,8 +93,19 @@
 			- EVA settings
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
+		- ### Form Listing Page
+			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
+				- TODO Create new Form
+				- TODO History Logs
+					- Form Creation
+					  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
+					- Form Deletion
+					- Form Name Change
+					- Form Details change
+				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
+		  collapsed:: true
 			- Form Setting Tab
 				- Move below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO
