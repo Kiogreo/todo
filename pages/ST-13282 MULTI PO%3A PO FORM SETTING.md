@@ -129,15 +129,28 @@
 					- TODO Auto PO
 						- ![image.png](../assets/image_1767851079463_0.png)
 						- Setting key
+						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
 							- | **TABLE** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | --- | `purchase_requisition_tnc` | --- |
+							  | `settings` | `purchase_requisition_tnc` | |
 					- TODO Auto PO Email
 						- ![image.png](../assets/image_1767851132776_0.png)
+						- Setting key
+							- | **TABLE** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | `settings` | `purchase_requisition_tnc` | |
 					- TODO PO T&C
 						- ![image.png](../assets/image_1767851154836_0.png)
+						- Setting key
+							- | **TABLE** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | `settings` | `purchase_requisition_tnc` | |
 					- TODO PO Email Text
 						- ![image.png](../assets/image_1767851187113_0.png)
+						- Setting key
+							- | **TABLE** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | `settings` | `purchase_requisition_tnc` | |
 			- #re-test Form Fields Tab
 				- #re-test Delivery Information
 				- #re-test Vendor Information
