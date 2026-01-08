@@ -93,6 +93,7 @@
 					- I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN** in 1s?
 					- `Tanya ben` (maybe x pakai)
 			- #re-test Revise & Edit PO
+			  collapsed:: true
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
 					- What does revision sum means & how does it work?
@@ -103,20 +104,24 @@
 				  CLOCK: [2026-01-07 Wed 16:07:55]
 				  :END:
 			- #re-test Company PO Page filters
-				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
+			  collapsed:: true
+				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
 				- DONE Enable Goods Received Closing
 				- DONE Enable Extra Receiving Quantity
+				  collapsed:: true
 					- | Toggle | Screenshot |
 					  | --- | --- |
 					  | **Enabled** | ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 254, :width 531} |
 					  | **Disabled** | ![Screenshot 2026-01-08 at 11.44.09 AM.png](../assets/Screenshot_2026-01-08_at_11.44.09 AM_1767843900502_0.png){:height 168, :width 536} |
 				- DONE Enable FOC Quantities
+				  collapsed:: true
 					- | Toggle | Screenshot |
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767844171099_0.png) |
 					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
 				- DONE Enable Invoice Received Closing
+				  collapsed:: true
 					- | Toggle | Screenshot |
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767849912691_0.png) |
