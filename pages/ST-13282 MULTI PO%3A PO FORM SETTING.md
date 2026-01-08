@@ -133,7 +133,7 @@
 					- TODO PO T&C
 						- ![image.png](../assets/image_1767851154836_0.png)
 					- TODO PO Email Text
-						-
+						- ![image.png](../assets/image_1767851187113_0.png)
 			- #re-test Form Fields Tab
 				- #re-test Delivery Information
 				- #re-test Vendor Information
