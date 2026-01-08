@@ -173,7 +173,7 @@
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
-						  | PDF Terms & Conditions | `` | |
+						  | PDF Terms & Conditions | `purchase_requisition_tnc` | |
 				- TODO PO Email Text
 					- ![image.png](../assets/image_1767851187113_0.png)
 					- Setting key
