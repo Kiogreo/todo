@@ -125,8 +125,9 @@
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
-				- Move below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
+				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO
+						-
 					- TODO Auto PO Email
 					- TODO PO T&C
 					- TODO PO Email Text
