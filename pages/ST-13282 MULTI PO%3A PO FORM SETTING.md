@@ -78,7 +78,7 @@
 				- TODO Require Approval for Lower Revision Sum
 					- What doe revision sum means & how does it work?
 				- TODO Enable Revise on POs that have GR activity on them
-					- How doe sit work?
+					- How does it work?
 				- DOING Enable Edit PO
 				  :LOGBOOK:
 				  CLOCK: [2026-01-07 Wed 16:07:55]
