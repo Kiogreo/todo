@@ -88,7 +88,8 @@
 			- #re-test Closing Po
 				- TODO Enable Goods Received Closing
 				- TODO Enable Extra Receiving Quantity
-					- allow the received quant
+					- ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 282, :width 619}
+					- Allow
 				- TODO Enable FOC Quantities
 				- TODO Enable Invoice Received Closing
 				- TODO Enable Receiving Invoice Price Update
