@@ -92,12 +92,16 @@
 					  | --- | --- |
 					  | **Enabled** | ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 254, :width 531} |
 					  | **Disabled** | ![Screenshot 2026-01-08 at 11.44.09 AM.png](../assets/Screenshot_2026-01-08_at_11.44.09 AM_1767843900502_0.png){:height 168, :width 536} |
-				- TODO Enable FOC Quantities
+				- DONE Enable FOC Quantities
 					- | Toggle | Screenshot |
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767844171099_0.png) |
 					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
 				- TODO Enable Invoice Received Closing
+					- | Toggle | Screenshot |
+					  | --- | --- |
+					  | **Enabled** |  |
+					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
 			- Advance Payment
