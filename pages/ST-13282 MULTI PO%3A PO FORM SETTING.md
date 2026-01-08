@@ -86,13 +86,13 @@
 			- #re-test Company PO Page filters
 				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
-				- TODO Enable Goods Received Closing
-				- TODO Enable Extra Receiving Quantity
-					- /tabl;e
-					- **Enabled**
+				- DONE Enable Goods Received Closing
+				- DONE Enable Extra Receiving Quantity
+					-
+					- | **Enabled** | ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 282, :width 619} |
+						-
 						- ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 282, :width 619}
-					- **Disabled**
-						- ![Screenshot 2026-01-08 at 11.44.09 AM.png](../assets/Screenshot_2026-01-08_at_11.44.09 AM_1767843900502_0.png)
+					- | **Disabled** | ![Screenshot 2026-01-08 at 11.44.09 AM.png](../assets/Screenshot_2026-01-08_at_11.44.09 AM_1767843900502_0.png){:height 247, :width 622} |
 				- TODO Enable FOC Quantities
 				- TODO Enable Invoice Received Closing
 				- TODO Enable Receiving Invoice Price Update
