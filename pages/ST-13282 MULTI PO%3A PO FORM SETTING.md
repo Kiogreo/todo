@@ -62,7 +62,6 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Form Listing Page
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
-			  collapsed:: true
 				- TODO Create new Form
 				- TODO History Logs
 					- Form Creation
@@ -74,18 +73,12 @@
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
-			  collapsed:: true
 				- TODO figure out how it work in BE
-			- collapsed:: true
-			  
-			  PO Acceptance
+			- PO Acceptance
 				- TODO #q&a Is this referring to a scenario where vendor is accepted?
-			- collapsed:: true
-			  
-			  Enable Requestor to access PO Details
+			- Enable Requestor to access PO Details
 				- TODO #q&a I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- #re-test Revise & Edit PO
-			  collapsed:: true
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
 				- TODO Enable Revise on POs that have GR activity on them
@@ -94,10 +87,8 @@
 				  CLOCK: [2026-01-07 Wed 16:07:55]
 				  :END:
 			- #re-test Company PO Page filters
-			  collapsed:: true
 				- TODO check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
-			  collapsed:: true
 				- TODO Enable Goods Received Closing
 				- TODO Enable Extra Receiving Quantity
 				- TODO Enable FOC Quantities
@@ -107,9 +98,7 @@
 			- Advance Payment
 				- TODO create mailing group
 				- TODO check advance payment flow
-			- collapsed:: true
-			  
-			  EVA settings
+			- EVA settings
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Individual PO Form Setting
@@ -127,4 +116,3 @@
 				- #re-test Item information
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
--
