@@ -126,39 +126,39 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-					- TODO Auto PO
-						- ![image.png](../assets/image_1767851079463_0.png)
-						- Setting key
-						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
-							- id:: 695f450e-dd00-47d5-811b-1a042eeed348
-							  | **FIELD** | **KEY** | **REMARKS** |
-							  | --- | --- | --- |
-							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
-							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
-					- TODO Auto PO Email
-						- ![image.png](../assets/image_1767851132776_0.png)
-						- Setting key
-							- | **FIELD** | **KEY** | **REMARKS** |
-							  | --- | --- | --- |
-							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
-							  | Send a copy to submitter | `` | |
-							  | Send a copy to requestor | `` | |
-							  | Auto Email PO generated via Auto PO for the following PR forms | `` | |
-							  | Send a copy to submitter | `` | |
-							  | Send a copy to requestor | `` | |
-					- TODO PO T&C
-						- ![image.png](../assets/image_1767851154836_0.png)
-						- Setting key
-							- | **FIELD** | **KEY** | **REMARKS** |
-							  | --- | --- | --- |
-							  | PDF Terms & Conditions | `` | |
-					- TODO PO Email Text
-						- ![image.png](../assets/image_1767851187113_0.png)
-						- Setting key
-							- | **FIELD** | **KEY** | **REMARKS** |
-							  | --- | --- | --- |
-							  | Send a copy to submitter | `` | |
-							  | Send a copy to requestor | `` | |
+				- TODO Auto PO
+					- ![image.png](../assets/image_1767851079463_0.png)
+					- Setting key
+					  id:: 695f4504-b56d-4123-9f41-8de373c2c547
+						- id:: 695f450e-dd00-47d5-811b-1a042eeed348
+						  | **FIELD** | **KEY** | **REMARKS** |
+						  | --- | --- | --- |
+						  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
+						  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
+				- TODO Auto PO Email
+					- ![image.png](../assets/image_1767851132776_0.png)
+					- Setting key
+						- | **FIELD** | **KEY** | **REMARKS** |
+						  | --- | --- | --- |
+						  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
+						  | Send a copy to submitter | `` | |
+						  | Send a copy to requestor | `` | |
+						  | Auto Email PO generated via Auto PO for the following PR forms | `` | |
+						  | Send a copy to submitter | `` | |
+						  | Send a copy to requestor | `` | |
+				- TODO PO T&C
+					- ![image.png](../assets/image_1767851154836_0.png)
+					- Setting key
+						- | **FIELD** | **KEY** | **REMARKS** |
+						  | --- | --- | --- |
+						  | PDF Terms & Conditions | `` | |
+				- TODO PO Email Text
+					- ![image.png](../assets/image_1767851187113_0.png)
+					- Setting key
+						- | **FIELD** | **KEY** | **REMARKS** |
+						  | --- | --- | --- |
+						  | Send a copy to submitter | `` | |
+						  | Send a copy to requestor | `` | |
 			- #re-test Form Fields Tab
 				- #re-test Delivery Information
 				- #re-test Vendor Information
