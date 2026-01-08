@@ -96,7 +96,7 @@
 					- | Toggle | Screenshot |
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767844171099_0.png) |
-					  | **Disabled** |  |
+					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
 				- TODO Enable Invoice Received Closing
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
