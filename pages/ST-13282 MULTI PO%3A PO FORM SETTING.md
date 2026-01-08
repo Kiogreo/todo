@@ -97,7 +97,7 @@
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767844171099_0.png) |
 					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
-				- TODO Enable Invoice Received Closing
+				- DONE Enable Invoice Received Closing
 					- | Toggle | Screenshot |
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767849912691_0.png) |
