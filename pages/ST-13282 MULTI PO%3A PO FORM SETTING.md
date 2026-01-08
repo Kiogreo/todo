@@ -33,6 +33,7 @@
 		  collapsed:: true
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
@@ -66,7 +67,8 @@
 				- DONE #q&a Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
 				- DONE #q&a We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
-				- TODO #q&a Does the word `issued` here are synonymous to `created` PO?
+			  collapsed:: true
+				- DONE #q&a Does the word `issued` here are synonymous to `created` PO?
 			- #re-test Create new Form
 				- Type of PO form
 			- #re-test History Logs
@@ -75,12 +77,11 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-		  collapsed:: true
 			- #re-test Internal Source
-				- TODO figure out how it work in BE
+			  collapsed:: true
+				- DONE figure out how it work in BE
 			- PO Acceptance
 				- DONE #q&a Is this referring to a scenario where vendor is accepted?
 				  collapsed:: true
@@ -127,7 +128,6 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
-		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- TODO Create new Form
 				- TODO History Logs
