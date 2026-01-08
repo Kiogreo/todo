@@ -77,6 +77,7 @@
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
+					-
 				- TODO Enable Revise on POs that have GR activity on them
 				- DOING Enable Edit PO
 				  :LOGBOOK:
