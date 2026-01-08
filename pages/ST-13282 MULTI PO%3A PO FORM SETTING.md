@@ -89,7 +89,6 @@
 				- TODO #q&a #tanya-ben Is this still used?
 					- I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN** in 1s?
 			- #re-test Revise & Edit PO
-			  collapsed:: true
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
 					- What does revision sum means & how does it work?
@@ -148,7 +147,6 @@
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
-			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
 					- ![image.png](../assets/image_1767851079463_0.png)
