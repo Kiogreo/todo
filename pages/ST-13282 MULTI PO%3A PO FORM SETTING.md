@@ -73,7 +73,6 @@
 			- Enable Requestor to access PO Details
 				- TODO #q&a Is this still used?
 					- I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN** in 1s?
-					-
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
