@@ -67,7 +67,9 @@
 			- #re-test Internal Source
 				- TODO figure out how it work in BE
 			- PO Acceptance
-				- TODO #q&a Is this referring to a scenario where vendor is accepted?
+				- DONE #q&a Is this referring to a scenario where vendor is accepted?
+					- A: yes
+				- TODO For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 			- Enable Requestor to access PO Details
 				- TODO #q&a I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN-IN** in 1s?
 			- #re-test Revise & Edit PO
