@@ -140,7 +140,7 @@
 						- Setting key
 							- | **TABLE** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | `settings` | `purchase_requisition_tnc` | |
+							  | `settings` | `purchase_order_enable_auto_email_auto_po` | |
 					- TODO PO T&C
 						- ![image.png](../assets/image_1767851154836_0.png)
 						- Setting key
