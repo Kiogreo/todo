@@ -130,9 +130,11 @@
 						- ![image.png](../assets/image_1767851079463_0.png)
 						- Setting key
 						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
-							- | **TABLE** | **KEY** | **REMARKS** |
+							- id:: 695f450e-dd00-47d5-811b-1a042eeed348
+							  | **TABLE** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | `settings` | `purchase_requisition_tnc` | |
+							  | `settings` | `purchase_requisition_enable_auto_generate_po_from_pr` | |
+							  | `settings` | `purchase_requisition_enable_auto_generate_po_from_pr` | |
 					- TODO Auto PO Email
 						- ![image.png](../assets/image_1767851132776_0.png)
 						- Setting key
