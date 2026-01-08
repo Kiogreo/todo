@@ -134,7 +134,7 @@
 							  | **TABLE** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
 							  | `settings` | `purchase_requisition_enable_auto_generate_po_from_pr` | |
-							  | `settings` | `purchase_requisition_enable_auto_generate_po_from_pr` | |
+							  | `settings` | `purchase_requisition_enable_auto_split_po_from_pr` | |
 					- TODO Auto PO Email
 						- ![image.png](../assets/image_1767851132776_0.png)
 						- Setting key
