@@ -170,7 +170,8 @@
 						  | Send a copy to submitter | `` | |
 						  | Send a copy to requestor | `` | |
 					- Note
-						-
+						- Add item from approved origin
+							-
 				- TODO PO T&C
 					- ![image.png](../assets/image_1767851154836_0.png)
 					- Setting key
