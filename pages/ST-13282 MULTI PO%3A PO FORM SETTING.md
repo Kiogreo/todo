@@ -76,7 +76,6 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
@@ -149,6 +148,7 @@
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
+			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
 					- ![image.png](../assets/image_1767851079463_0.png)
@@ -184,10 +184,10 @@
 						  | Send a copy to submitter | `` | |
 						  | Send a copy to requestor | `` | |
 			- #re-test Form Fields Tab
-			  collapsed:: true
 				- #re-test Delivery Information
 				- #re-test Vendor Information
 				- #re-test Submission Information
 				- #re-test Item information
+				-
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
