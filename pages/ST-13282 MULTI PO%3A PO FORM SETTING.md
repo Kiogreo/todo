@@ -83,11 +83,9 @@
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
-			  collapsed:: true
 				- DONE figure out how it work in BE
 			- PO Acceptance
 				- DONE #q&a Is this referring to a scenario where vendor is accepted?
-				  collapsed:: true
 					- A: yes
 				- TODO #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 			- Enable Requestor to access PO Details
@@ -104,10 +102,8 @@
 				  CLOCK: [2026-01-07 Wed 16:07:55]
 				  :END:
 			- #re-test Company PO Page filters
-			  collapsed:: true
 				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
-			  collapsed:: true
 				- DONE Enable Goods Received Closing
 				- DONE Enable Extra Receiving Quantity
 				  collapsed:: true
@@ -130,12 +126,9 @@
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
 			- Advance Payment
-			  collapsed:: true
 				- TODO create mailing group
 				- TODO check advance payment flow
-			- collapsed:: true
-			  
-			  EVA settings
+			- EVA settings
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
