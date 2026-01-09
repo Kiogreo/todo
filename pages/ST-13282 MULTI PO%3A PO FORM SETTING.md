@@ -85,7 +85,7 @@
 				- DONE figure out how it work in BE
 			- PO Acceptance
 				- DONE #q&a Is this referring to a scenario where vendor is accepted?
-					- **A:** yes
+					- **Answer** yes
 				- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 					- **A:** NO
 			- Enable Requestor to access PO Details
