@@ -82,16 +82,21 @@
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
+			  collapsed:: true
 				- DONE figure out how it work in BE
-			- PO Acceptance
+			- collapsed:: true
+			  
+			  PO Acceptance
 				- DONE #q&a Is this referring to a scenario where vendor is accepted?
 					- **Answer** yes
 				- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 					- **Answer** NO
-			- Enable Requestor to access PO Details
-				- TODO #q&a #tanya-ben Is this still used?
-					- I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN** in 1s?
-					- **Answer** Yes, still used.
+			- collapsed:: true
+			  
+			  Enable Requestor to access PO Details
+				- DONE #q&a #tanya-ben Is this still used?
+					- **Answer**
+						- Yes, still used.
 						- From PR details page, requester will access PO details page through the internal source reference.
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
