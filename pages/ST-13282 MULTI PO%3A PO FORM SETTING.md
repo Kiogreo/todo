@@ -38,6 +38,7 @@
 		  collapsed:: true
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
@@ -52,7 +53,6 @@
 				- A: Group here means that multi po will help in terms of making single po form setting to encapsulate different groups of companies' needs
 		- ### Individual PO Form Setting
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
-			  collapsed:: true
 				- **PR**
 					- TODO `Manual PR -> PO`
 					- TODO `Auto PR -> PO`
@@ -61,7 +61,6 @@
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
 					- TODO `PR > RFX > PO`
 			- #re-test Each PO will have GR & IR form attached
-			  collapsed:: true
 				- Answer to all the below questions:
 					- it's not needed to add `Form Name` column for GR, RTN & PI moduel.
 				- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
@@ -82,6 +81,7 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+		  collapsed:: true
 			- #re-test Internal Source
 				- DONE figure out how it work in BE
 			- PO Acceptance
@@ -132,6 +132,7 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
+		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- TODO Create new Form
 				- TODO History Logs
@@ -144,6 +145,7 @@
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
+			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
 					- ![image.png](../assets/image_1767851079463_0.png)
