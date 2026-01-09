@@ -16,7 +16,8 @@
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
 	- For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
 		- Yes, the user access the PO details page from the reference in PR details page
-			- @nadzmi Need to check whether user can actually view the page once redirected to there
+			- @nadzmi Need to check whether user can actually view the page once redirected to there'
+	- Po acceptance not needed to split
 -
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
