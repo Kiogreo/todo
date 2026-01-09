@@ -185,13 +185,15 @@
 						  | Send a copy to submitter | `` | |
 						  | Send a copy to requestor | `` | |
 			- #re-test Form Fields Tab
-				- #re-test Delivery Information
-				- #re-test Vendor Information
-				- #re-test Submission Information
-				- #re-test Item information
-				- Relabel Budget Setting (**Check JIRA Epic**)
-					- Limit value based
-						- add toggle to enable/disable
-				- Item config
+				- Part 1
+					- #re-test Delivery Information
+					- #re-test Vendor Information
+					- #re-test Submission Information
+					- #re-test Item information
+					- Relabel Budget Setting (**Check JIRA Epic**)
+						- Limit value based
+							- add toggle to enable/disable
+				- Part 2 - Item configuration
+					- KIV from @ben in what are the setting that we want to
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
