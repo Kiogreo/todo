@@ -33,6 +33,7 @@
 		  collapsed:: true
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
@@ -75,6 +76,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
