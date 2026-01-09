@@ -194,6 +194,7 @@
 						- Limit value based
 							- add toggle to enable/disable
 				- Part 2 - Item configuration
-					- KIV from @ben in what are the setting that we want to
+					- Plan = split up all the grouped settings into each individual settings into modular
+						- **KIV** from @ben in what are the setting that we want to
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
