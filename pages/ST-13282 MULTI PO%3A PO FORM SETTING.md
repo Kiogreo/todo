@@ -101,7 +101,8 @@
 			- #re-test Revise & Edit PO
 				- TODO Enable Revise PO
 				- TODO Require Approval for Lower Revision Sum
-					- Revision Sum =
+					- **Revision Sum** = total item cost
+					- By default all revise PO that has higher **Revision Sum** require approval
 				- TODO Enable Revise on POs that have GR activity on them
 					- How does it work?
 				- DOING Enable Edit PO
