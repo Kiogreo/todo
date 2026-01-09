@@ -189,6 +189,9 @@
 				- #re-test Vendor Information
 				- #re-test Submission Information
 				- #re-test Item information
-				-
+				- Relabel Budget Setting (**Check JIRA Epic**)
+					- Limit value based
+						- add toggle to enable/disable
+				- Item config
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
