@@ -81,13 +81,13 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-		  collapsed:: true
 			- #re-test Internal Source
 				- DONE figure out how it work in BE
 			- PO Acceptance
 				- DONE #q&a Is this referring to a scenario where vendor is accepted?
 					- A: yes
-				- TODO #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
+				- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
+					- A: NO
 			- Enable Requestor to access PO Details
 				- TODO #q&a #tanya-ben Is this still used?
 					- I guess it means that the user (in this case, I assume its the original submitter for RQ/PR/PO?) who created RQ should be able to access PO details even without **LOGIN** in 1s?
@@ -132,7 +132,6 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
-		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- TODO Create new Form
 				- TODO History Logs
