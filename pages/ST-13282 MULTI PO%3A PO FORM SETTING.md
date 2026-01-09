@@ -99,8 +99,8 @@
 						- Yes, still used.
 						- From PR details page, requester will access PO details page through the internal source reference.
 			- #re-test Revise & Edit PO
-				- TODO Enable Revise PO
-				- TODO Require Approval for Lower Revision Sum
+				- DONE Enable Revise PO
+				- DONE Require Approval for Lower Revision Sum
 					- **Revision Sum** = total item cost
 					- By default all revise PO that has higher **Revision Sum** require approval
 				- TODO Enable Revise on POs that have GR activity on them
