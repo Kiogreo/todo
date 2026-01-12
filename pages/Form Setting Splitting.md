@@ -10,21 +10,13 @@
 				- `RQ > RFX > PR`
 				- `PR > RFX > PO`
 		- TODO re-test each PO will have GR & IR form attached
-			- Answer to all the below questions:
-				- it's not needed to add `Form Name` column for GR, RTN & PI moduel.
-			- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
-				- DONE If yes, then  Export Submission CSV should also be affected since we need to add a new column
-				- DONE Seems like `PI` listing page does not have CSV export
-			- DONE #q&a This will affect the search query within `GR` & `PI` listing page?
-			- DONE #q&a Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
-			- DONE #q&a We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
-		- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
-			- DONE #q&a Does the word `issued` here are synonymous to `created` PO?
-		- #re-test Create new Form
+		- TODO re-test each PO form can be revised or **issued** and sent to a different approval flow
+		- TODO Re-test the below existing feature is still intact
+			- Create new Form
 			- Type of PO form
-		- #re-test History Logs
-			- Form Creation
-			- Form Deletion
-			- Form Name Change
-			- Form Details change
+			- History Logs
+				- Form Creation
+				- Form Deletion
+				- Form Name Change
+				- Form Details change
 -
