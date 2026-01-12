@@ -216,7 +216,7 @@
 						  | --- | --- | --- |
 						  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | |
 						  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | |
-			- #re-test Form Fields Tab
+			- Form Fields Tab
 				- Part 1
 					- #re-test Delivery Information
 					- #re-test Vendor Information
