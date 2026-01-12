@@ -20,7 +20,7 @@
 	- Clicking the `Verify Email Address` should automatically verify your email & re-direct you to Adam as your new customer user.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 10.44.48 AM.png](../assets/Screenshot_2026-01-12_at_10.44.48 AM_1768185907797_0.png)
-	- In case you haven't verified your company, it may re-direct you to the `Verify Your email Address` page. So, make sure to verify / re-verify your company in Hub first & click on the `Resend Link` to get a new customer user link.
+	- In case you haven't verified your company, it may re-direct you to the `Verify Your email Address` page. So, make sure to verify / re-verify your company in Hub again & click on the `Resend Link` to get a new customer user link.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.49.39 AM.png](../assets/Screenshot_2026-01-12_at_9.49.39 AM_1768182581830_0.png)
-	- logseq.order-list-type:: number
+		-
