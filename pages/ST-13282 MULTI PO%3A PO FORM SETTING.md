@@ -8,6 +8,8 @@
 	  :END:
 		- Objective
 			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
+		- Current Status
+			- We want to change the `C`
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
