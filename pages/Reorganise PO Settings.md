@@ -1,5 +1,6 @@
 # Task Breakdown
 	- ### Global PO Form Setting {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO Re-test Internal Source is still working from 1 form to another
 		- TODO Re-test PO Acceptance
 		- Enable Requestor to access PO Details
@@ -40,7 +41,6 @@
 			- TODO Notify Users when Vendor Uploads Invoice
 	- ### Individual PO Form Setting {{renderer :todomaster}}
 		- Form Setting Tab
-		  collapsed:: true
 			- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 			- TODO Auto PO
 				- ![image.png](../assets/image_1767851079463_0.png)
@@ -78,6 +78,7 @@
 					  | Send a copy to submitter | `` | |
 					  | Send a copy to requestor | `` | |
 		- Form Fields Tab #re-test
+		  collapsed:: true
 			- Part 1
 				- Delivery Information #re-test
 				- Vendor Information #re-test
