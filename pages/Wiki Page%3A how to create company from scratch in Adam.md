@@ -12,4 +12,4 @@
 	- If you are still logged in to Adam when you started this process, it should give the below screen.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.49.39 AM.png](../assets/Screenshot_2026-01-12_at_9.49.39 AM_1768182581830_0.png)
-	- logseq.order-list-type:: number
+			- `Resend Link`
