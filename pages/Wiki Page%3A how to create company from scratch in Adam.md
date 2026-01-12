@@ -10,7 +10,7 @@
 	- Once submitted, sign in to Hub. You should see your new company in the `Customer Service > Customers` page.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 10.30.14 AM.png](../assets/Screenshot_2026-01-12_at_10.30.14 AM_1768185085818_0.png)
-	- Proceed to verify your company by clicking the `Verify` button
+	- Proceed to verify your company by clicking the `Verify` button in `Customer Company` page
 	  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 	- Check your email inbox in order to verify your email.
