@@ -17,7 +17,7 @@
 	- For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
 		- Yes, the user access the PO details page from the reference in PR details page
 			- @nadzmi Need to check whether user can actually view the page once redirected to there'
-			- Can remove first `Enable Requestor to access PO Details`
+			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 	- Po acceptance not needed to split
 -
 - # Task Breakdown
