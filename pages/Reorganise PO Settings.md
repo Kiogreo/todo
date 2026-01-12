@@ -85,13 +85,13 @@
 				- Delivery Information #re-test
 				- Vendor Information #re-test
 				- Submission Information #re-test
-				- #re-test Item information
+				- Item information #re-test
 				- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
 						- add toggle to enable/disable
 			- Part 2 - Item configuration
 				- Plan = split up all the grouped settings into each individual settings into modular
 					- **KIV** from @ben in what are the setting that we want to
-		- #re-test PO PDF Tab
-		- #re-test Setup Logs
+		- PO PDF Tab #re-test
+		- Setup Logs
 	-
