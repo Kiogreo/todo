@@ -202,12 +202,14 @@
 							-
 				- TODO PO T&C
 					- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
+					- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
-						  | PDF Terms & Conditions | `purchase_requisition_tnc` | |
+						  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
 				- TODO PO Email Text
 					- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
+					- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
