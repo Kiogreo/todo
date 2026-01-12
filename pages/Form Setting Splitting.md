@@ -14,7 +14,7 @@
 		- TODO Re-test the below existing feature is still intact
 			- Create new Form
 			- Type of PO form
-			- History Logs
+			- Form History Logs
 				- Form Creation
 				- Form Deletion
 				- Form Name Change
