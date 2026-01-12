@@ -1,7 +1,7 @@
 # Reminders
 	- #meeting PO Form Setting: Item Setting Re-organisation
 		- Objective
-			-
+			- Clarify and continue
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
