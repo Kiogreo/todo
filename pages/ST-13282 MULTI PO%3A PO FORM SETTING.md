@@ -13,9 +13,8 @@
 				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
 			- To the below:
 				- Enable add FFT
-				-
 				- Enable add catalogue products
-				-
+					-
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
