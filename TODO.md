@@ -18,8 +18,9 @@
 	  CLOCK: [2026-01-06 Tue 17:37:36]--[2026-01-06 Tue 17:37:37] =>  00:00:01
 	  :END:
 	- TODO [#C] [[Focussed Section for New Joiner]]
-	- DOING [[Wiki Page: how to create company from scratch in Adam]]
+	- DONE [[Wiki Page: how to create company from scratch in Adam]]
 	  :LOGBOOK:
-	  CLOCK: [2026-01-12 Mon 09:40:32]
+	  CLOCK: [2026-01-12 Mon 09:40:32]--[2026-01-12 Mon 11:20:06] =>  01:39:34
+	  CLOCK: [2026-01-12 Mon 11:20:07]--[2026-01-12 Mon 11:20:07] =>  00:00:00
 	  :END:
 -
