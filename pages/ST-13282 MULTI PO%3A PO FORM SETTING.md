@@ -1,5 +1,7 @@
-# Acceptance Criteria
-collapsed:: true
+# Reminders
+	- Meeting regarding the
+- # Acceptance Criteria
+  collapsed:: true
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
