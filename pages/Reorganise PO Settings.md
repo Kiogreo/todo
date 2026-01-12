@@ -1,18 +1,14 @@
 # Task Breakdown
 	- ### Global PO Form Setting {{renderer :todomaster}}
-		- TODO Re-test internal Source
+		- TODO Re-test Internal Source is still working from 1 form to another
 		  collapsed:: true
 			- DONE figure out how it work in BE
-		- collapsed:: true
-		  
-		  PO Acceptance
+		- TODO Re-test PO Acceptance
 			- DONE #q&a Is this referring to a scenario where vendor is accepted?
 				- **Answer** yes
 			- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 				- **Answer** NO
-		- collapsed:: true
-		  
-		  Enable Requestor to access PO Details
+		- Enable Requestor to access PO Details
 			- DONE #q&a #tanya-ben Is this still used?
 				- **Answer**
 					- Yes, still used.
