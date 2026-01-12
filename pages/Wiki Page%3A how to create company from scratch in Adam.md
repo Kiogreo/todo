@@ -6,5 +6,5 @@
 - # Step by step instruction
 	- In Adam, go to this route `https://<DOMAIN URL>/nomoresignupforyou` and submit the form
 	  logseq.order-list-type:: number
-		- ![Screenshot 2026-01-12 at 9.45.44 AM.png](../assets/Screenshot_2026-01-12_at_9.45.44 AM_1768182347717_0.png)
+		-
 	- logseq.order-list-type:: number
