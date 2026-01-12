@@ -9,7 +9,10 @@
 		- Objective
 			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
 		- Current Status
-			- We want to change the `C`
+			- We want to change the `Item Configuration` sub-section from:
+				- ![image.png](../assets/image_1768188937302_0.png)
+			- To the below:
+				-
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
