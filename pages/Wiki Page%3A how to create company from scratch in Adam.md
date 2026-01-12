@@ -17,7 +17,7 @@
 	- Then, to verify your new customer user, check your email inbox for the verification link.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.57.13 AM.png](../assets/Screenshot_2026-01-12_at_9.57.13 AM_1768184845935_0.png)
-	- Clicking the `Verify Email Address` may re-direct you to the verification page. Click `Sign In as Different User` to continue sign in as your new Adam user.
+	- Clicking the `Verify Email Address` may re-direct you to the verification page or the login page. Click `Sign In as Different User` to continue sign in as your new Adam user.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.49.39 AM.png](../assets/Screenshot_2026-01-12_at_9.49.39 AM_1768182581830_0.png)
 	- logseq.order-list-type:: number
