@@ -10,4 +10,5 @@
 	- Once submitted, it may re-direct you to `https://adam-procure.com/`, but you should go back into Adam & login using the new user credential
 	  logseq.order-list-type:: number
 		-
-	- logseq.order-list-type:: number
+	- sdf
+	  logseq.order-list-type:: number
