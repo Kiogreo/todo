@@ -177,7 +177,7 @@
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
-					- ![image.png](../assets/image_1767851079463_0.png)
+					-
 					- Setting key
 					  id:: 695f4504-b56d-4123-9f41-8de373c2c547
 						- id:: 695f450e-dd00-47d5-811b-1a042eeed348
