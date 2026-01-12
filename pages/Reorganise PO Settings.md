@@ -1,7 +1,6 @@
 # Task Breakdown
 	- ### Global PO Form Setting {{renderer :todomaster}}
-	  collapsed:: true
-		- #re-test Internal Source
+		- TODO Re-test internal Source
 		  collapsed:: true
 			- DONE figure out how it work in BE
 		- collapsed:: true
