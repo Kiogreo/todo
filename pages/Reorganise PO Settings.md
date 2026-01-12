@@ -1,28 +1,21 @@
 # Task Breakdown
 	- ### Global PO Form Setting {{renderer :todomaster}}
 		- TODO Re-test Internal Source is still working from 1 form to another
-		  collapsed:: true
-			- DONE figure out how it work in BE
 		- TODO Re-test PO Acceptance
 		- TODO Enable Requestor to access PO Details
 			- for now, we can try to remove the settings & see if it affects the existing system
 		- TODO Revise & Edit PO
 			- TODO Enable Revise PO
 			- TODO Require Approval for Lower Revision Sum
-				- **Revision Sum** = total item cost
-				- By default all revise PO that has higher **Revision Sum** require approval
 			- TODO Enable Revise on POs that have GR activity on them
-				- How does it work?
 			- TODO Enable Edit PO
 			  :LOGBOOK:
 			  CLOCK: [2026-01-07 Wed 16:07:55]
 			  :END:
-		- #re-test Company PO Page filters
-			- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
-		- #re-test Closing Po
-			- DONE Enable Goods Received Closing
-			- DONE Enable Extra Receiving Quantity
-			  collapsed:: true
+		- TODO Re-test Company PO Listing Page filters
+		- TODO Closing Po
+			- TODO Enable Goods Received Closing
+			- TODO Enable Extra Receiving Quantity
 				- | Toggle | Screenshot |
 				  | --- | --- |
 				  | **Enabled** | ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 254, :width 531} |
