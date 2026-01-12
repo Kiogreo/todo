@@ -1,6 +1,15 @@
 # Task Brakedown
 	- ### Global PO Form Setting {{renderer :todomaster}}
 		- TODO retest global PO form setting that was not split & ensure they're still working as is
+	- ### Form Listing Page {{renderer :todomaster}}
+		- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
+			- TODO Create new Form
+			- TODO History Logs
+				- Form Creation
+				- Form Deletion
+				- Form Name Change
+				- Form Details change
+			- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 	- ### Individual PO Form Setting {{renderer :todomaster}}
 		- TODO re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings after phase 2 enhancement
 			- **PR**
@@ -11,11 +20,4 @@
 				- `PR > RFX > PO`
 		- TODO re-test each PO will have GR & IR form attached
 		- TODO re-test each PO form can be revised or **issued** and sent to a different approval flow
-		- TODO Re-test the below existing feature is still intact
-			- Create new Form
-			- Type of PO form
-			- Form Setting List: History Logs
-				- Form Creation
-				- Form Deletion
-				- Form Name Change
-				- Form Details change
+-
