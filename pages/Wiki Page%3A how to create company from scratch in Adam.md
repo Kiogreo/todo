@@ -23,4 +23,4 @@
 	- In case you haven't verified your company, it may re-direct you to the `Verify Your email Address` page. So, make sure to verify / re-verify your company in Hub again & click on the `Resend Link` to get a new customer user link.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.49.39 AM.png](../assets/Screenshot_2026-01-12_at_9.49.39 AM_1768182581830_0.png)
-		-
+	- logseq.order-list-type:: number
