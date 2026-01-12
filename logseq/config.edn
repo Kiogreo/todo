@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :editor/logical-outdenting? false
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :journal/page-title-format "yyyy-MM-dd EEEE"}
