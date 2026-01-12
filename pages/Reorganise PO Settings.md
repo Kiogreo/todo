@@ -82,9 +82,9 @@
 					  | Send a copy to requestor | `` | |
 		- #re-test Form Fields Tab
 			- Part 1
-				- #re-test Delivery Information
-				- #re-test Vendor Information
-				- #re-test Submission Information
+				- Delivery Information #re-test
+				- Vendor Information #re-test
+				- Submission Information #re-test
 				- #re-test Item information
 				- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
