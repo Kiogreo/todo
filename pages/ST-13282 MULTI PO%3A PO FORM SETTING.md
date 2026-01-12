@@ -10,11 +10,13 @@
 -
 - ## Q&A
 	- What is the main difference between Global PO Setting & Individual PO Setting?
+	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
 		  | --- | ---- |
 		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
 	- For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
+	  collapsed:: true
 		- Yes, the user access the PO details page from the reference in PR details page
 			- @nadzmi Need to check whether user can actually view the page once redirected to there'
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
@@ -22,7 +24,6 @@
 -
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
-	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 		  collapsed:: true
 			- DONE #q&a Do we still need to add setting in HUB?
@@ -79,6 +80,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
