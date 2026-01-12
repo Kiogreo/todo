@@ -1,8 +1,7 @@
 # Reminders
 	- #meeting PO Form Setting: Item Setting Re-organisation
 		- Objective
-			- Finalize
-			- Finalize the item setting stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
+			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
