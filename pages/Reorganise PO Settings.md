@@ -80,18 +80,18 @@
 					  | --- | --- | --- |
 					  | Send a copy to submitter | `` | |
 					  | Send a copy to requestor | `` | |
-		- #re-test Form Fields Tab
+		- Form Fields Tab #re-test
 			- Part 1
 				- Delivery Information #re-test
 				- Vendor Information #re-test
 				- Submission Information #re-test
 				- Item information #re-test
 				- Relabel Budget Setting (**Check JIRA Epic**)
-					- Limit value based
-						- add toggle to enable/disable
+				- Limit value based
+					- add toggle to enable/disable
 			- Part 2 - Item configuration
 				- Plan = split up all the grouped settings into each individual settings into modular
 					- **KIV** from @ben in what are the setting that we want to
 		- PO PDF Tab #re-test
-		- Setup Logs
+		- Setup Logs #re-test
 	-
