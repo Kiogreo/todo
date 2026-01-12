@@ -2,9 +2,9 @@
 	- ### Global PO Form Setting {{renderer :todomaster}}
 		- TODO Re-test Internal Source is still working from 1 form to another
 		- TODO Re-test PO Acceptance
-		- TODO Enable Requestor to access PO Details
-			- for now, we can try to remove the settings & see if it affects the existing system
-		- TODO Revise & Edit PO
+		- Enable Requestor to access PO Details
+			- TODO for now, we can try to remove the settings & see if it affects the existing system
+		- Revise & Edit PO
 			- TODO Enable Revise PO
 			- TODO Require Approval for Lower Revision Sum
 			- TODO Enable Revise on POs that have GR activity on them
@@ -13,7 +13,7 @@
 			  CLOCK: [2026-01-07 Wed 16:07:55]
 			  :END:
 		- TODO Re-test Company PO Listing Page filters
-		- TODO Closing Po
+		- Closing Po
 			- TODO Enable Goods Received Closing
 			- TODO Enable Extra Receiving Quantity
 				- | Toggle | Screenshot |
