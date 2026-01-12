@@ -12,4 +12,5 @@
 	- If you are still logged in to Adam when you started this process, it should give the below screen. You may proceed to `Resend Link` to get your email verification link or `Sign In as Different User` to continue sign in as your new Adam user.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.49.39 AM.png](../assets/Screenshot_2026-01-12_at_9.49.39 AM_1768182581830_0.png)
-	- logseq.order-list-type:: number
+	- Once you select the `Sign In as Different User`, you should be back to the login page. Proceed to login to the
+	  logseq.order-list-type:: number
