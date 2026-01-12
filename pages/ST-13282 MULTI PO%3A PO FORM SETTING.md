@@ -201,13 +201,13 @@
 						- Display assigned vendor
 							-
 				- TODO PO T&C
-					- ![image.png](../assets/image_1767851154836_0.png)
+					- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
-						  | PDF Terms & Conditions | `purchase_requisition_tncdd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             aaa                                                                                                                                                                                                                         dcvaďðdcx` | |
+						  | PDF Terms & Conditions | `purchase_requisition_tnc` | |
 				- TODO PO Email Text
-					- ![image.png](../assets/image_1767851187113_0.png)
+					- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
