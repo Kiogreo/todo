@@ -1,5 +1,5 @@
 # Reminders
-	- Meeting regarding the
+	- Meeting regarding the PO
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
