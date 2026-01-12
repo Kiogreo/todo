@@ -1,5 +1,5 @@
 # Reminders
-	- DOING #meeting PO Form Setting: Item Setting Re-organisation
+	- #meeting PO Form Setting: Item Setting Re-organisation
 	  id:: 69644daa-4699-4996-85a4-9daa3d45a2f9
 	  :LOGBOOK:
 	  CLOCK: [2026-01-12 Mon 09:33:44]--[2026-01-12 Mon 09:34:00] =>  00:00:16
