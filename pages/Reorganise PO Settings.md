@@ -5,19 +5,15 @@
 			- DONE figure out how it work in BE
 		- TODO Re-test PO Acceptance
 		- TODO Enable Requestor to access PO Details
-			- for now, we can try to remove the settings & see if it affects
-			- DONE #q&a #tanya-ben Is this still used?
-				- **Answer**
-					- Yes, still used.
-					- From PR details page, requester will access PO details page through the internal source reference.
-		- #re-test Revise & Edit PO
-			- DONE Enable Revise PO
-			- DONE Require Approval for Lower Revision Sum
+			- for now, we can try to remove the settings & see if it affects the existing system
+		- TODO Revise & Edit PO
+			- TODO Enable Revise PO
+			- TODO Require Approval for Lower Revision Sum
 				- **Revision Sum** = total item cost
 				- By default all revise PO that has higher **Revision Sum** require approval
 			- TODO Enable Revise on POs that have GR activity on them
 				- How does it work?
-			- DOING Enable Edit PO
+			- TODO Enable Edit PO
 			  :LOGBOOK:
 			  CLOCK: [2026-01-07 Wed 16:07:55]
 			  :END:
