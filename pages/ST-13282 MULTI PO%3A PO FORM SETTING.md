@@ -186,7 +186,7 @@
 						  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
 						  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
 				- TODO Auto PO Email
-					- ![image.png](../assets/image_1767851132776_0.png)
+					- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
