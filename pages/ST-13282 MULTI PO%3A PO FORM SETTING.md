@@ -24,6 +24,7 @@
 -
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
+	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 		  collapsed:: true
 			- DONE #q&a Do we still need to add setting in HUB?
@@ -39,8 +40,8 @@
 		  collapsed:: true
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
+		  collapsed:: true
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
 				- ```
@@ -53,6 +54,7 @@
 				  ```
 				- A: Group here means that multi po will help in terms of making single po form setting to encapsulate different groups of companies' needs
 		- ### Individual PO Form Setting
+		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 				- **PR**
 					- TODO `Manual PR -> PO`
