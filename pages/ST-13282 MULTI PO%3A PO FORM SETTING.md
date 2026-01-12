@@ -10,8 +10,10 @@
 			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
 		- Current Status
 			- We want to change the `Item Configuration` sub-section from:
-				- ![image.png](../assets/image_1768188937302_0.png)
+				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
 			- To the below:
+				- Enable add FFT
+				- Enable add catalogue products
 				-
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
