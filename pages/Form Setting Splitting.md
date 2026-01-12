@@ -1,7 +1,7 @@
 # Task Brakedown
 	- ### Global PO Form Setting {{renderer :todomaster}}
 		- TODO retest global PO form setting that was not split & ensure they're still working as is
-	- ### Individual PO Form Setting
+	- ### Individual PO Form Setting {{renderer :todomaster}}
 		- TODO re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings after phase 2 enhancement
 			- **PR**
 				- `Manual PR -> PO`
@@ -14,7 +14,7 @@
 		- TODO Re-test the below existing feature is still intact
 			- Create new Form
 			- Type of PO form
-			- Form History Logs
+			- Form Setting List: History Logs
 				- Form Creation
 				- Form Deletion
 				- Form Name Change
