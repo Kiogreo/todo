@@ -1,5 +1,11 @@
 # Reminders
-	- TODO #meeting PO Form Setting: Item Setting Re-organisation
+	- DOING #meeting PO Form Setting: Item Setting Re-organisation
+	  id:: 69644daa-4699-4996-85a4-9daa3d45a2f9
+	  :LOGBOOK:
+	  CLOCK: [2026-01-12 Mon 09:33:44]--[2026-01-12 Mon 09:34:00] =>  00:00:16
+	  CLOCK: [2026-01-12 Mon 09:34:01]--[2026-01-12 Mon 09:34:32] =>  00:00:31
+	  CLOCK: [2026-01-12 Mon 09:34:33]
+	  :END:
 		- Objective
 			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
 - # Acceptance Criteria
