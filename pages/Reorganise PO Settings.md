@@ -1,5 +1,6 @@
 # Task Breakdown
-	- ### Global PO Form Setting
+	- ### Global PO Form Setting {{renderer :todomaster}}
+	  collapsed:: true
 		- #re-test Internal Source
 		  collapsed:: true
 			- DONE figure out how it work in BE
@@ -58,7 +59,8 @@
 		- EVA settings
 			- TODO Notify Users when Vendor Uploads GR attachment
 			- TODO Notify Users when Vendor Uploads Invoice
-	- ### Form Listing Page
+	- ### Form Listing Page {{renderer :todomaster}}
+	  collapsed:: true
 		- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 			- TODO Create new Form
 			- TODO History Logs
@@ -67,7 +69,8 @@
 				- Form Name Change
 				- Form Details change
 			- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
-	- ### Individual PO Form Setting
+	- ### Individual PO Form Setting {{renderer :todomaster}}
+	  collapsed:: true
 		- Form Setting Tab
 		  collapsed:: true
 			- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
