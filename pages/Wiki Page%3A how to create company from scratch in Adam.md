@@ -1,5 +1,6 @@
 # Objective
 	- To show step by step how to create a new Company in Adam
-- # Steps
-	- ## Pre-requisite
-	- Steps
+- # Pre-requisite
+	- Adam & Hub is fully operational
+- # Step by step instruction
+	-
