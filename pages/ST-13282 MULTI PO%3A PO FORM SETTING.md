@@ -1,4 +1,5 @@
 # Acceptance Criteria
+collapsed:: true
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
@@ -7,8 +8,8 @@
 	  logseq.order-list-type:: number
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
--
 - ## Q&A
+  collapsed:: true
 	- What is the main difference between Global PO Setting & Individual PO Setting?
 	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
@@ -21,8 +22,8 @@
 			- @nadzmi Need to check whether user can actually view the page once redirected to there'
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 	- Po acceptance not needed to split
--
 - # Task Breakdown
+  collapsed:: true
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
