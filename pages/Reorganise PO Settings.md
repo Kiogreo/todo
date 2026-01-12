@@ -1,6 +1,5 @@
 # Task Breakdown
 	- ### Global PO Form Setting {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO Re-test Internal Source is still working from 1 form to another
 		- TODO Re-test PO Acceptance
 		- Enable Requestor to access PO Details
