@@ -12,7 +12,8 @@
 		- ![Screenshot 2026-01-12 at 10.30.14 AM.png](../assets/Screenshot_2026-01-12_at_10.30.14 AM_1768185085818_0.png)
 	- Proceed to verify your company by clicking the `Verify` button in `Customer Company` page
 	  logseq.order-list-type:: number
-		-
+		- ![Screenshot 2026-01-12 at 10.32.46 AM.png](../assets/Screenshot_2026-01-12_at_10.32.46 AM_1768185222460_0.png)
+		- ![Screenshot 2026-01-12 at 10.33.25 AM.png](../assets/Screenshot_2026-01-12_at_10.33.25 AM_1768185228983_0.png)
 	- Check your email inbox in order to verify your email.
 	  logseq.order-list-type:: number
 		- ![Screenshot 2026-01-12 at 9.57.13 AM.png](../assets/Screenshot_2026-01-12_at_9.57.13 AM_1768184845935_0.png)
