@@ -190,7 +190,7 @@
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
-						  | Enable auto PO email | `purchase_order_enable_auto_email_auto_po` | This setting is not shown in UI |
+						  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
 						  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
 						  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
 						  | Send a copy to requestor | `` | |
