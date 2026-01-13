@@ -233,7 +233,9 @@
 					- Limit value based
 						- add toggle to enable/disable
 						- Do we need to remove the SETTING PERMISSION from HUB?
-							- Since we intend to
+							- Since we intend to allow customer to be able to toggle them by themselves
+							  logseq.order-list-type:: number
+							-
 				- Part 2 - Item configuration
 					- Plan = split up all the grouped settings into each individual settings into modular
 						- **KIV** from @ben in what are the setting that we want to
