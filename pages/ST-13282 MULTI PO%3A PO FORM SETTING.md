@@ -232,11 +232,14 @@
 					- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
 						- add toggle to enable/disable
+						- Do we need to remove the SETTING PERMISSION from HUB?
+							- Since we intend to
 				- Part 2 - Item configuration
 					- Plan = split up all the grouped settings into each individual settings into modular
 						- **KIV** from @ben in what are the setting that we want to
 					- Add Item from approved origin
 						- Item Source: Contract Item
-							-
+							- What does it do?
+							- If it works the same way as `Vendor Pricing` config,
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
