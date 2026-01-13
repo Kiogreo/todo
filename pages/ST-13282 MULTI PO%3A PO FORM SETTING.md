@@ -180,7 +180,6 @@
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
-			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
 				  collapsed:: true
@@ -209,7 +208,7 @@
 						- Add item from approved origin
 						- Display assigned vendor
 							-
-				- TODO PO T&C
+				- TODO PO T&C #q&a
 				  collapsed:: true
 					- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 					- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
@@ -217,7 +216,7 @@
 						- | **FIELD** | **KEY** | **REMARKS** |
 						  | --- | --- | --- |
 						  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
-				- TODO PO Email Text
+				- TODO PO Email Text #q&a
 				  collapsed:: true
 					- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 					- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
@@ -228,7 +227,6 @@
 						  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | |
 			- Form Fields Tab
 				- Part 1
-				  collapsed:: true
 					- #re-test Delivery Information
 					- #re-test Vendor Information
 					- #re-test Submission Information
@@ -236,17 +234,18 @@
 					- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
 						- add toggle to enable/disable
-						- Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer)
+						- TODO Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
 							- Yes, we HUB to enable the config for this feature for that company
 							  logseq.order-list-type:: number
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 							  logseq.order-list-type:: number
 				- Part 2 - Item configuration
-					- Plan = split up all the grouped settings into each individual settings into modular
+					- TODO Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- **KIV** from @ben in what are the setting that we want to
-					- Add Item from approved origin
+					- TODO Add Item from approved origin #q&a
 						- Item Source: Contract Item
+						  collapsed:: true
 							- What does it do?
-							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing`
+							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
