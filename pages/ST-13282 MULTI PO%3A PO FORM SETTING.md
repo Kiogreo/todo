@@ -101,6 +101,7 @@
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			- #re-test Internal Source
+			  collapsed:: true
 				- DONE figure out how it work in BE
 			- collapsed:: true
 			  
@@ -109,7 +110,9 @@
 					- **Answer** yes
 				- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 					- **Answer** NO
-			- Enable Requestor to access PO Details
+			- collapsed:: true
+			  
+			  Enable Requestor to access PO Details
 				- DONE #q&a #tanya-ben Is this still used?
 					- **Answer**
 						- Yes, still used.
