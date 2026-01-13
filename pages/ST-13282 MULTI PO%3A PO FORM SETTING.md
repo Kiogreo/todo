@@ -11,7 +11,7 @@
 		- Current Status
 			- We want to change the `Item Configuration` sub-section from:
 				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
-			- TODO To the below: #q&a
+			- TODO To the below: (@nadzmi to check again how the re-structuring of the ) #q&a
 				- Enable add FFT
 				- Enable add catalogue products
 					- Enable editing of Catalogue Item Name
