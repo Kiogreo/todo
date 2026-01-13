@@ -19,8 +19,12 @@
 					  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
 					- Enable editing of Catalogue Item Description
 					- Enable add Item Code
-				- Enablke
+				- Enable assigned vendor
+					- show all
+					- show assigned
+						- block submission
 				- Enable item from approved origin
+					- TODO to be clarified
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
