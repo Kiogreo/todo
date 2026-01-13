@@ -51,7 +51,7 @@
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
 	- TODO For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
-	- TODO For `PO T&C` & `PO T&C`
+	- TODO For `PO T&C` & `PO Email Text`, we no longer need the `Save` button
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
