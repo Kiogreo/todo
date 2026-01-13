@@ -8,17 +8,18 @@
 	  :END:
 		- Objective
 			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
+			- TODO @nadzmi to check again how the re-structuring of the item config should be done #q&a
 		- Current Status
 			- We want to change the `Item Configuration` sub-section from:
 				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
-			- TODO To the below: (@nadzmi to check again how the re-structuring of the item config ) #q&a
+			- To the below:
 				- Enable add FFT
 				- Enable add catalogue products
 					- Enable editing of Catalogue Item Name
 					  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
 					- Enable editing of Catalogue Item Description
 					- Enable add Item Code
-				- Enable display
+				- Enablke
 				- Enable item from approved origin
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
