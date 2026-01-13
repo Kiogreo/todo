@@ -14,6 +14,9 @@
 	- TODO [#B] [[ST-0 automate db initialization & db dumping]]
 	- Git Branching issues
 		- Test Cases for git rebase vs git merge
+			- Workflow options to test out
+				- cherry-pick
+				-
 			- Deployment
 				- Cherry-
 			- Development
