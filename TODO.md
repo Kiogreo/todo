@@ -15,8 +15,9 @@
 	- Git Branching issues
 		- Test Cases for git rebase vs git merge
 			- Workflow options to test out
-				- cherry-pick
-				-
+				- git cherry-pick
+				- git rebase
+				- git merge
 			- Deployment
 				- Cherry-
 			- Development
