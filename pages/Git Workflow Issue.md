@@ -10,11 +10,12 @@
 		  
 		  gitGraph
 		  	commit
-		      commit id: "Normal" tag: "v1.0.0"
-		            commit
-		            commit id: "Reverse" type: REVERSE tag: "RC_1"
-		            commit
-		            commit id: "Highlight" type: HIGHLIGHT tag: "8.8.4"
-		            commit
+		      branch staging
+		      branch ST-XXXX/FEAT/feature-context
+		      commit
+		      commit
+		      merge staging
+		      commit
+		      commit
 		  ```
 - # Proposed Git Workflow
