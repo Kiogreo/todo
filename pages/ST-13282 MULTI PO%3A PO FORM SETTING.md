@@ -34,6 +34,7 @@
 		- Yes, the user access the PO details page from the reference in PR details page
 			- @nadzmi Need to check whether user can actually view the page once redirected to there
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
+		- @Nadzmi to check & confirm what is the current
 	- Po acceptance not needed to split
 	- Regarding the `PO pull items from PR`, we don't have them yet
 		- Currently the concept **PULL** are only being used by RFX
