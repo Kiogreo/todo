@@ -24,7 +24,6 @@
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
 - ## Q&A
-  collapsed:: true
 	- What is the main difference between Global PO Setting & Individual PO Setting?
 	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
@@ -37,6 +36,9 @@
 			- @nadzmi Need to check whether user can actually view the page once redirected to there'
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 	- Po acceptance not needed to split
+	- Regarding the `PO pull items from PR`, we don't have them yet
+		- Currently the concept **PULL** are only being used by RFX
+		- PR uses **PUSH** instead to
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
