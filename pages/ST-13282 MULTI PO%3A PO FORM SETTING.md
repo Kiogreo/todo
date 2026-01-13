@@ -231,8 +231,8 @@
 					- #re-test Submission Information
 					- #re-test Item information
 					- Relabel Budget Setting (**Check JIRA Epic**)
-						- Limit value based
-							- add toggle to enable/disable
+					- Limit value based
+						- add toggle to enable/disable
 				- Part 2 - Item configuration
 					- Plan = split up all the grouped settings into each individual settings into modular
 						- **KIV** from @ben in what are the setting that we want to
