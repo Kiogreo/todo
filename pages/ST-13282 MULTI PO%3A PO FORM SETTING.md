@@ -235,5 +235,7 @@
 				- Part 2 - Item configuration
 					- Plan = split up all the grouped settings into each individual settings into modular
 						- **KIV** from @ben in what are the setting that we want to
+					- Add Item from approved origin
+						-
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
