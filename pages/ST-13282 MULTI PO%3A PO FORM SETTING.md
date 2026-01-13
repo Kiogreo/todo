@@ -34,9 +34,9 @@
 		- Yes, the user access the PO details page from the reference in PR details page
 			- @nadzmi Need to check whether user can actually view the page once redirected to there
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
-		- @Nadzmi to check & confirm what is the current
+		- TODO @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
 	- Po acceptance not needed to split
-	- Regarding the `PO pull items from PR`, we don't have them yet
+	- TODO Regarding the `PO pull items from PR`, we don't have them yet
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
 - # Task Breakdown
@@ -180,6 +180,7 @@
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
+			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
 				  collapsed:: true
@@ -227,6 +228,7 @@
 						  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | |
 			- Form Fields Tab
 				- Part 1
+				  collapsed:: true
 					- #re-test Delivery Information
 					- #re-test Vendor Information
 					- #re-test Submission Information
@@ -245,6 +247,6 @@
 					- Add Item from approved origin
 						- Item Source: Contract Item
 							- What does it do?
-							- If it works the same way as `Vendor Pricing` config,
+							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing`
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
