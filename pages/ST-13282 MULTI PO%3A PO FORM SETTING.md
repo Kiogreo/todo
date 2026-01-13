@@ -100,6 +100,7 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+		  collapsed:: true
 			- #re-test Internal Source
 			  collapsed:: true
 				- DONE figure out how it work in BE
@@ -176,10 +177,10 @@
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
-		  collapsed:: true
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 				- TODO Auto PO
+				  collapsed:: true
 					- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 					- Setting key
 					  id:: 695f4504-b56d-4123-9f41-8de373c2c547
@@ -189,6 +190,7 @@
 						  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
 						  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
 				- TODO Auto PO Email
+				  collapsed:: true
 					- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 					- Setting key
 						- | **FIELD** | **KEY** | **REMARKS** |
@@ -205,6 +207,7 @@
 						- Display assigned vendor
 							-
 				- TODO PO T&C
+				  collapsed:: true
 					- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 					- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
 					- Setting key
@@ -212,6 +215,7 @@
 						  | --- | --- | --- |
 						  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
 				- TODO PO Email Text
+				  collapsed:: true
 					- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 					- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 					- Setting key
