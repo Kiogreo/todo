@@ -15,7 +15,6 @@
 				- Enable add FFT
 				- Enable add catalogue products
 - # Acceptance Criteria
-  collapsed:: true
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
@@ -40,7 +39,6 @@
 	- Po acceptance not needed to split
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
-	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 		  collapsed:: true
 			- DONE #q&a Do we still need to add setting in HUB?
@@ -99,6 +97,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 		  collapsed:: true
