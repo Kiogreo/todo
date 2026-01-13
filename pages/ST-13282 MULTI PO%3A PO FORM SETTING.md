@@ -14,6 +14,7 @@
 			- To the below:
 				- Enable add FFT
 				- Enable add catalogue products
+				- Enable item from approved origin
 - # Acceptance Criteria
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
