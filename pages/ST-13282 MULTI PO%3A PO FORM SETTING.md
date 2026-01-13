@@ -46,7 +46,7 @@
 			- @nadzmi Need to check whether user can actually view the page once redirected to there
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 		- TODO @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
-	- Po acceptance not needed to split
+	- DONE Po acceptance not needed to split
 	- TODO Regarding the `PO pull items from PR`, we don't have them yet
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
@@ -193,50 +193,50 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-				- TODO Auto PO
-				  collapsed:: true
-					- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
-					- Setting key
-					  id:: 695f4504-b56d-4123-9f41-8de373c2c547
-						- id:: 695f450e-dd00-47d5-811b-1a042eeed348
-						  | **FIELD** | **KEY** | **REMARKS** |
-						  | --- | --- | --- |
-						  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
-						  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
-				- TODO Auto PO Email
-				  collapsed:: true
-					- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
-					- Setting key
-						- | **FIELD** | **KEY** | **REMARKS** |
-						  | --- | --- | --- |
-						  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
-						  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
-						  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
-						  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | |
-						  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | |
-						  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
-						  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | |
-					- Note
-						- Add item from approved origin
-						- Display assigned vendor
-							-
-				- TODO PO T&C #q&a
-				  collapsed:: true
-					- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
-					- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
-					- Setting key
-						- | **FIELD** | **KEY** | **REMARKS** |
-						  | --- | --- | --- |
-						  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
-				- TODO PO Email Text #q&a
-				  collapsed:: true
-					- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
-					- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
-					- Setting key
-						- | **FIELD** | **KEY** | **REMARKS** |
-						  | --- | --- | --- |
-						  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | |
-						  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | |
+					- TODO Auto PO
+					  collapsed:: true
+						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
+						- Setting key
+						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
+							- id:: 695f450e-dd00-47d5-811b-1a042eeed348
+							  | **FIELD** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
+							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
+					- TODO Auto PO Email
+					  collapsed:: true
+						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
+						- Setting key
+							- | **FIELD** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
+							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
+							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | |
+							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
+							  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | |
+						- Note
+							- Add item from approved origin
+							- Display assigned vendor
+								-
+					- TODO PO T&C #q&a
+					  collapsed:: true
+						- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
+						- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
+						- Setting key
+							- | **FIELD** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
+					- TODO PO Email Text #q&a
+					  collapsed:: true
+						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
+						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
+						- Setting key
+							- | **FIELD** | **KEY** | **REMARKS** |
+							  | --- | --- | --- |
+							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | |
+							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | |
 			- Form Fields Tab
 				- Part 1
 					- #re-test Delivery Information
