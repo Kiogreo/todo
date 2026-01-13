@@ -51,6 +51,7 @@
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
 	- TODO For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
+	- TODO For `PO T&C` & `PO T&C`
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
@@ -193,7 +194,7 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-					- TODO Auto PO
+					- TODO Auto PO #q&a
 					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 						- Setting key
@@ -203,7 +204,7 @@
 							  | --- | --- | --- |
 							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
-					- TODO Auto PO Email
+					- TODO Auto PO Email #q&a
 					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
