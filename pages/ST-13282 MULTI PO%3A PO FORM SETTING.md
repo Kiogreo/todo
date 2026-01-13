@@ -232,8 +232,10 @@
 					- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
 						- add toggle to enable/disable
-						- Do we need to remove the SETTING PERMISSION from HUB?
-							- Since we intend to allow customer to be able to toggle them by themselves
+						- Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer)
+							- Yes, we HUB to enable the config for this feature for that company
+							  logseq.order-list-type:: number
+							- No, Since we intend to allow customer to be able to toggle them by themselves
 							  logseq.order-list-type:: number
 							-
 				- Part 2 - Item configuration
