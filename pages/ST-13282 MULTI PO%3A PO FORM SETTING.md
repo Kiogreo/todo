@@ -235,9 +235,8 @@
 						- Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer)
 							- Yes, we HUB to enable the config for this feature for that company
 							  logseq.order-list-type:: number
-							- No, Since we intend to allow customer to be able to toggle them by themselves
+							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 							  logseq.order-list-type:: number
-							-
 				- Part 2 - Item configuration
 					- Plan = split up all the grouped settings into each individual settings into modular
 						- **KIV** from @ben in what are the setting that we want to
