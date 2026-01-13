@@ -1,0 +1,122 @@
+{:blocks (
+{:block/content "production"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6965da4e-a71d-4b41-90d7-7522924e78f6"}
+:block/parent 
+{:block/uuid #uuid "6965da4e-a71d-4b41-90d7-7522924e78f6"}
+:block/properties 
+{}
+:block/uuid #uuid "6965da5f-b6d7-4f96-a363-277d2b99c3ef"} 
+{:block/created-at 1768282761604
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "#901313"
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6965da5f-b6d7-4f96-a363-277d2b99c3ef"
+:scaleLevel "md"
+:fill "#901313"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "19a86720-f042-11f0-ac6e-fbe0db58c039"
+:noFill false
+:point [96 272]
+:parentId "6965da4e-a71d-4b41-90d7-7522924e78f6"
+:collapsedHeight 0
+:nonce 1768282713875}}
+:block/updated-at 1768282761604} 
+{:block/content "staging"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6965da5f-b6d7-4f96-a363-277d2b99c3ef"}
+:block/parent 
+{:block/uuid #uuid "6965da4e-a71d-4b41-90d7-7522924e78f6"}
+:block/uuid #uuid "6965da67-e4cc-4188-aa65-1d5e88767274"} 
+{:block/created-at 1768282794862
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "#865319"
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "6965da67-e4cc-4188-aa65-1d5e88767274"
+:scaleLevel "md"
+:fill "#865319"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "211d1ff0-f042-11f0-ac6e-fbe0db58c039"
+:noFill false
+:point [560 272]
+:parentId "6965da4e-a71d-4b41-90d7-7522924e78f6"
+:collapsedHeight 0
+:nonce 1768282726448}}
+:block/updated-at 1768282794862} 
+{:block/content "feature branches"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6965da67-e4cc-4188-aa65-1d5e88767274"}
+:block/parent 
+{:block/uuid #uuid "6965da4e-a71d-4b41-90d7-7522924e78f6"}
+:block/uuid #uuid "6965da73-c232-46a6-8d65-bd3b86adefef"} 
+{:block/created-at 1768282791031
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "#166a24"
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "6965da73-c232-46a6-8d65-bd3b86adefef"
+:scaleLevel "md"
+:fill "#166a24"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "232b3f70-f042-11f0-ac6e-fbe0db58c039"
+:noFill false
+:point [576 568]
+:parentId "6965da4e-a71d-4b41-90d7-7522924e78f6"
+:collapsedHeight 0
+:nonce 1768282729764}}
+:block/updated-at 1768282791031})
+:pages (
+{:block/uuid #uuid "6965da4e-a71d-4b41-90d7-7522924e78f6"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6965da4e-a71d-4b41-90d7-7522924e78f6"
+:name "current git workflow"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("19a86720-f042-11f0-ac6e-fbe0db58c039" "211d1ff0-f042-11f0-ac6e-fbe0db58c039" "232b3f70-f042-11f0-ac6e-fbe0db58c039")}}
+:block/updated-at 1768282794862
+:block/created-at 1768282702288
+:block/type "whiteboard"
+:block/name "current git workflow"
+:block/original-name "current git workflow"})}
