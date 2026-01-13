@@ -50,7 +50,7 @@
 	- TODO Regarding the `PO pull items from PR`, we don't have them yet
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
-	- TODO For the `Display Assigned Vendor Only` setting, why do we have th e`Block` setting instead of making the
+	- TODO For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
