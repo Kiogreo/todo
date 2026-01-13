@@ -24,21 +24,20 @@
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
 - ## Q&A
-	- What is the main difference between Global PO Setting & Individual PO Setting?
+	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
 	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
 		  | --- | ---- |
 		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
-	- For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
-	  collapsed:: true
+	- TODO For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
 		- Yes, the user access the PO details page from the reference in PR details page
 			- @nadzmi Need to check whether user can actually view the page once redirected to there'
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 	- Po acceptance not needed to split
 	- Regarding the `PO pull items from PR`, we don't have them yet
 		- Currently the concept **PULL** are only being used by RFX
-		- PR uses **PUSH** instead to
+		- For PR, it **PUSH** item to create a new PO
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
