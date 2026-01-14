@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["TODO" "FE & BE Code Standardization" "ST-0 SUPPLYCART WIKI" "ST-13600 MULTI PO: PO FORM SETTING"]
+ :favorites ["ST-13282 MULTI PO: PO FORM SETTING" "TODO"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,4 +419,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? false
+ :editor/preferred-pasting-file? true
+ :journal/page-title-format "yyyy-MM-dd EEEE"}
