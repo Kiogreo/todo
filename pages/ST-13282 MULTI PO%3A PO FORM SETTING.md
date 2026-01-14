@@ -43,7 +43,6 @@
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
 	- TODO For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
 		- Yes, the user access the PO details page from the reference in PR details page
-			- @nadzmi Need to check whether user can actually view the page once redirected to there
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 		- TODO @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
 	- DONE Po acceptance not needed to split
