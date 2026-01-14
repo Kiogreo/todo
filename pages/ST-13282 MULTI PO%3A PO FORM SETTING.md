@@ -114,7 +114,6 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-		  collapsed:: true
 			- #re-test Internal Source
 			  collapsed:: true
 				- DONE figure out how it work in BE
@@ -133,7 +132,6 @@
 						- Yes, still used.
 						- From PR details page, requester will access PO details page through the internal source reference.
 			- #re-test Revise & Edit PO
-			  collapsed:: true
 				- DONE Enable Revise PO
 				- DONE Require Approval for Lower Revision Sum
 					- **Revision Sum** = total item cost
@@ -145,10 +143,8 @@
 				  CLOCK: [2026-01-07 Wed 16:07:55]
 				  :END:
 			- #re-test Company PO Page filters
-			  collapsed:: true
 				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
-			  collapsed:: true
 				- DONE Enable Goods Received Closing
 				- DONE Enable Extra Receiving Quantity
 				  collapsed:: true
@@ -171,11 +167,9 @@
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
 			- Advance Payment
-			  collapsed:: true
 				- TODO create mailing group
 				- TODO check advance payment flow
 			- EVA settings
-			  collapsed:: true
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
