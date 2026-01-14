@@ -114,6 +114,7 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+		  collapsed:: true
 			- #re-test Internal Source
 			  collapsed:: true
 				- DONE figure out how it work in BE
@@ -132,19 +133,21 @@
 						- Yes, still used.
 						- From PR details page, requester will access PO details page through the internal source reference.
 			- #re-test Revise & Edit PO
+			  collapsed:: true
 				- DONE Enable Revise PO
 				- DONE Require Approval for Lower Revision Sum
 					- **Revision Sum** = total item cost
 					- By default all revise PO that has higher **Revision Sum** require approval
 				- TODO Enable Revise on POs that have GR activity on them
-					- How does it work?
 				- DOING Enable Edit PO
 				  :LOGBOOK:
 				  CLOCK: [2026-01-07 Wed 16:07:55]
 				  :END:
 			- #re-test Company PO Page filters
+			  collapsed:: true
 				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
+			  collapsed:: true
 				- DONE Enable Goods Received Closing
 				- DONE Enable Extra Receiving Quantity
 				  collapsed:: true
@@ -167,14 +170,17 @@
 				- TODO Enable Receiving Invoice Price Update
 				- TODO Enable Goods Return
 			- Advance Payment
+			  collapsed:: true
 				- TODO create mailing group
 				- TODO check advance payment flow
 			- EVA settings
+			  collapsed:: true
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
 		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
+			  collapsed:: true
 				- TODO Create new Form
 				- TODO History Logs
 					- Form Creation
@@ -185,11 +191,9 @@
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
-		  collapsed:: true
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO #q&a
-					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 						- Setting key
 						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
@@ -199,7 +203,6 @@
 							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
 					- TODO Auto PO Email #q&a
-					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
 							- | **FIELD** | **KEY** | **REMARKS** |
@@ -216,7 +219,6 @@
 							- Display assigned vendor
 								-
 					- TODO PO T&C #q&a
-					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 						- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
 						- Setting key
@@ -224,7 +226,6 @@
 							  | --- | --- | --- |
 							  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
 					- TODO PO Email Text #q&a
-					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 						- Setting key
