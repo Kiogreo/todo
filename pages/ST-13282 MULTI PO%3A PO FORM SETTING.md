@@ -253,7 +253,8 @@
 					- TODO Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- TODO **KIV** from @ben in what are the setting that we want to #q&a
 					- TODO Add Item from approved origin #q&a
-						- TODO Item Source: Contract Item #q&a
+						- TODO Item Source: Contract Item
+							- #q&a Not now
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
 			- #re-test PO PDF Tab
