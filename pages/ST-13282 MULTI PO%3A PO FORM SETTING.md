@@ -24,11 +24,12 @@
 					- () show assigned
 						- [] block submission
 				- [] Enable item from approved origin
-			- **UPDATED**
+			- ## **UPDATED**
 				- [] Show assigned vendor
 					- ( ) **Allow all vendors when none assigned**
 					- ( ) **Only allow assigned vendors**
-				- How to show price?
+				- [] Do I pull price from catalogue?
+					- [] pull &
 					-
 - # Acceptance Criteria
   collapsed:: true
