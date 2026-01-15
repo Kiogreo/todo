@@ -25,7 +25,7 @@
 						- [] block submission
 				- [] Enable item from approved origin
 			- **UPDATED**
-				- Vendor Assignment
+				- [] Show assigned vendor
 					- ( ) **Allow all vendors when none assigned**
 					- ( ) **Only allow assigned vendors**
 				- How to show price?
