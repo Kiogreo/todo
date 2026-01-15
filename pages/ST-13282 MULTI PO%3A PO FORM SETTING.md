@@ -67,6 +67,7 @@
 	- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
+	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 			- DONE #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
@@ -79,6 +80,7 @@
 		- #re-test **User Form Assignment**
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
@@ -94,12 +96,12 @@
 		- ### Individual PO Form Setting
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 				- **PR**
-					- TODO `Manual PR -> PO`
-					- TODO `Auto PR -> PO`
+					- DONE `Manual PR -> PO`
+					- DONE `Auto PR -> PO`
 				- **RFX**
-					- TODO `RQ > RFX > PR`
+					- DONE `RQ > RFX > PR`
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
-					- TODO `PR > RFX > PO`
+					- DONE `PR > RFX > PO`
 			- #re-test Each PO will have GR & IR form attached
 				- Answer to all the below questions:
 					- it's not needed to add `Form Name` column for GR, RTN & PI moduel.
@@ -174,7 +176,6 @@
 				- DONE Notify Users when Vendor Uploads GR attachment
 				- DONE Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
-		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- DONE Create new Form
 				- DONE History Logs
@@ -186,7 +187,6 @@
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
-		  collapsed:: true
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO #q&a
@@ -229,7 +229,6 @@
 							  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
 					- TODO PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
-					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 						- Setting key
