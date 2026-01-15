@@ -26,7 +26,8 @@
 				- [] Enable item from approved origin
 			- **UPDATED**
 				- Vendor Assignment
-					-
+					- ( ) **Allow all vendors when none assigned**
+					- ( ) **Only allow assigned vendors**
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
