@@ -28,6 +28,8 @@
 				- Vendor Assignment
 					- ( ) **Allow all vendors when none assigned**
 					- ( ) **Only allow assigned vendors**
+				- How to show price?
+					-
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
