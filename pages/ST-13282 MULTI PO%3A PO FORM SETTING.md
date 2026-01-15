@@ -26,6 +26,7 @@
 				- Enable item from approved origin
 					- TODO to be clarified
 - # Acceptance Criteria
+  collapsed:: true
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
@@ -35,6 +36,7 @@
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
 - ## Q&A
+  collapsed:: true
 	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
 	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
@@ -107,10 +109,8 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-		  collapsed:: true
 			- #re-test Internal Source
 			  collapsed:: true
 				- DONE figure out how it work in BE
@@ -174,7 +174,6 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
-		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 			  collapsed:: true
 				- TODO Create new Form
@@ -262,6 +261,7 @@
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
 - # Pending Tasks
+  collapsed:: true
 	- DONE [[Company & Form Setting Setup]]
 	- DONE [[Form Setting Splitting]]
 	- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
