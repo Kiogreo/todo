@@ -109,6 +109,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 		  collapsed:: true
@@ -220,6 +221,7 @@
 							- Display assigned vendor
 								-
 					- TODO PO T&C #q&a
+					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
 					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 						- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
@@ -269,15 +271,19 @@
 		- DONE Global PO Form Setting
 		- TODO Individual PO Form Setting
 			- Form Setting Tab
-				- Auto PO
+				- [Auto PO](logseq://graph/TODO?block-id=6966f4bd-3d8e-4235-89e0-6086e5821088)
 					- FE
+						-
 					- BE
+						-
 				- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
 					- FE
 					- BE
-				- PDF Terms & Conditions
+				- [PDF Terms & Conditions](logseq://graph/TODO?block-id=6966f4bd-c7e6-435c-86da-7b38aee28507)
 					- FE
+						-
 					- BE
+						- Add the T&C te
 				- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
 					- FE
 					- BE
