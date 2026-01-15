@@ -26,7 +26,6 @@
 				- Enable item from approved origin
 					- TODO to be clarified
 - # Acceptance Criteria
-  collapsed:: true
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
@@ -36,7 +35,6 @@
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
 - ## Q&A
-  collapsed:: true
 	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
 	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
