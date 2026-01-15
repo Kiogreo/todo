@@ -25,14 +25,10 @@
 						- [] block submission
 				- [] Enable item from approved origin
 			- ## **UPDATED**
-				- [] Show assigned vendor
-					- ( ) **Allow all vendors when none assigned**
-					- ( ) **Only allow assigned vendors**
-				- [] Do I pull price from catalogue?
-					- () Pull & block if contract
-					- () Pull but don't block
-					- () Don't pull
-						-
+				- 1. [ ] Show assigned vendor
+					- a. ( ) Allow all vendor when none assigned
+					- b. ( ) Only allow assigned vendor
+				- 2. [ ] Pull price from catalogue?
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
