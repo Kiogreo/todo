@@ -24,7 +24,9 @@
 					- () show assigned
 						- [] block submission
 				- [] Enable item from approved origin
-					- TODO to be clarified
+			- **UPDATED**
+				- Vendor Assignment
+					-
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
