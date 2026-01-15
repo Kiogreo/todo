@@ -32,7 +32,7 @@
 					- () Pull & block if contract
 					- () Pull but don't block
 					- () Don't pull
-					-
+						-
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
