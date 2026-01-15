@@ -261,10 +261,13 @@
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 							  logseq.order-list-type:: number
 				- Part 2 - Item configuration
-					- TODO Plan = split up all the grouped settings into each individual settings into modular #q&a
-						- TODO **KIV** from @ben in what are the setting that we want to #q&a
-					- TODO Add Item from approved origin #q&a
-						- TODO Item Source: Contract Item
+					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
+						- DONE **KIV** from @ben in what are the setting that we want to #q&a
+						  :LOGBOOK:
+						  CLOCK: [2026-01-15 Thu 16:10:31]--[2026-01-15 Thu 16:10:32] =>  00:00:01
+						  :END:
+					- DONE Add Item from approved origin #q&a
+						- DONE Item Source: Contract Item
 							- #q&a Not now
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
