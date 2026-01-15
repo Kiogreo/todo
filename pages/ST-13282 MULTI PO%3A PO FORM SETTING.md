@@ -8,7 +8,7 @@
 	  :END:
 		- Objective
 			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
-			- TODO @nadzmi to check again how the re-structuring of the item config should be done #q&a
+			- DONE @nadzmi to check again how the re-structuring of the item config should be done #q&a
 		- Current Status
 			- We want to change the `Item Configuration` sub-section from:
 				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
@@ -46,26 +46,22 @@
 		  logseq.order-list-type:: number
 - ## Q&A
 	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
-	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
 		  | --- | ---- |
 		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
 	- DONE For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
-	  collapsed:: true
 		- Yes, the user access the PO details page from the reference in PR details page
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 		- DONE @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
 	- DONE Po acceptance not needed to split
 	- DONE Regarding the `PO pull items from PR`, we don't have them yet
-	  collapsed:: true
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
 	- DONE For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
 	- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
-	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 			- DONE #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
@@ -78,7 +74,6 @@
 		- #re-test **User Form Assignment**
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
@@ -121,25 +116,20 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+		  collapsed:: true
 			- #re-test Internal Source
-			  collapsed:: true
 				- DONE figure out how it work in BE
-			- collapsed:: true
-			  
-			  PO Acceptance
+			- PO Acceptance
 				- DONE #q&a Is this referring to a scenario where vendor is accepted?
 					- **Answer** yes
 				- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
 					- **Answer** NO
-			- collapsed:: true
-			  
-			  Enable Requestor to access PO Details
+			- Enable Requestor to access PO Details
 				- DONE #q&a #tanya-ben Is this still used?
 					- **Answer**
 						- Yes, still used.
 						- From PR details page, requester will access PO details page through the internal source reference.
 			- #re-test Revise & Edit PO
-			  collapsed:: true
 				- DONE Enable Revise PO
 				- DONE Require Approval for Lower Revision Sum
 					- **Revision Sum** = total item cost
@@ -150,7 +140,6 @@
 				  CLOCK: [2026-01-07 Wed 16:07:55]--[2026-01-15 Thu 16:15:01] =>  192:07:06
 				  :END:
 			- #re-test Company PO Page filters
-			  collapsed:: true
 				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
 				- DONE Enable Goods Received Closing
@@ -172,21 +161,19 @@
 					  | --- | --- |
 					  | **Enabled** | ![image.png](../assets/image_1767849912691_0.png) |
 					  | **Disabled** | ![image.png](../assets/image_1767849829983_0.png) |
-				- TODO Enable Receiving Invoice Price Update
-				- TODO Enable Goods Return
+				- DONE Enable Receiving Invoice Price Update
+				- DONE Enable Goods Return
 			- Advance Payment
-			  collapsed:: true
-				- TODO create mailing group
-				- TODO check advance payment flow
+				- DONE create mailing group
+				- DONE check advance payment flow
 			- EVA settings
-			  collapsed:: true
-				- TODO Notify Users when Vendor Uploads GR attachment
-				- TODO Notify Users when Vendor Uploads Invoice
+				- DONE Notify Users when Vendor Uploads GR attachment
+				- DONE Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
+		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
-			  collapsed:: true
-				- TODO Create new Form
-				- TODO History Logs
+				- DONE Create new Form
+				- DONE History Logs
 					- Form Creation
 					  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
 					- Form Deletion
@@ -195,6 +182,7 @@
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
+		  collapsed:: true
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO #q&a
