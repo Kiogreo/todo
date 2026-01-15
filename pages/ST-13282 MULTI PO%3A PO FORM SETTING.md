@@ -29,7 +29,9 @@
 					- ( ) **Allow all vendors when none assigned**
 					- ( ) **Only allow assigned vendors**
 				- [] Do I pull price from catalogue?
-					- [] pull &
+					- () Pull & block if contract
+					- () Pull but don't block
+					- () Don't pull
 					-
 - # Acceptance Criteria
   collapsed:: true
