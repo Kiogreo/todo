@@ -283,7 +283,8 @@
 					- FE
 						-
 					- BE
-						- TODO make sure to add
+						- TODO make sure to save them within the form setting's `template` section
+						-
 				- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
 					- FE
 					- BE
