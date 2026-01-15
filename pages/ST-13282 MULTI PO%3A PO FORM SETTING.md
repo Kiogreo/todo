@@ -279,6 +279,7 @@
 						- `<AutoPO />` component skeleton is done
 					- BE
 						-
+						- **REFERENCE** {{embed ((6966f4bd-3d8e-4235-89e0-6086e5821088))}}
 				- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
 					- FE
 						-
