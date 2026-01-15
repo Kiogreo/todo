@@ -70,7 +70,6 @@
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
 	  collapsed:: true
 		- ### Global PO Form Setting
-		  collapsed:: true
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
 				- ```
@@ -83,7 +82,6 @@
 				  ```
 				- A: Group here means that multi po will help in terms of making single po form setting to encapsulate different groups of companies' needs
 		- ### Individual PO Form Setting
-		  collapsed:: true
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
 				- **PR**
 					- TODO `Manual PR -> PO`
@@ -111,7 +109,6 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 		  collapsed:: true
@@ -178,7 +175,6 @@
 				- TODO Notify Users when Vendor Uploads GR attachment
 				- TODO Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
-		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 			  collapsed:: true
 				- TODO Create new Form
@@ -191,6 +187,7 @@
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
+		  collapsed:: true
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO #q&a
@@ -257,6 +254,9 @@
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
 - # Pending Tasks
-	- TODO [[Company & Form Setting Setup]]
-	- [[Form Setting Splitting]]
-	- [[Reorganise PO Settings]]
+	- DONE [[Company & Form Setting Setup]]
+	- DONE [[Form Setting Splitting]]
+	- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
+		- TODO Form Listing Page
+		- TODO Global PO Form Setting
+		- TODO Individual PO Form Setting
