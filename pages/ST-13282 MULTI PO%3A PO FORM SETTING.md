@@ -285,6 +285,12 @@
 					- BE
 						- TODO make sure to save them within the `form_settings.values` column
 							- ```json
+							  {
+							    ...
+							    "template": {
+							      "tnc": "T&C templates....",
+							    }
+							  }
 							  ```
 						-
 				- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
