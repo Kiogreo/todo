@@ -144,16 +144,15 @@
 				- DONE Require Approval for Lower Revision Sum
 					- **Revision Sum** = total item cost
 					- By default all revise PO that has higher **Revision Sum** require approval
-				- TODO Enable Revise on POs that have GR activity on them
-				- DOING Enable Edit PO
+				- DONE Enable Revise on POs that have GR activity on them
+				- DONE Enable Edit PO
 				  :LOGBOOK:
-				  CLOCK: [2026-01-07 Wed 16:07:55]
+				  CLOCK: [2026-01-07 Wed 16:07:55]--[2026-01-15 Thu 16:15:01] =>  192:07:06
 				  :END:
 			- #re-test Company PO Page filters
 			  collapsed:: true
 				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
 			- #re-test Closing Po
-			  collapsed:: true
 				- DONE Enable Goods Received Closing
 				- DONE Enable Extra Receiving Quantity
 				  collapsed:: true
@@ -255,7 +254,7 @@
 					- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
 						- add toggle to enable/disable
-						- TODO Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
+						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
 							- Yes, we HUB to enable the config for this feature for that company
 							  logseq.order-list-type:: number
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
