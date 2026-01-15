@@ -202,6 +202,7 @@
 							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
 					- TODO Auto PO Email #q&a
+					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
 					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
@@ -269,7 +270,7 @@
 			- Form Setting Tab
 				- FE
 					- Auto PO
-					- Auto PO Email
+					- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
 					-
 				- BE
 			- Form Fields Tab
