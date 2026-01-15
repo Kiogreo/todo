@@ -50,15 +50,17 @@
 		  | --- | ---- |
 		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
-	- TODO For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
+	- DONE For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
+	  collapsed:: true
 		- Yes, the user access the PO details page from the reference in PR details page
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
-		- TODO @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
+		- DONE @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
 	- DONE Po acceptance not needed to split
-	- TODO Regarding the `PO pull items from PR`, we don't have them yet
+	- DONE Regarding the `PO pull items from PR`, we don't have them yet
+	  collapsed:: true
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
-	- TODO For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
+	- DONE For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
 	- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
