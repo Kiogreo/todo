@@ -46,16 +46,19 @@
 		  logseq.order-list-type:: number
 - ## Q&A
 	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
+	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
 		  | --- | ---- |
 		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
 		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
 	- DONE For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
+	  collapsed:: true
 		- Yes, the user access the PO details page from the reference in PR details page
 			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
 		- DONE @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
 	- DONE Po acceptance not needed to split
 	- DONE Regarding the `PO pull items from PR`, we don't have them yet
+	  collapsed:: true
 		- Currently the concept **PULL** are only being used by RFX
 		- For PR, it **PUSH** item to create a new PO
 	- DONE For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
