@@ -29,6 +29,10 @@
 					- a. ( ) Allow all vendor when none assigned
 					- b. ( ) Only allow assigned vendor
 				- 2. [ ] Pull price from catalogue?
+				- 3. Enable add item from popup
+					- Display catalogue item as grid
+					- Display catalogue item as list
+				- 4. Enable bulk create item
 - # Acceptance Criteria
   collapsed:: true
 	- [[Form Setting Splitting]]
