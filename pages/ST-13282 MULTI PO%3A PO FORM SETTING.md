@@ -123,6 +123,7 @@
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+		  collapsed:: true
 			- #re-test Internal Source
 				- DONE figure out how it work in BE
 			- PO Acceptance
@@ -176,6 +177,7 @@
 				- DONE Notify Users when Vendor Uploads GR attachment
 				- DONE Notify Users when Vendor Uploads Invoice
 		- ### Form Listing Page
+		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- DONE Create new Form
 				- DONE History Logs
@@ -229,6 +231,7 @@
 							  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
 					- TODO PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
+					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 						- Setting key
@@ -264,7 +267,6 @@
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
 - # Pending Tasks
-  collapsed:: true
 	- DONE [[Company & Form Setting Setup]]
 	- DONE [[Form Setting Splitting]]
 	- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
@@ -274,12 +276,14 @@
 			- Form Setting Tab
 				- [Auto PO](logseq://graph/TODO?block-id=6966f4bd-3d8e-4235-89e0-6086e5821088)
 					- FE
-						-
+						- `<AutoPO />` component skeleton is done
 					- BE
 						-
 				- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
 					- FE
+						-
 					- BE
+						-
 				- [PDF Terms & Conditions](logseq://graph/TODO?block-id=6966f4bd-c7e6-435c-86da-7b38aee28507)
 					- FE
 						-
