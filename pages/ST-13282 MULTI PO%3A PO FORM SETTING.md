@@ -25,6 +25,7 @@
 						- [] block submission
 				- [] Enable item from approved origin
 			- ## **UPDATED**
+				- Enable add FFT
 				- 1. [ ] Show assigned vendor
 					- a. ( ) Allow all vendor when none assigned
 					- b. ( ) Only allow assigned vendor
