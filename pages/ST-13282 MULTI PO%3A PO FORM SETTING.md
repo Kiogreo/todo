@@ -19,7 +19,7 @@
 					  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
 					- [] Enable editing of Catalogue Item Description
 					- [] Enable add Item Code
-				- [] Enable assigned vendor
+				- [] Enable assigned vendor (to product)
 					- () show all
 					- () show assigned
 						- [] block submission
