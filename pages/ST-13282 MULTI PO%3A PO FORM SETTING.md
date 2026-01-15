@@ -55,6 +55,7 @@
 	- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
 - # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
+	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 			- DONE #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
@@ -110,6 +111,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 		  collapsed:: true
@@ -254,3 +256,7 @@
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
+- # Pending Tasks
+	- TODO [[Company & Form Setting Setup]]
+	- [[Form Setting Splitting]]
+	- [[Reorganise PO Settings]]
