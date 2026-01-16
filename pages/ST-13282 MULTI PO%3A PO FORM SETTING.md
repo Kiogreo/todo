@@ -267,40 +267,43 @@
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
 - # Pending Tasks
-	- DONE [[Company & Form Setting Setup]]
-	- DONE [[Form Setting Splitting]]
-	- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
-		- DONE Form Listing Page
-		- DONE Global PO Form Setting
-		- TODO Individual PO Form Setting
-			- Form Setting Tab
-				- [Auto PO](logseq://graph/TODO?block-id=6966f4bd-3d8e-4235-89e0-6086e5821088)
-					- FE
-						- `<AutoPO />` component skeleton is done
-					- BE
-						- Save config into
-						- **REFERENCE** {{embed ((6966f4bd-3d8e-4235-89e0-6086e5821088))}}
-				- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
-					- FE
-						-
-					- BE
-						-
-				- [PDF Terms & Conditions](logseq://graph/TODO?block-id=6966f4bd-c7e6-435c-86da-7b38aee28507)
-					- FE
-						-
-					- BE
-						- TODO make sure to save them within the `form_settings.values` column
-							- ```json
-							  {
-							    ...
-							    "template": {
-							      "tnc": "T&C templates....",
-							    }
-							  }
-							  ```
-						-
-				- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
-					- FE
-					- BE
-			- Form Fields Tab
-				-
+	- TODO Update Ticket
+	- Dev
+		- DONE [[Company & Form Setting Setup]]
+		- DONE [[Form Setting Splitting]]
+		- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
+		  collapsed:: true
+			- DONE Form Listing Page
+			- DONE Global PO Form Setting
+			- TODO Individual PO Form Setting
+				- Form Setting Tab
+					- [Auto PO](logseq://graph/TODO?block-id=6966f4bd-3d8e-4235-89e0-6086e5821088)
+						- FE
+							- `<AutoPO />` component skeleton is done
+						- BE
+							- Save config into
+							- **REFERENCE** {{embed ((6966f4bd-3d8e-4235-89e0-6086e5821088))}}
+					- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
+						- FE
+							-
+						- BE
+							-
+					- [PDF Terms & Conditions](logseq://graph/TODO?block-id=6966f4bd-c7e6-435c-86da-7b38aee28507)
+						- FE
+							-
+						- BE
+							- TODO make sure to save them within the `form_settings.values` column
+								- ```json
+								  {
+								    ...
+								    "template": {
+								      "tnc": "T&C templates....",
+								    }
+								  }
+								  ```
+							-
+					- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
+						- FE
+						- BE
+				- Form Fields Tab
+					-
