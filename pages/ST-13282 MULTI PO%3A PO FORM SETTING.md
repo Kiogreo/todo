@@ -267,7 +267,7 @@
 			- #re-test PO PDF Tab
 			- #re-test Setup Logs
 - # Pending Tasks
-	- TODO Update Ticket For Multi PO: 2nd
+	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
 		- DONE [[Company & Form Setting Setup]]
 		- DONE [[Form Setting Splitting]]
