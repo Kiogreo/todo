@@ -272,7 +272,6 @@
 		- DONE [[Company & Form Setting Setup]]
 		- DONE [[Form Setting Splitting]]
 		- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
-		  collapsed:: true
 			- DONE Form Listing Page
 			- DONE Global PO Form Setting
 			- TODO Individual PO Form Setting
