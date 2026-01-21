@@ -1,5 +1,5 @@
 block
   plugin["Plugin"] space moduleEngine["Module Engine"]
+  plugin["Plugin"] -- "feed into" --> moduleEngine["Module Engine"]
   moduleEngine["Module Engine"] space formSetting["Form Setting"]
-  plugin["Plugin"] --> moduleEngine["Module Engine"]
-  moduleEngine["Module Engine"] --> formSetting["Form Setting"]
+  moduleEngine["Module Engine"] -- "generates" --> formSetting["Form Setting"]
