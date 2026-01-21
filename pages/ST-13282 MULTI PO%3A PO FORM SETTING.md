@@ -225,7 +225,7 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | PDF Terms & Conditionsc | `purchase_requisition_tnc` | |
+							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `` |
 					- TODO PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
