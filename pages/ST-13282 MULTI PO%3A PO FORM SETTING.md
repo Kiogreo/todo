@@ -197,10 +197,10 @@
 						- Setting key
 						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
 							- id:: 695f450e-dd00-47d5-811b-1a042eeed348
-							  | **FIELD** | **KEY** | **REMARKS** |
+							  | **FIELD** | **KEY** | **NEW KEY IN FORM SETTING** |
 							  | --- | --- | --- |
-							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | |
-							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | |
+							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `enable_auto_generate_po_from_pr` |
+							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `enable_auto_split_po_from_pr` |
 					- TODO Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
 					  collapsed:: true
