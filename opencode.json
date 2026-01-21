@@ -6,6 +6,7 @@
     "@tarquinen/opencode-dcp@latest",
     "@zenobius/opencode-skillful",
     "@openspoon/subtask2@latest",
+    "@franlol/opencode-md-table-formatter@0.0.3",
     "opencode-websearch-cited@1.2.0", // IMPORTANT: Put opencode-websearch-cited LAST in the plugin list to avoid impacting other plugins' auth process.
   ],
   "permission": {
