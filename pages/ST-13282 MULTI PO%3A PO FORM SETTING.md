@@ -191,8 +191,11 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-					- TODO Auto PO #q&a
+					- DOING Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
+					  :LOGBOOK:
+					  CLOCK: [2026-01-21 Wed 11:09:30]
+					  :END:
 						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 						- Setting key
 						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
@@ -201,8 +204,11 @@
 							  | --- | --- | --- |
 							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `other_settings.enable_auto_generate_po_from_pr` |
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
-					- TODO Auto PO Email #q&a
+					- DOING Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
+					  :LOGBOOK:
+					  CLOCK: [2026-01-21 Wed 11:09:31]
+					  :END:
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
 							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
@@ -218,16 +224,22 @@
 							- Add item from approved origin
 							- Display assigned vendor
 								-
-					- TODO PO T&C #q&a
+					- DOING PO T&C #q&a
 					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
+					  :LOGBOOK:
+					  CLOCK: [2026-01-21 Wed 11:09:33]
+					  :END:
 						- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 						- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
 						- Setting key
 							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
 							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
-					- TODO PO Email Text #q&a
+					- DOING PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
+					  :LOGBOOK:
+					  CLOCK: [2026-01-21 Wed 11:09:37]
+					  :END:
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 						- Setting key
