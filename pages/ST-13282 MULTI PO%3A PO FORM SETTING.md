@@ -231,8 +231,9 @@
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
 						- Setting key
-							- | **FIELD** | **KEY** | **REMARKS** |
+							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
+							  | PO Email Template | `` | `email_placeholder` |
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `enable_email_default_send_to_requestor` |
 			- Form Fields Tab
