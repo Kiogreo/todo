@@ -193,6 +193,7 @@
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- DOING Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:30]
 					  :END:
@@ -253,6 +254,7 @@
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
 				- Part 1
+				  collapsed:: true
 					- #re-test Delivery Information
 					- #re-test Vendor Information
 					- #re-test Submission Information
@@ -266,6 +268,7 @@
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 							  logseq.order-list-type:: number
 				- Part 2 - Item configuration
+				  collapsed:: true
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
 						  :LOGBOOK:
