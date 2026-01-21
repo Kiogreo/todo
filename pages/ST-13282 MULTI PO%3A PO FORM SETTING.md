@@ -199,8 +199,8 @@
 							- id:: 695f450e-dd00-47d5-811b-1a042eeed348
 							  | **FIELD** | **KEY** | **NEW KEY IN FORM SETTING** |
 							  | --- | --- | --- |
-							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `enable_auto_generate_po_from_pr` |
-							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `enable_auto_split_po_from_pr` |
+							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `other_settings.enable_auto_generate_po_from_pr` |
+							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
 					- TODO Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
@@ -208,12 +208,12 @@
 							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
 							  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
-							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | `enable_auto_email_auto_po` |
-							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `enable_auto_email_po_send_to_submitter` |
-							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `enable_auto_email_auto_po_send_to_requestor` |
-							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `enable_auto_email_auto_po`, `enable_auto_email_auto_po_forms` |
-							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `enable_auto_email_po_send_to_submitter` |
-							  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | `enable_auto_email_auto_po_send_to_requestor` |
+							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | `other_settings.enable_auto_email_auto_po` |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
+							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
+							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `other_settings.enable_auto_email_auto_po`, `other_settings.enable_auto_email_auto_po_forms` |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
+							  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
 						- Note
 							- Add item from approved origin
 							- Display assigned vendor
@@ -233,9 +233,9 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
-							  | PO Email Template | `other_settings.` | `templates.email_placeholder` |
-							  | Send a copy to submitter | `other_settings.purchase_order_email_default_send_to_submitter` | `enable_email_default_send_to_submitter` |
-							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `enable_email_default_send_to_requestor` |
+							  | PO Email Template | `` | `templates.email_placeholder` |
+							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
+							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
 				- Part 1
 					- #re-test Delivery Information
