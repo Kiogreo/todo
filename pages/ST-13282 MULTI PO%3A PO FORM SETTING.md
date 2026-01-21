@@ -205,12 +205,12 @@
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
-							- | **FIELD** | **KEY** | **REMARKS** |
+							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
 							  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
-							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | `` |
-							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
-							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | |
+							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | `enable_auto_email_auto_po` |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `enable_auto_email_po_send_to_submitter` |
+							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `enable_auto_email_auto_po_send_to_requestor` |
 							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | |
 							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
 							  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | |
