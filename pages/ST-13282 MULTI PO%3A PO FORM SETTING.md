@@ -233,8 +233,8 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
-							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | |
-							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | |
+							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `enable_email_default_send_to_submitter` |
+							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `enable_email_default_send_to_requestor` |
 			- Form Fields Tab
 				- Part 1
 					- #re-test Delivery Information
