@@ -193,7 +193,6 @@
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- DOING Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:30]
 					  :END:
