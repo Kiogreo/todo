@@ -207,7 +207,6 @@
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
 					- DOING Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:31]
 					  :END:
