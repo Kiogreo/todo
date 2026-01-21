@@ -1,0 +1,30 @@
+# System Architecture Brainstormer
+
+## Background
+
+I need this AI agent framework to help me quickly brainstorm and visualize my idea so that I can decide on a good understanding of the problem and get a good POC or to simulate the solution properly with a diagram
+
+## Instruction
+
+### Input
+- All input that is supposed to be fed into the AI agent will be put in `./input` folder
+- The user's idea should be saved under the `./input/<context>.sab-idea.md` file
+- The system should request a single or multiple Markdown file that shall be considered the `idea` file so that the system can start brainstorming from the user's idea
+
+### Process
+- The system should be doing a maximum of 3 rounds of brainstorming process between at least 3 agents
+- Each agent shall see the problem from a different criteria namely but not limited to `best practices`, `cost effective` and `simplicity for maintenance`
+- Each agent should come up with at least 2 ideas for the brainstorm process
+- At the end of the brainstorm process, they should decide the top 3 ideas to be moved into debate phase
+- At the end of the brainstorming phase, they should present the idea to user
+- Once user acknowledges or request to proceed, they will enter a debate phase
+- Debate phase consist of 3 round of them explaining both the pros & cons for each ideas
+- The output of this pahse should be the rating of each ideas based on whether the idea has good balance between the criteria such as `best practices`, `cost effective` and `simplicity for maintenance`
+- The agents should make use of simple diagrams as much as possible in their ideas
+
+### Output
+- All output should be put in the `./output` folder
+- Prefix each file extension with `.sab.` to denote `Software Architecture Brainsormer`
+- Each output file should have a single reason and purpose (example: `system-architecture.sab.mermaid`, `git-workflow.sab.md`, `how-to-use.sab.md`)
+- Each output file should be named according to their purpose (example: `session-<TIMESTAMP>.sab.md` for the context of the discussion for future agent to pickup, `form-setting-engine-module.sab.mermaid` for the module architecture diagram)
+- In each diagram, put the timestamp of when we discussed those ideas
