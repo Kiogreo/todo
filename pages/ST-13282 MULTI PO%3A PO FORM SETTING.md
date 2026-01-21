@@ -211,8 +211,8 @@
 							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | `enable_auto_email_auto_po` |
 							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `enable_auto_email_po_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `enable_auto_email_auto_po_send_to_requestor` |
-							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | |
-							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | |
+							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `enable_auto_email_auto_po`, `enable_auto_email_auto_po_forms` |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `` |
 							  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | |
 						- Note
 							- Add item from approved origin
