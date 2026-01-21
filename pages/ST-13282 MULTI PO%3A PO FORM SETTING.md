@@ -193,6 +193,7 @@
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- DOING Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:30]
 					  :END:
@@ -206,6 +207,7 @@
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
 					- DOING Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:31]
 					  :END:
@@ -226,6 +228,7 @@
 								-
 					- DOING PO T&C #q&a
 					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:33]
 					  :END:
@@ -237,6 +240,7 @@
 							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
 					- DOING PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:37]
 					  :END:
@@ -278,6 +282,7 @@
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
+	  collapsed:: true
 		- DONE [[Company & Form Setting Setup]]
 		- DONE [[Form Setting Splitting]]
 		- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
