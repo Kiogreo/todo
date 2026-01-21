@@ -233,7 +233,7 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
-							  | PO Email Template | `` | `templates.email_placeholder` |
+							  | PO Email Template | `purchase_order_email_template` | `templates.email_placeholder` |
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
