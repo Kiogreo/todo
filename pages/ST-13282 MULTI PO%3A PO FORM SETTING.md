@@ -193,7 +193,6 @@
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- TODO Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
-					  collapsed:: true
 						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 						- Setting key
 						  id:: 695f4504-b56d-4123-9f41-8de373c2c547
