@@ -53,17 +53,17 @@ All required context files exist in `.input/context/ai-brainstormer/`:
 
 1. ❌ `@subagents/ai-brainstormer/best-practices-agent`
    - **Purpose**: Industry standards, proven patterns, scalability focus
-   - **Expected Path**: `.Claude/agent/subagents/ai-brainstormer/best-practices-agent.md`
+   - **Expected Path**: `.opencode/agent/subagents/ai-brainstormer/best-practices-agent.md`
    - **Impact**: Cannot execute brainstorming rounds
 
 2. ❌ `@subagents/ai-brainstormer/cost-effective-agent`
    - **Purpose**: Budget optimization, ROI maximization
-   - **Expected Path**: `.Claude/agent/subagents/ai-brainstormer/cost-effective-agent.md`
+   - **Expected Path**: `.opencode/agent/subagents/ai-brainstormer/cost-effective-agent.md`
    - **Impact**: Cannot provide cost-focused analysis
 
 3. ❌ `@subagents/ai-brainstormer/simplicity-agent`
    - **Purpose**: Minimal complexity, ease of understanding
-   - **Expected Path**: `.Claude/agent/subagents/ai-brainstormer/simplicity-agent.md`
+   - **Expected Path**: `.opencode/agent/subagents/ai-brainstormer/simplicity-agent.md`
    - **Impact**: Cannot provide simplicity-focused perspectives
 
 ---
