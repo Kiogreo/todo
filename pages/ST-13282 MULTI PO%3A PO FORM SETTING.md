@@ -219,7 +219,7 @@
 							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
 							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `other_settings.enable_auto_email_auto_po`, `other_settings.enable_auto_email_auto_po_forms` |
-							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
+							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_auto_po_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
 						- Note
 							- Add item from approved origin
