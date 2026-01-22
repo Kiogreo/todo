@@ -215,7 +215,7 @@
 							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
 							  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
-							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_auto_po` | `other_settings.enable_auto_email_auto_po` |
+							  | Auto Email POs created manually` | `purchase_order_enable_auto_email_po` | `other_settings.enable_auto_email_po` |
 							  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
 							  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `other_settings.enable_auto_email_auto_po`, `other_settings.enable_auto_email_auto_po_forms` |
