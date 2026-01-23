@@ -195,7 +195,8 @@
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
 					  collapsed:: true
 					  :LOGBOOK:
-					  CLOCK: [2026-01-21 Wed 11:09:30]
+					  CLOCK: [2026-01-21 Wed 11:09:30]--[2026-01-23 Fri 08:59:18] =>  45:49:48
+					  CLOCK: [2026-01-23 Fri 08:59:18]
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 						- Setting key
@@ -207,8 +208,10 @@
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
 					- DOING Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
+					  collapsed:: true
 					  :LOGBOOK:
-					  CLOCK: [2026-01-21 Wed 11:09:31]
+					  CLOCK: [2026-01-21 Wed 11:09:31]--[2026-01-23 Fri 08:59:17] =>  45:49:46
+					  CLOCK: [2026-01-23 Fri 08:59:19]
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
@@ -229,7 +232,8 @@
 					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
 					  collapsed:: true
 					  :LOGBOOK:
-					  CLOCK: [2026-01-21 Wed 11:09:33]
+					  CLOCK: [2026-01-21 Wed 11:09:33]--[2026-01-23 Fri 08:59:21] =>  45:49:48
+					  CLOCK: [2026-01-23 Fri 08:59:23]
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 						- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
@@ -241,7 +245,8 @@
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
 					  collapsed:: true
 					  :LOGBOOK:
-					  CLOCK: [2026-01-21 Wed 11:09:37]
+					  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
+					  CLOCK: [2026-01-23 Fri 08:59:25]
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
