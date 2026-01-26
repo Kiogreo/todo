@@ -11,21 +11,19 @@
 			- DONE @nadzmi to check again how the re-structuring of the item config should be done #q&a
 		- Current Status
 			- We want to change the `Item Configuration` sub-section from:
-			  collapsed:: true
 				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
-			- To the below:
-			  collapsed:: true
-				- [] Enable add FFT
-				- [] Enable add catalogue products
-					- [] Enable editing of Catalogue Item Name
-					  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
-					- [] Enable editing of Catalogue Item Description
-					- [] Enable add Item Code
-				- [] Enable assigned vendor (to product)
-					- () show all
-					- () show assigned
-						- [] block submission
-				- [] Enable item from approved origin
+					- To the below:
+						- [] Enable add FFT
+						- [] Enable add catalogue products
+							- [] Enable editing of Catalogue Item Name
+							  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
+							- [] Enable editing of Catalogue Item Description
+							- [] Enable add Item Code
+						- [] Enable assigned vendor (to product)
+							- () show all
+							- () show assigned
+								- [] block submission
+						- [] Enable item from approved origin
 			- ## **UPDATED**
 				- Enable add FFT
 				- 1. [ ] Show assigned vendor
@@ -122,7 +120,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-		- ### Global PO Form Setting
+		- ### Global PO Form Setting {{renderer :todomaster}}
 		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 		  collapsed:: true
 			- #re-test Internal Source
@@ -177,7 +175,7 @@
 			- EVA settings
 				- DONE Notify Users when Vendor Uploads GR attachment
 				- DONE Notify Users when Vendor Uploads Invoice
-		- ### Form Listing Page
+		- ### Form Listing Page {{renderer :todomaster}}
 		  collapsed:: true
 			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 				- DONE Create new Form
@@ -188,7 +186,7 @@
 					- Form Name Change
 					- Form Details change
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
-		- ### Individual PO Form Setting
+		- ### Individual PO Form Setting {{renderer :todomaster}}
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
@@ -256,20 +254,20 @@
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
-				- Part 1
+				- Part 1 {{renderer :todomaster}}
 					- TODO #re-test Delivery Information
 					- TODO #re-test Vendor Information
 					- TODO #re-test Submission Information
-					- #re-test Item information
-					- Relabel Budget Setting (**Check JIRA Epic**)
-					- Limit value based
+					- TODO #re-test Item information
+					- TODO Relabel Budget Setting (**Check JIRA Epic**)
+					- TODO Limit value based
 						- add toggle to enable/disable
 						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
 							- Yes, we HUB to enable the config for this feature for that company
 							  logseq.order-list-type:: number
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 							  logseq.order-list-type:: number
-				- Part 2 - Item configuration
+				- Part 2 - Item configuration {{renderer :todomaster}}
 				  collapsed:: true
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
@@ -281,8 +279,8 @@
 							- #q&a Not now
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
-			- #re-test PO PDF Tab
-			- #re-test Setup Logs
+			- TODO #re-test PO PDF Tab
+			- TODO #re-test Setup Logs
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
