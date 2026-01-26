@@ -12,18 +12,19 @@
 		- Current Status
 			- We want to change the `Item Configuration` sub-section from:
 				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
-					- To the below:
-						- [] Enable add FFT
-						- [] Enable add catalogue products
-							- [] Enable editing of Catalogue Item Name
-							  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
-							- [] Enable editing of Catalogue Item Description
-							- [] Enable add Item Code
-						- [] Enable assigned vendor (to product)
-							- () show all
-							- () show assigned
-								- [] block submission
-						- [] Enable item from approved origin
+				- To the below:
+				  collapsed:: true
+					- [] Enable add FFT
+					- [] Enable add catalogue products
+						- [] Enable editing of Catalogue Item Name
+						  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
+						- [] Enable editing of Catalogue Item Description
+						- [] Enable add Item Code
+					- [] Enable assigned vendor (to product)
+						- () show all
+						- () show assigned
+							- [] block submission
+					- [] Enable item from approved origin
 			- ## **UPDATED**
 				- Enable add FFT
 				- 1. [ ] Show assigned vendor
