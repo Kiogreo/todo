@@ -233,11 +233,12 @@
 							- Add item from approved origin
 							- Display assigned vendor
 								-
-					- DOING PO T&C #q&a
+					- DONE PO T&C #q&a
 					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:33]--[2026-01-23 Fri 08:59:21] =>  45:49:48
-					  CLOCK: [2026-01-23 Fri 08:59:23]
+					  CLOCK: [2026-01-23 Fri 08:59:23]--[2026-01-26 Mon 14:07:46] =>  77:08:23
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
 						- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
@@ -256,7 +257,7 @@
 						- Setting key
 							- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 							  | --- | --- | --- |
-							  | PO Email Template | `purchase_order_email_template` | `templates.email_placeholder` |
+							  | PO Email Template | `purchase_order_email_template` | `templates.email` |
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
