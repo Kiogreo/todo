@@ -14,7 +14,8 @@
 - ## Devops #devops {{renderer :todomaster}}
 	- TODO [#A] [[HUB Webhook Docker Troubleshooting]]
 	- TODO [#B] [[ST-0 automate db initialization & db dumping]]
-	- TODO [[Git Workflow Issue]]
+	- DONE [[Git Workflow Issue]]
+	  collapsed:: true
 		- Test Cases for git rebase vs git merge
 			- Workflow options to test out
 				- git cherry-pick
