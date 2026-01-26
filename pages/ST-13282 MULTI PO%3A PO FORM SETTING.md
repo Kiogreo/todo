@@ -47,6 +47,7 @@
 		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
 		  logseq.order-list-type:: number
 - ## Q&A
+  collapsed:: true
 	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
 	  collapsed:: true
 		- | Global PO Setting | Individual PO Setting |
@@ -256,10 +257,9 @@
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
 				- Part 1
-				  collapsed:: true
-					- #re-test Delivery Information
-					- #re-test Vendor Information
-					- #re-test Submission Information
+					- TODO #re-test Delivery Information
+					- TODO #re-test Vendor Information
+					- TODO #re-test Submission Information
 					- #re-test Item information
 					- Relabel Budget Setting (**Check JIRA Epic**)
 					- Limit value based
