@@ -191,12 +191,12 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-					- DOING Auto PO #q&a
+					- DONE Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
 					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:30]--[2026-01-23 Fri 08:59:18] =>  45:49:48
-					  CLOCK: [2026-01-23 Fri 08:59:18]
+					  CLOCK: [2026-01-23 Fri 08:59:18]--[2026-01-26 Mon 13:41:32] =>  76:42:14
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
 						- Setting key
@@ -206,12 +206,12 @@
 							  | --- | --- | --- |
 							  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `other_settings.enable_auto_generate_po_from_pr` |
 							  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
-					- DOING Auto PO Email #q&a
+					- DONE Auto PO Email #q&a
 					  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
 					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:31]--[2026-01-23 Fri 08:59:17] =>  45:49:46
-					  CLOCK: [2026-01-23 Fri 08:59:19]
+					  CLOCK: [2026-01-23 Fri 08:59:19]--[2026-01-26 Mon 13:41:45] =>  76:42:26
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 						- Setting key
@@ -230,7 +230,6 @@
 								-
 					- DOING PO T&C #q&a
 					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:33]--[2026-01-23 Fri 08:59:21] =>  45:49:48
 					  CLOCK: [2026-01-23 Fri 08:59:23]
@@ -243,7 +242,6 @@
 							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
 					- DOING PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
 					  CLOCK: [2026-01-23 Fri 08:59:25]
