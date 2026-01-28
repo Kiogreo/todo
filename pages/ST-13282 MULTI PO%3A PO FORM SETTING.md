@@ -248,6 +248,7 @@
 							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
 					- DOING PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
 					  CLOCK: [2026-01-23 Fri 08:59:25]
