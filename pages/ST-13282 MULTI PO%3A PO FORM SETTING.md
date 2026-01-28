@@ -276,7 +276,6 @@
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 							  logseq.order-list-type:: number
 				- Part 2 - Item configuration {{renderer :todomaster}}
-				  collapsed:: true
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
 						  :LOGBOOK:
