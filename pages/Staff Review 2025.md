@@ -53,7 +53,8 @@
 			  logseq.order-list-type:: number
 			- I did help with knowledge sharing by implementing the Wiki for tech department wide's reference
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- I did help with setting up standard for our PR description format so that it remind every developer to put in context regarding their PRs.
+			  logseq.order-list-type:: number
 - Goals Set at the Beginning of Year 2025 (Achievement & Progress)
   logseq.order-list-type:: number
 	- Goals you set at the beginning of the year and rate achievement.
