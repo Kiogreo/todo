@@ -116,6 +116,8 @@
 		  logseq.order-list-type:: number
 			- explicitly go to Ben to suggest updates
 			  logseq.order-list-type:: number
+			- or volunteer to update
+			  logseq.order-list-type:: number
 	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
 		- Constructive feedback based on my changes on the Jira ticket
