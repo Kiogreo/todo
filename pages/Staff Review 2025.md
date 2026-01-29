@@ -17,9 +17,9 @@
 			  logseq.order-list-type:: number
 - Teamwork & Collaboration {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- TODO Self-rating (1–5): 3
+	- DONE Self-rating (1–5): 3
 	  logseq.order-list-type:: number
-		- TODO How well did you collaborate with your team?
+		- DONE How well did you collaborate with your team?
 		  logseq.order-list-type:: number
 			- I think I'm getting better at collaborating and help other teamates
 			  logseq.order-list-type:: number
