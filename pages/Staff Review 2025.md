@@ -26,4 +26,9 @@
 		  dependencies?
 	- Goals Set at the Beginning of Year 2025 (Achievement & Progress)
 	  logseq.order-list-type:: number
+		- Goals you set at the beginning of the year and rate achievement.
+		  logseq.order-list-type:: number
+		- Overall self-rating for goal achievement (1–5): ___
+		  logseq.order-list-type:: number
+		  Summary: What helped you succeed? What blocked yo
 - logseq.order-list-type:: number
