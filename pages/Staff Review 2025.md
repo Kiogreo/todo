@@ -114,7 +114,7 @@
 	  logseq.order-list-type:: number
 		- I measure them by QA, Sim, Ben and Zikri approval
 		  logseq.order-list-type:: number
-			- explicitly go to Ben
+			- explicitly go to Ben to suggest updates
 			  logseq.order-list-type:: number
 	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
