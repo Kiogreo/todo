@@ -30,5 +30,31 @@
 		  logseq.order-list-type:: number
 		- Overall self-rating for goal achievement (1–5): ___
 		  logseq.order-list-type:: number
-		  Summary: What helped you succeed? What blocked yo
+		- Summary: What helped you succeed? What blocked you?
+		  logseq.order-list-type:: number
+	- What do you think needs to improve in your department?
+	  logseq.order-list-type:: number
+		- (Department process, tools, communication, ownership, skill gaps, quality, speed,
+		  logseq.order-list-type:: number
+		  customer handling. Anything that would improve outcomes.)
+		- If any, what do you think
+		  logseq.order-list-type:: number
+			- Why this matters:
+			  logseq.order-list-type:: number
+			- Example of current problem:
+			  logseq.order-list-type:: number
+			- Suggested improvement:
+			  logseq.order-list-type:: number
+	- What do you intend to improve (Personal Improvement Plan)?
+	  logseq.order-list-type:: number
+		- What I will improve:
+		  logseq.order-list-type:: number
+		- Why it matters to my role/team:
+		  logseq.order-list-type:: number
+		- Actions I will take (specific):
+		  logseq.order-list-type:: number
+		  ●
+		  How success will be measured:
+		  ●
+		  Support needed (training/tools/mentoring):
 - logseq.order-list-type:: number
