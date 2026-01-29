@@ -75,9 +75,11 @@
 			  logseq.order-list-type:: number
 - What do you think needs to improve in your department? {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- (Department process, tools, communication, ownership, skill gaps, quality, speed,
+	- TODO (Department process, tools, communication, ownership, skill gaps, quality, speed,
 	  logseq.order-list-type:: number
 	  customer handling. Anything that would improve outcomes.)
+		- QA involvement early of development process
+		  logseq.order-list-type:: number
 	- If any, what do you think
 	  logseq.order-list-type:: number
 		- TODO Why this matters:
