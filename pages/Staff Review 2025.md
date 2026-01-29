@@ -3,15 +3,15 @@
   logseq.order-list-type:: number
 	- ### Self-rating (1–5): 3
 	  logseq.order-list-type:: number
-		- Did you deliver what was assigned on time and with expected quality?
+		- TODO Did you deliver what was assigned on time and with expected quality?
 		  logseq.order-list-type:: number
 			- At first no, but I think I'm improving in this department
 			  logseq.order-list-type:: number
-		- Did you manage priorities well?
+		- TODO Did you manage priorities well?
 		  logseq.order-list-type:: number
 			- At first no, but I think I'm improving in this department
 			  logseq.order-list-type:: number
-		- Did you communicate early when there were blockers / challenges?
+		- TODO Did you communicate early when there were blockers / challenges?
 		  logseq.order-list-type:: number
 			- I'm still working on this part as I'm so sure yet a certain challenges are a blocker or just me not realizing things under my nose
 			  logseq.order-list-type:: number
@@ -19,17 +19,17 @@
   logseq.order-list-type:: number
 	- ### Self-rating (1–5): 3
 	  logseq.order-list-type:: number
-		- How well did you collaborate with your team?
+		- TODO How well did you collaborate with your team?
 		  logseq.order-list-type:: number
 			- I think I'm getting better at collaborating and help other teamates
 			  logseq.order-list-type:: number
 			- I also think I'm getting better at asking foe help from others
 			  logseq.order-list-type:: number
-		- Did you support others when needed?
+		- TODO Did you support others when needed?
 		  logseq.order-list-type:: number
 			- Yes, I did what I could but I think I still need more improvement in this department
 			  logseq.order-list-type:: number
-		- Were you responsive and constructive during discussions?
+		- TODO Were you responsive and constructive during discussions?
 		  logseq.order-list-type:: number
 			- Yes, but I think I need to improve in regards to being constructive
 			  logseq.order-list-type:: number
@@ -37,7 +37,7 @@
   logseq.order-list-type:: number
 	- ### Self-rating (1–5): 2
 	  logseq.order-list-type:: number
-		- Did you make other teams more successful (Sales / Implementation / QA /
+		- TODO Did you make other teams more successful (Sales / Implementation / QA /
 		  logseq.order-list-type:: number
 		  Project / Tech)?
 			- I think I don't do enough yet in this part as I'm not able to make QA involvement early within any project I was in
@@ -46,7 +46,7 @@
 			  logseq.order-list-type:: number
 			- I am also starting any discussion that involve QA such as the changes for deployment
 			  logseq.order-list-type:: number
-		- Did you improve handovers, reduce rework, share knowledge, unblock
+		- TODO Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
 		  dependencies?
 			- I did help with reducing rework by suggesting the Slack notification for weekly update within tech team
@@ -57,9 +57,9 @@
 			  logseq.order-list-type:: number
 - Goals Set at the Beginning of Year 2025 (Achievement & Progress)
   logseq.order-list-type:: number
-	- Goals you set at the beginning of the year and rate achievement.
+	- TODO Goals you set at the beginning of the year and rate achievement.
 	  logseq.order-list-type:: number
-		- I don't think i set anything but I did have personal goal of implementing the good practices I had in my previous team in Carsome in Supplycart
+		- I don't think I set anything but I did have personal goal of implementing the good practices I had in my previous team in Carsome in Supplycart
 		  logseq.order-list-type:: number
 	- Overall self-rating for goal achievement (1–5): 3
 	  logseq.order-list-type:: number
@@ -69,7 +69,10 @@
 		  logseq.order-list-type:: number
 			- dfdf
 			  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- Blocked me
+		  logseq.order-list-type:: number
+			- My lack of understanding of how cross functional
+			  logseq.order-list-type:: number
 - What do you think needs to improve in your department?
   logseq.order-list-type:: number
 	- (Department process, tools, communication, ownership, skill gaps, quality, speed,
