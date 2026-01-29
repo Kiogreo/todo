@@ -35,14 +35,16 @@
 			  logseq.order-list-type:: number
 - Adding Value to Other Teams’ Work (Cross-Functional Contribution)
   logseq.order-list-type:: number
-	- ### Self-rating (1–5): ___
+	- ### Self-rating (1–5): 2
 	  logseq.order-list-type:: number
 		- Did you make other teams more successful (Sales / Implementation / QA /
 		  logseq.order-list-type:: number
 		  Project / Tech)?
+			- logseq.order-list-type:: number
 		- Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
 		  dependencies?
+			- logseq.order-list-type:: number
 - Goals Set at the Beginning of Year 2025 (Achievement & Progress)
   logseq.order-list-type:: number
 	- Goals you set at the beginning of the year and rate achievement.
