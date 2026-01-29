@@ -16,4 +16,14 @@
 		  logseq.order-list-type:: number
 		- Were you responsive and constructive during discussions?
 		  logseq.order-list-type:: number
+	- Adding Value to Other Teams’ Work (Cross-Functional Contribution)
+	  logseq.order-list-type:: number
+		- Did you make other teams more successful (Sales / Implementation / QA /
+		  logseq.order-list-type:: number
+		  Project / Tech)?
+		- Did you improve handovers, reduce rework, share knowledge, unblock
+		  logseq.order-list-type:: number
+		  dependencies?
+	- Goals Set at the Beginning of Year 2025 (Achievement & Progress)
+	  logseq.order-list-type:: number
 - logseq.order-list-type:: number
