@@ -88,7 +88,7 @@
 			  logseq.order-list-type:: number
 		- TODO Example of current problem:
 		  logseq.order-list-type:: number
-			- During multi PO Phase 1, we found out around 25 bugs that are blocking
+			- During multi PO Phase 1, we found out around 25 bugs that are blocking deployment because we never considered to include QA into discussion during development process
 			  logseq.order-list-type:: number
 		- TODO Suggested improvement:
 		  logseq.order-list-type:: number
