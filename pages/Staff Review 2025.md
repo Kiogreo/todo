@@ -110,8 +110,12 @@
 		  logseq.order-list-type:: number
 	- TODO How success will be measured:
 	  logseq.order-list-type:: number
+		- I measure them by Sim, Ben and Zikri approval
+		  logseq.order-list-type:: number
 	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
+		- Constructive feedback based on my
+		  logseq.order-list-type:: number
 - Goals you would like to achieve by end of the year 2026 {{renderer :todomaster}}
   logseq.order-list-type:: number
 	- Example:
