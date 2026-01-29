@@ -84,10 +84,11 @@
 	  logseq.order-list-type:: number
 		- TODO Why this matters:
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- QA involvement at the end of the development process results in discovering potential blocking bugs a huge issue
+			  logseq.order-list-type:: number
 		- TODO Example of current problem:
 		  logseq.order-list-type:: number
-			- QA involvement at the end of the development process results in discovering potential blocking bugs a huge issue
+			- During multi PO Phase 1, we found out around 25 bugs that are blocking
 			  logseq.order-list-type:: number
 		- TODO Suggested improvement:
 		  logseq.order-list-type:: number
