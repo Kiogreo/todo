@@ -85,6 +85,8 @@
 			- logseq.order-list-type:: number
 		- TODO Example of current problem:
 		  logseq.order-list-type:: number
+			- QA involvement at the end of the development process results in discovering potential blocking bugs a huge blobker
+			  logseq.order-list-type:: number
 		- TODO Suggested improvement:
 		  logseq.order-list-type:: number
 - What do you intend to improve (Personal Improvement Plan)? {{renderer :todomaster}}
