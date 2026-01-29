@@ -25,7 +25,7 @@
 			  logseq.order-list-type:: number
 			- I also think I'm getting better at asking foe help from others
 			  logseq.order-list-type:: number
-		- TODO Did you support others when needed?
+		- DONE Did you support others when needed?
 		  logseq.order-list-type:: number
 			- Yes, I did what I could but I think I still need more improvement in this department
 			  logseq.order-list-type:: number
