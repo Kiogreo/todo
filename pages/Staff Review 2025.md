@@ -17,10 +17,12 @@
 			  logseq.order-list-type:: number
 - Teamwork & Collaboration
   logseq.order-list-type:: number
-	- ### Self-rating (1–5):
+	- ### Self-rating (1–5): 3
 	  logseq.order-list-type:: number
 		- How well did you collaborate with your team?
 		  logseq.order-list-type:: number
+			- I think I'm getting better at collaboirating and help
+			  logseq.order-list-type:: number
 		- Did you support others when needed?
 		  logseq.order-list-type:: number
 		- Were you responsive and constructive during discussions?
