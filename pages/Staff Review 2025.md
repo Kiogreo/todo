@@ -63,7 +63,7 @@
 		  logseq.order-list-type:: number
 	- DONE Overall self-rating for goal achievement (1–5): 3
 	  logseq.order-list-type:: number
-	- TODO Summary: What helped you succeed? What blocked you?
+	- DONE Summary: What helped you succeed? What blocked you?
 	  logseq.order-list-type:: number
 		- Helped me
 		  logseq.order-list-type:: number
