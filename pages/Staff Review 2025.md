@@ -80,6 +80,8 @@
 	  customer handling. Anything that would improve outcomes.)
 		- QA involvement early of development process
 		  logseq.order-list-type:: number
+			- raised hand
+			  logseq.order-list-type:: number
 	- If any, what do you think
 	  logseq.order-list-type:: number
 		- TODO Why this matters:
