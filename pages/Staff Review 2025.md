@@ -59,10 +59,17 @@
   logseq.order-list-type:: number
 	- Goals you set at the beginning of the year and rate achievement.
 	  logseq.order-list-type:: number
-	- Overall self-rating for goal achievement (1–5): ___
+		- I don't think i set anything but I did have personal goal of implementing the good practices I had in my previous team in Carsome in Supplycart
+		  logseq.order-list-type:: number
+	- Overall self-rating for goal achievement (1–5): 3
 	  logseq.order-list-type:: number
 	- Summary: What helped you succeed? What blocked you?
 	  logseq.order-list-type:: number
+		- Helped me
+		  logseq.order-list-type:: number
+			- dfdf
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 - What do you think needs to improve in your department?
   logseq.order-list-type:: number
 	- (Department process, tools, communication, ownership, skill gaps, quality, speed,
