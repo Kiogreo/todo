@@ -98,27 +98,27 @@
 			  logseq.order-list-type:: number
 - What do you intend to improve (Personal Improvement Plan)? {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- TODO What I will improve:
+	- DONE What I will improve:
 	  logseq.order-list-type:: number
 		- Documentation for upcoming requirement and Jira ticket
 		  logseq.order-list-type:: number
-	- TODO Why it matters to my role/team:
+	- DONE Why it matters to my role/team:
 	  logseq.order-list-type:: number
 		- If I missed out the information needed for feature requirement, then the development after me would be lost and may understand things wrongly
 		  logseq.order-list-type:: number
-	- TODO Actions I will take (specific):
+	- DONE Actions I will take (specific):
 	  logseq.order-list-type:: number
 		- I will go through the current Jira ticket for Multi PO Phase 2 and note down the information I may have missed out & add or re-write the ticket according to my personal notes
 		  logseq.order-list-type:: number
-	- TODO How success will be measured:
+	- DONE How success will be measured:
 	  logseq.order-list-type:: number
 		- I measure them by QA, Sim, Ben and Zikri approval
 		  logseq.order-list-type:: number
 			- explicitly go to Ben to suggest updates
 			  logseq.order-list-type:: number
-			- or volunteer to update
+			- or volunteer to update the ticket
 			  logseq.order-list-type:: number
-	- TODO Support needed (training/tools/mentoring):
+	- DONE Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
 		- Constructive feedback based on my changes on the Jira ticket
 		  logseq.order-list-type:: number
@@ -134,3 +134,4 @@
 		- TODO Based on your role and our team objectives, what outcomes will you deliver by
 		  logseq.order-list-type:: number
 		  end of 2026?
+- logseq.order-list-type:: number
