@@ -1,7 +1,7 @@
 ## Self-Rating: How would you rate your performance?
 - Execution of Tasks (Delivery & Reliability)
   logseq.order-list-type:: number
-	- Self-rating (1–5): 3
+	- ### Self-rating (1–5): 3
 	  logseq.order-list-type:: number
 		- Did you deliver what was assigned on time and with expected quality?
 		  logseq.order-list-type:: number
@@ -13,11 +13,11 @@
 			  logseq.order-list-type:: number
 		- Did you communicate early when there were blockers / challenges?
 		  logseq.order-list-type:: number
-			- I'm still working on this part as I'm so sure yet I
+			- I'm still working on this part as I'm so sure yet a certain challenges are a blocker or just me not realizing things under my nose
 			  logseq.order-list-type:: number
 - Teamwork & Collaboration
   logseq.order-list-type:: number
-	- Self-rating (1–5): ___
+	- ### Self-rating (1–5):
 	  logseq.order-list-type:: number
 		- How well did you collaborate with your team?
 		  logseq.order-list-type:: number
@@ -27,7 +27,7 @@
 		  logseq.order-list-type:: number
 - Adding Value to Other Teams’ Work (Cross-Functional Contribution)
   logseq.order-list-type:: number
-	- Self-rating (1–5): ___
+	- ### Self-rating (1–5): ___
 	  logseq.order-list-type:: number
 		- Did you make other teams more successful (Sales / Implementation / QA /
 		  logseq.order-list-type:: number
