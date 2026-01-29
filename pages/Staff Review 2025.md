@@ -114,7 +114,7 @@
 		  logseq.order-list-type:: number
 	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
-		- Constructive feedback based on my
+		- Constructive feedback based on my changes
 		  logseq.order-list-type:: number
 - Goals you would like to achieve by end of the year 2026 {{renderer :todomaster}}
   logseq.order-list-type:: number
