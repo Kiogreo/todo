@@ -89,7 +89,7 @@
 			  logseq.order-list-type:: number
 		- TODO Suggested improvement:
 		  logseq.order-list-type:: number
-			- Every team especialkly Dev & Product ()ake it a habit to always involve QA early in development such as discussion
+			- Every team especially Dev & Product (in some cases maybe even CS) to make it a habit to always involve QA early in development to avoid discovering potential blocking issue
 			  logseq.order-list-type:: number
 - What do you intend to improve (Personal Improvement Plan)? {{renderer :todomaster}}
   logseq.order-list-type:: number
