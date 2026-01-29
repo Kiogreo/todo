@@ -134,4 +134,6 @@
 		- TODO Based on your role and our team objectives, what outcomes will you deliver by
 		  logseq.order-list-type:: number
 		  end of 2026?
-- logseq.order-list-type:: number
+- Feedback
+  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
