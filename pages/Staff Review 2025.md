@@ -148,3 +148,10 @@
 	  logseq.order-list-type:: number
 		- encourage to run it locally & checkout the changes
 		  logseq.order-list-type:: number
+		- change the queries
+		  logseq.order-list-type:: number
+	- Tiket
+	  logseq.order-list-type:: number
+		- Flag early if I'm unsure about the tickets
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
