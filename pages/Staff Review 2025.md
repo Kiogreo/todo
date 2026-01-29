@@ -1,17 +1,17 @@
 ## Self-Rating: How would you rate your performance?
 - Execution of Tasks (Delivery & Reliability) {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- TODO Self-rating (1–5): 3
+	- DONE Self-rating (1–5): 3
 	  logseq.order-list-type:: number
-		- TODO Did you deliver what was assigned on time and with expected quality?
+		- DONE Did you deliver what was assigned on time and with expected quality?
 		  logseq.order-list-type:: number
 			- At first no, but I think I'm improving in this department
 			  logseq.order-list-type:: number
-		- TODO Did you manage priorities well?
+		- DONE Did you manage priorities well?
 		  logseq.order-list-type:: number
 			- At first no, but I think I'm improving in this department
 			  logseq.order-list-type:: number
-		- TODO Did you communicate early when there were blockers / challenges?
+		- DONE Did you communicate early when there were blockers / challenges?
 		  logseq.order-list-type:: number
 			- I'm still working on this part as I'm so sure yet a certain challenges are a blocker or just me not realizing things under my nose
 			  logseq.order-list-type:: number
