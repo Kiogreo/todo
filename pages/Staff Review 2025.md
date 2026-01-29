@@ -154,4 +154,8 @@
 	  logseq.order-list-type:: number
 		- Flag early if I'm unsure about the tickets
 		  logseq.order-list-type:: number
+		- Rech out to QA, Ben or Sim for the clarification
+		  logseq.order-list-type:: number
+		- Take more bugfix tickets (initiate myself)
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
