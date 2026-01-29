@@ -88,11 +88,11 @@
 		  logseq.order-list-type:: number
 			- QA involvement at the end of the development process results in discovering potential blocking bugs a huge issue
 			  logseq.order-list-type:: number
-		- TODO Example of current problem:
+		- DONE Example of current problem:
 		  logseq.order-list-type:: number
 			- During multi PO Phase 1, we found out around 25 bugs that are blocking deployment because we never considered to include QA into discussion during development process
 			  logseq.order-list-type:: number
-		- TODO Suggested improvement:
+		- DONE Suggested improvement:
 		  logseq.order-list-type:: number
 			- Every team especially Dev & Product (in some cases maybe even CS) to make it a habit to always involve QA early in development to avoid discovering potential blocking issue
 			  logseq.order-list-type:: number
