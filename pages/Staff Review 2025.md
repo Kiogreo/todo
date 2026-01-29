@@ -5,10 +5,16 @@
 	  logseq.order-list-type:: number
 		- Did you deliver what was assigned on time and with expected quality?
 		  logseq.order-list-type:: number
+			- At first no, but I think I'm improving in this department
+			  logseq.order-list-type:: number
 		- Did you manage priorities well?
 		  logseq.order-list-type:: number
+			- At first no, but I think I'm improving in this department
+			  logseq.order-list-type:: number
 		- Did you communicate early when there were blockers / challenges?
 		  logseq.order-list-type:: number
+			- I'm still working on this part as I'm so sure yet I
+			  logseq.order-list-type:: number
 - Teamwork & Collaboration
   logseq.order-list-type:: number
 	- Self-rating (1–5): ___
