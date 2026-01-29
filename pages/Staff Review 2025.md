@@ -44,12 +44,15 @@
 			  logseq.order-list-type:: number
 			- I am starting to invite QA into the Multi PO project that I am in
 			  logseq.order-list-type:: number
-			- I am also starting any discussion that involve QA such as the changes for deployment that may affect
+			- I am also starting any discussion that involve QA such as the changes for deployment
 			  logseq.order-list-type:: number
 		- Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
 		  dependencies?
-			- logseq.order-list-type:: number
+			- I did help with reducing rework by suggesting the Slack notification for weekly update within tech team
+			  logseq.order-list-type:: number
+			- I did help with knowledge sharing by implementing the Wiki
+			  logseq.order-list-type:: number
 - Goals Set at the Beginning of Year 2025 (Achievement & Progress)
   logseq.order-list-type:: number
 	- Goals you set at the beginning of the year and rate achievement.
