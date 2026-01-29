@@ -40,7 +40,8 @@
 		- Did you make other teams more successful (Sales / Implementation / QA /
 		  logseq.order-list-type:: number
 		  Project / Tech)?
-			- logseq.order-list-type:: number
+			- I think I don't do enough yet in this part
+			  logseq.order-list-type:: number
 		- Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
 		  dependencies?
