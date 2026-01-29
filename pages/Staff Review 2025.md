@@ -42,6 +42,8 @@
 		  Project / Tech)?
 			- I think I don't do enough yet in this part as I'm not able to make QA involvement early within any project I was in
 			  logseq.order-list-type:: number
+			- I am only starting to inv
+			  logseq.order-list-type:: number
 		- Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
 		  dependencies?
