@@ -1,12 +1,14 @@
 ## Self-Rating: How would you rate your performance?
 - Execution of Tasks (Delivery & Reliability)
   logseq.order-list-type:: number
-	- Did you deliver what was assigned on time and with expected quality?
+	- Self-rating (1–5): ___
 	  logseq.order-list-type:: number
-	- Did you manage priorities well?
-	  logseq.order-list-type:: number
-	- Did you communicate early when there were blockers / challenges?
-	  logseq.order-list-type:: number
+		- Did you deliver what was assigned on time and with expected quality?
+		  logseq.order-list-type:: number
+		- Did you manage priorities well?
+		  logseq.order-list-type:: number
+		- Did you communicate early when there were blockers / challenges?
+		  logseq.order-list-type:: number
 - Teamwork & Collaboration
   logseq.order-list-type:: number
 	- How well did you collaborate with your team?
