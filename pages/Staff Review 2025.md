@@ -67,7 +67,7 @@
 	  logseq.order-list-type:: number
 		- Helped me
 		  logseq.order-list-type:: number
-			- Team lead, QA and especially my own teamates helping me process
+			- Team lead, QA and especially my own teamates helping me process my experiences working with them helps me understand their expectation and enable me to make proper choices in the upcoming projects
 			  logseq.order-list-type:: number
 		- Blocked me
 		  logseq.order-list-type:: number
