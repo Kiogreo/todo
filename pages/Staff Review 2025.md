@@ -27,10 +27,11 @@
 			  logseq.order-list-type:: number
 		- Did you support others when needed?
 		  logseq.order-list-type:: number
-			- Yes,
+			- Yes, I did what I could but I think I still need more improvement in this department
 			  logseq.order-list-type:: number
 		- Were you responsive and constructive during discussions?
 		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - Adding Value to Other Teams’ Work (Cross-Functional Contribution)
   logseq.order-list-type:: number
 	- ### Self-rating (1–5): ___
