@@ -1,7 +1,7 @@
 ## Self-Rating: How would you rate your performance?
 - Execution of Tasks (Delivery & Reliability)
   logseq.order-list-type:: number
-	- Self-rating (1–5): ___
+	- Self-rating (1–5): 3
 	  logseq.order-list-type:: number
 		- Did you deliver what was assigned on time and with expected quality?
 		  logseq.order-list-type:: number
