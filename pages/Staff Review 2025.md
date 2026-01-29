@@ -98,6 +98,7 @@
   logseq.order-list-type:: number
 	- TODO What I will improve:
 	  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 	- TODO Why it matters to my role/team:
 	  logseq.order-list-type:: number
 	- TODO Actions I will take (specific):
