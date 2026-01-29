@@ -29,7 +29,7 @@
 		  logseq.order-list-type:: number
 			- Yes, I did what I could but I think I still need more improvement in this department
 			  logseq.order-list-type:: number
-		- TODO Were you responsive and constructive during discussions?
+		- DONE Were you responsive and constructive during discussions?
 		  logseq.order-list-type:: number
 			- Yes, but I think I need to improve in regards to being constructive
 			  logseq.order-list-type:: number
