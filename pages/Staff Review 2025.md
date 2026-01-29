@@ -46,22 +46,22 @@
 			  logseq.order-list-type:: number
 			- I am also starting any discussion that involve QA such as the changes for deployment
 			  logseq.order-list-type:: number
-		- TODO Did you improve handovers, reduce rework, share knowledge, unblock
+		- DONE Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
 		  dependencies?
 			- I did help with reducing rework by suggesting the Slack notification for weekly update within tech team
 			  logseq.order-list-type:: number
 			- I did help with knowledge sharing by implementing the Wiki for tech department wide's reference
 			  logseq.order-list-type:: number
-			- I did help with setting up standard for our PR description format so that it remind every developer to put in context regarding their PRs.
+			- I did help with setting up standard for our PR description format so that it remind every developer to put in context regarding their PRs
 			  logseq.order-list-type:: number
 - Goals Set at the Beginning of Year 2025 (Achievement & Progress) {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- TODO Goals you set at the beginning of the year and rate achievement.
+	- DONE Goals you set at the beginning of the year and rate achievement.
 	  logseq.order-list-type:: number
 		- I don't think I set anything but I did have personal goal of implementing the good practices I had in my previous team in Carsome in Supplycart
 		  logseq.order-list-type:: number
-	- TODO Overall self-rating for goal achievement (1–5): 3
+	- DONE Overall self-rating for goal achievement (1–5): 3
 	  logseq.order-list-type:: number
 	- TODO Summary: What helped you succeed? What blocked you?
 	  logseq.order-list-type:: number
