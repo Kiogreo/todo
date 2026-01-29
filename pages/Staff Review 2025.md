@@ -67,11 +67,11 @@
 	  logseq.order-list-type:: number
 		- Helped me
 		  logseq.order-list-type:: number
-			- dfdf
+			- Team lead, QA and especially my own teamates helping me process
 			  logseq.order-list-type:: number
 		- Blocked me
 		  logseq.order-list-type:: number
-			- My lack of understanding of how cross functional
+			- My lack of understanding of how cross functional task works before
 			  logseq.order-list-type:: number
 - What do you think needs to improve in your department? {{renderer :todomaster}}
   logseq.order-list-type:: number
