@@ -84,29 +84,29 @@
 		  logseq.order-list-type:: number
 		- TODO Example of current problem:
 		  logseq.order-list-type:: number
-		- Suggested improvement:
+		- TODO Suggested improvement:
 		  logseq.order-list-type:: number
-- What do you intend to improve (Personal Improvement Plan)?
+- What do you intend to improve (Personal Improvement Plan)? {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- What I will improve:
+	- TODO What I will improve:
 	  logseq.order-list-type:: number
-	- Why it matters to my role/team:
+	- TODO Why it matters to my role/team:
 	  logseq.order-list-type:: number
-	- Actions I will take (specific):
+	- TODO Actions I will take (specific):
 	  logseq.order-list-type:: number
-	- How success will be measured:
+	- TODO How success will be measured:
 	  logseq.order-list-type:: number
-	- Support needed (training/tools/mentoring):
+	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
-- Goals you would like to achieve by end of the year 2026
+- Goals you would like to achieve by end of the year 2026 {{renderer :todomaster}}
   logseq.order-list-type:: number
 	- Example:
 	  logseq.order-list-type:: number
-		- What measurable goals will you commit to achieving by the end of 2026?
+		- TODO What measurable goals will you commit to achieving by the end of 2026?
 		  logseq.order-list-type:: number
-		- What are your top 3–5 priority outcomes for 2026, and how will we measure
+		- TODO What are your top 3–5 priority outcomes for 2026, and how will we measure
 		  logseq.order-list-type:: number
 		  success?
-		- Based on your role and our team objectives, what outcomes will you deliver by
+		- TODO Based on your role and our team objectives, what outcomes will you deliver by
 		  logseq.order-list-type:: number
 		  end of 2026?
