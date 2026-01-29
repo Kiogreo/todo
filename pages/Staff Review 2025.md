@@ -110,7 +110,7 @@
 		  logseq.order-list-type:: number
 	- TODO How success will be measured:
 	  logseq.order-list-type:: number
-		- I measure them by Sim, Ben and Zikri approval
+		- I measure them by QA, Sim, Ben and Zikri approval
 		  logseq.order-list-type:: number
 	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
