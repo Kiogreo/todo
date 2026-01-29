@@ -21,10 +21,14 @@
 	  logseq.order-list-type:: number
 		- How well did you collaborate with your team?
 		  logseq.order-list-type:: number
-			- I think I'm getting better at collaboirating and help
+			- I think I'm getting better at collaborating and help other teamates
+			  logseq.order-list-type:: number
+			- I also think I'm getting better at asking foe help from others
 			  logseq.order-list-type:: number
 		- Did you support others when needed?
 		  logseq.order-list-type:: number
+			- Yes,
+			  logseq.order-list-type:: number
 		- Were you responsive and constructive during discussions?
 		  logseq.order-list-type:: number
 - Adding Value to Other Teams’ Work (Cross-Functional Contribution)
