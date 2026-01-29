@@ -35,9 +35,9 @@
 			  logseq.order-list-type:: number
 - Adding Value to Other Teams’ Work (Cross-Functional Contribution) {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- TODO Self-rating (1–5): 2
+	- DONE Self-rating (1–5): 2
 	  logseq.order-list-type:: number
-		- TODO Did you make other teams more successful (Sales / Implementation / QA /
+		- DONE Did you make other teams more successful (Sales / Implementation / QA /
 		  logseq.order-list-type:: number
 		  Project / Tech)?
 			- I think I don't do enough yet in this part as I'm not able to make QA involvement early within any project I was in
