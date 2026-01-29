@@ -82,6 +82,7 @@
 	  logseq.order-list-type:: number
 		- TODO Why this matters:
 		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 		- TODO Example of current problem:
 		  logseq.order-list-type:: number
 		- TODO Suggested improvement:
