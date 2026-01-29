@@ -102,7 +102,7 @@
 		  logseq.order-list-type:: number
 	- TODO Why it matters to my role/team:
 	  logseq.order-list-type:: number
-		- If I missed out the information needed for
+		- If I missed out the information needed for feature requirement, then the development after me would be lost and may understand things wrongly
 		  logseq.order-list-type:: number
 	- TODO Actions I will take (specific):
 	  logseq.order-list-type:: number
