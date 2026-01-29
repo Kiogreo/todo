@@ -138,5 +138,13 @@
   logseq.order-list-type:: number
 	- coding
 	  logseq.order-list-type:: number
-		- try and experiment differnet
+		- try and experiment differnet code  to understand more about the logic
+		  logseq.order-list-type:: number
+		- Telescope: use it more
+		  logseq.order-list-type:: number
+			- Can get more insight on the queries that might be running twice
+			  logseq.order-list-type:: number
+	- Code review
+	  logseq.order-list-type:: number
+		- encourage to run it locally & checkout the changes
 		  logseq.order-list-type:: number
