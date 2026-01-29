@@ -158,4 +158,5 @@
 		  logseq.order-list-type:: number
 		- Take more bugfix tickets (initiate myself)
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+			- Check timeline with Sim
+			  logseq.order-list-type:: number
