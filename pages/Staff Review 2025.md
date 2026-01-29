@@ -42,7 +42,7 @@
 		  Project / Tech)?
 			- I think I don't do enough yet in this part as I'm not able to make QA involvement early within any project I was in
 			  logseq.order-list-type:: number
-			- I am starting to invite QA into the Multi PO project that I am in
+			- I am starting to invite QA into the Multi PO project a
 			  logseq.order-list-type:: number
 		- Did you improve handovers, reduce rework, share knowledge, unblock
 		  logseq.order-list-type:: number
