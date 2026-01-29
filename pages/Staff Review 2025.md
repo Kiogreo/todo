@@ -114,6 +114,8 @@
 	  logseq.order-list-type:: number
 		- I measure them by QA, Sim, Ben and Zikri approval
 		  logseq.order-list-type:: number
+			- explicitly go to Ben
+			  logseq.order-list-type:: number
 	- TODO Support needed (training/tools/mentoring):
 	  logseq.order-list-type:: number
 		- Constructive feedback based on my changes on the Jira ticket
