@@ -51,8 +51,9 @@
 		  dependencies?
 			- I did help with reducing rework by suggesting the Slack notification for weekly update within tech team
 			  logseq.order-list-type:: number
-			- I did help with knowledge sharing by implementing the Wiki
+			- I did help with knowledge sharing by implementing the Wiki for tech department wide's reference
 			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - Goals Set at the Beginning of Year 2025 (Achievement & Progress)
   logseq.order-list-type:: number
 	- Goals you set at the beginning of the year and rate achievement.
