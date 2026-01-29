@@ -106,7 +106,7 @@
 		  logseq.order-list-type:: number
 	- TODO Actions I will take (specific):
 	  logseq.order-list-type:: number
-		- I will go through the current Jira ticket for Multi PO Phase 2 and wirte dow
+		- I will go through the current Jira ticket for Multi PO Phase 2 and note down the information I may have missed out & add or re-write the ticket according to my personal notes
 		  logseq.order-list-type:: number
 	- TODO How success will be measured:
 	  logseq.order-list-type:: number
