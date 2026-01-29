@@ -1,7 +1,7 @@
 ## Self-Rating: How would you rate your performance?
-- Execution of Tasks (Delivery & Reliability)
+- Execution of Tasks (Delivery & Reliability) {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- ### Self-rating (1–5): 3
+	- TODO Self-rating (1–5): 3
 	  logseq.order-list-type:: number
 		- TODO Did you deliver what was assigned on time and with expected quality?
 		  logseq.order-list-type:: number
@@ -15,9 +15,9 @@
 		  logseq.order-list-type:: number
 			- I'm still working on this part as I'm so sure yet a certain challenges are a blocker or just me not realizing things under my nose
 			  logseq.order-list-type:: number
-- Teamwork & Collaboration
+- Teamwork & Collaboration {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- ### Self-rating (1–5): 3
+	- TODO Self-rating (1–5): 3
 	  logseq.order-list-type:: number
 		- TODO How well did you collaborate with your team?
 		  logseq.order-list-type:: number
@@ -33,9 +33,9 @@
 		  logseq.order-list-type:: number
 			- Yes, but I think I need to improve in regards to being constructive
 			  logseq.order-list-type:: number
-- Adding Value to Other Teams’ Work (Cross-Functional Contribution)
+- Adding Value to Other Teams’ Work (Cross-Functional Contribution) {{renderer :todomaster}}
   logseq.order-list-type:: number
-	- ### Self-rating (1–5): 2
+	- TODO Self-rating (1–5): 2
 	  logseq.order-list-type:: number
 		- TODO Did you make other teams more successful (Sales / Implementation / QA /
 		  logseq.order-list-type:: number
@@ -55,15 +55,15 @@
 			  logseq.order-list-type:: number
 			- I did help with setting up standard for our PR description format so that it remind every developer to put in context regarding their PRs.
 			  logseq.order-list-type:: number
-- Goals Set at the Beginning of Year 2025 (Achievement & Progress)
+- Goals Set at the Beginning of Year 2025 (Achievement & Progress) {{renderer :todomaster}}
   logseq.order-list-type:: number
 	- TODO Goals you set at the beginning of the year and rate achievement.
 	  logseq.order-list-type:: number
 		- I don't think I set anything but I did have personal goal of implementing the good practices I had in my previous team in Carsome in Supplycart
 		  logseq.order-list-type:: number
-	- Overall self-rating for goal achievement (1–5): 3
+	- TODO Overall self-rating for goal achievement (1–5): 3
 	  logseq.order-list-type:: number
-	- Summary: What helped you succeed? What blocked you?
+	- TODO Summary: What helped you succeed? What blocked you?
 	  logseq.order-list-type:: number
 		- Helped me
 		  logseq.order-list-type:: number
@@ -73,16 +73,16 @@
 		  logseq.order-list-type:: number
 			- My lack of understanding of how cross functional
 			  logseq.order-list-type:: number
-- What do you think needs to improve in your department?
+- What do you think needs to improve in your department? {{renderer :todomaster}}
   logseq.order-list-type:: number
 	- (Department process, tools, communication, ownership, skill gaps, quality, speed,
 	  logseq.order-list-type:: number
 	  customer handling. Anything that would improve outcomes.)
 	- If any, what do you think
 	  logseq.order-list-type:: number
-		- Why this matters:
+		- TODO Why this matters:
 		  logseq.order-list-type:: number
-		- Example of current problem:
+		- TODO Example of current problem:
 		  logseq.order-list-type:: number
 		- Suggested improvement:
 		  logseq.order-list-type:: number
