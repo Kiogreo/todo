@@ -4,4 +4,4 @@
 
 1. Logseq
 
-![Alt](https://repobeats.axiom.co/api/embed/b13907743bbaec36428ed7f12aebc5deac445719.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/325e6132cba03d1bb3957d87320fdf28f71624b4.svg "Repobeats analytics image")
