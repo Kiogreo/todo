@@ -271,8 +271,7 @@
 					- TODO Limit value based
 						- add toggle to enable/disable
 						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
-							- Yes, we No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
-							  logseq.order-list-type:: number
+							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 				- Part 2 - Item configuration {{renderer :todomaster}}
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
