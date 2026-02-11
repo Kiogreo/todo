@@ -306,9 +306,9 @@
 			- DONE Refactor Users Tab
 			- TODO Refactor Form Field Tab
 			- TODO Refactor Main Information Component
-			- DOING Refactor Form Setting Tab
+			- DONE Refactor Form Setting Tab
 			  :LOGBOOK:
-			  CLOCK: [2026-02-11 Wed 17:34:59]
+			  CLOCK: [2026-02-11 Wed 17:34:59]--[2026-02-11 Wed 17:36:45] =>  00:01:46
 			  :END:
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
