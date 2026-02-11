@@ -264,16 +264,29 @@
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
 				- Part 1 {{renderer :todomaster}}
-					- TODO #re-test Delivery Information
-					- TODO #re-test Vendor Information
-					- TODO #re-test Submission Information
-					- TODO #re-test Item information
+					- DOING #re-test Delivery Information
+					  :LOGBOOK:
+					  CLOCK: [2026-02-11 Wed 11:54:19]
+					  :END:
+					- DOING #re-test Vendor Information
+					  :LOGBOOK:
+					  CLOCK: [2026-02-11 Wed 11:54:47]
+					  :END:
+					- DOING #re-test Submission Information
+					  :LOGBOOK:
+					  CLOCK: [2026-02-11 Wed 11:54:48]
+					  :END:
+					- DOING #re-test Item information
+					  :LOGBOOK:
+					  CLOCK: [2026-02-11 Wed 11:54:48]
+					  :END:
 					- TODO Relabel Budget Setting (**Check JIRA Epic**)
 					- TODO Limit value based
 						- add toggle to enable/disable
 						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 				- Part 2 - Item configuration {{renderer :todomaster}}
+				  collapsed:: true
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
 						  :LOGBOOK:
@@ -285,7 +298,7 @@
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
 			- TODO #re-test PO PDF Tab
-			- TODO #re-test Setup Logs
+			- DONE #re-test Setup Logs
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
