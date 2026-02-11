@@ -305,7 +305,10 @@
 			  :END:
 			- DONE Refactor Users Tab
 			- TODO Refactor Form Field Tab
-			- TODO Refactor Main Information Component
+			- DOING Refactor Main Information Component
+			  :LOGBOOK:
+			  CLOCK: [2026-02-11 Wed 17:36:57]
+			  :END:
 			- DONE Refactor Form Setting Tab
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:34:59]--[2026-02-11 Wed 17:36:45] =>  00:01:46
