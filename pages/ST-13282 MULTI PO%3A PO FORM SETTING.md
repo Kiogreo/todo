@@ -196,6 +196,7 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
+				  collapsed:: true
 					- DONE Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
 					  collapsed:: true
@@ -246,12 +247,12 @@
 							- | **FIELD** | **KEY** | **REMARKS** |
 							  | --- | --- | --- |
 							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
-					- DOING PO Email Text #q&a
+					- DONE PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
 					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
-					  CLOCK: [2026-01-23 Fri 08:59:25]
+					  CLOCK: [2026-01-23 Fri 08:59:25]--[2026-02-11 Wed 11:53:56] =>  458:54:31
 					  :END:
 						- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
 						- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
