@@ -298,12 +298,13 @@
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
 			- TODO #re-test PO PDF Tab
-			- DOING #re-test Setup Logs
+			- DONE #re-test Setup Logs
 			  id:: 6976fe32-9b24-4aad-8848-983697f8147b
 			  :LOGBOOK:
-			  CLOCK: [2026-02-11 Wed 17:31:06]
+			  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
 			  :END:
 			- DONE #re-test Users
+			- TODO Refactor Form Field Tab
 			-
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
