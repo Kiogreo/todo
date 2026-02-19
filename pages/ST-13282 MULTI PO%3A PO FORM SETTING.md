@@ -281,6 +281,9 @@
 					  CLOCK: [2026-02-11 Wed 11:54:48]
 					  :END:
 					- TODO Relabel Budget Setting (**Check JIRA Epic**)
+					  :LOGBOOK:
+					  CLOCK: [2026-02-19 Thu 15:47:03]--[2026-02-19 Thu 15:47:04] =>  00:00:01
+					  :END:
 					- TODO Limit value based
 						- add toggle to enable/disable
 						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
