@@ -23,9 +23,11 @@
 		- properties/function position guideline (based on our eslint)
 	- TODO New Component
 		- Lazy loading component use `defineAsyncComponent()` (always use this for Vue3 compatibility)
-			- import { computed, defineAsyncComponent } from "vue";
+			- ```js
+			  import { defineAsyncComponent } from "vue";
+			  ```
 		- Nested `<template>` directive
-			- ```vue
+			- ```html
 			  <template #button>
 			  	<div class="btn btn-default m-0-i">
 			        {{ trans.get("shared.action_labels.filter") }}
