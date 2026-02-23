@@ -325,7 +325,8 @@
 					    }
 					  Reason: TypeError: Cannot destructure property 'proxy' of 'getCurrentInstance(...)' as it is null.
 					  ```
-					-
+					- Root Cause
+						-
 			- DOING Refactor Main Information Component
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
