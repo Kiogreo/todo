@@ -301,6 +301,9 @@
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
 			- TODO #re-test PO PDF Tab
+			  :LOGBOOK:
+			  CLOCK: [2026-02-23 Mon 10:14:01]--[2026-02-23 Mon 10:14:01] =>  00:00:00
+			  :END:
 			- DONE Refactor Setup Logs Tab
 			  id:: 6976fe32-9b24-4aad-8848-983697f8147b
 			  :LOGBOOK:
