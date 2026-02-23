@@ -307,7 +307,25 @@
 			  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
 			  :END:
 			- DONE Refactor Users Tab
-			- TODO Refactor Form Field Tab
+			- DOING Refactor Form Field Tab
+			  :LOGBOOK:
+			  CLOCK: [2026-02-23 Mon 09:23:09]
+			  :END:
+				- Blocker
+					- ```
+					  [Vue warn]: Failed to resolve async component: function() {
+					      var component = load();
+					      return {
+					        component,
+					        delay,
+					        timeout,
+					        error: errorComponent,
+					        loading: loadingComponent
+					      };
+					    }
+					  Reason: TypeError: Cannot destructure property 'proxy' of 'getCurrentInstance(...)' as it is null.
+					  ```
+					-
 			- DOING Refactor Main Information Component
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
