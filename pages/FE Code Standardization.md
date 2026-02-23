@@ -27,7 +27,7 @@
 			  import { defineAsyncComponent } from "vue";
 			  ```
 		- Nested `<template>` directive
-			- ```html
+			- ```vue
 			  <template #button>
 			  	<div class="btn btn-default m-0-i">
 			        {{ trans.get("shared.action_labels.filter") }}
