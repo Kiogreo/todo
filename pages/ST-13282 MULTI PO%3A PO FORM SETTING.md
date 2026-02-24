@@ -314,19 +314,25 @@
 			  CLOCK: [2026-02-23 Mon 09:23:09]
 			  :END:
 				- Blocker
-					- DONE ```
-					  [Vue warn]: Failed to resolve async component: function() {
-					      var component = load();
-					      return {
-					        component,
-					        delay,
-					        timeout,
-					        error: errorComponent,
-					        loading: loadingComponent
-					      };
-					    }
-					  Reason: TypeError: Cannot destructure property 'proxy' of 'getCurrentInstance(...)' as it is null.
-					  ```
+					- DOING component import issue
+					  :LOGBOOK:
+					  CLOCK: [2026-02-24 Tue 12:20:30]
+					  :END:
+						- ```
+						  [Vue warn]: Failed to resolve async component: function() {
+						      var component = load();
+						      return {
+						        component,
+						        delay,
+						        timeout,
+						        error: errorComponent,
+						        loading: loadingComponent
+						      };
+						    }
+						  Reason: TypeError: Cannot destructure property 'proxy' of 'getCurrentInstance(...)' as it is null.
+						  ```
+						- Root cause
+							-
 					-
 			- DOING Refactor Main Information Component
 			  :LOGBOOK:
