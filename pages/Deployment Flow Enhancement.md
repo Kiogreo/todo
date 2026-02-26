@@ -12,21 +12,25 @@
 		  | | 2 | ❌️ | `1` server | |
 		  | | 3 | 1 batch | `1` server | When some ticket fails QA, only the passed QA tickets will be deployed to `Beta` environment |
 		  | | 4 | ❌️ | `M` server | |
-		- ```mermaid
-		  block
-		      block:Ticket
-		          T1
-		          T2
-		          T3
-		      end
-		      space
-		      Alpha
-		      Ticket --> Alpha
-		      space
-		      Alpha --> Beta
-		      space
-		      Beta --> PROD
-		  ```
+	- ## Diagram
+		- ### Happy Flow
+			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 3}}
+			  collapsed:: true
+				- ```mermaid
+				  block
+				      block:Ticket
+				          T1
+				          T2
+				          T3
+				      end
+				      space
+				      Alpha
+				      Ticket --> Alpha
+				      space
+				      Alpha --> Beta
+				      space
+				      Beta --> PROD
+				  ```
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
