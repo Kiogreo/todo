@@ -8,7 +8,7 @@
 	- ### Proposal
 		- | **AGREED?** | **FLOW #** | **BATCH** | **SERVER** | **REMARKS** |
 		  | --- | --- | --- | --- |
-		  | ✅️ | 1 | 1 batch | `1` server | |
+		  | ✅️ | 1 | 1 batch | `1` server | When 1 ticket fails QA, the whole batch will be discarded and a new batch will be created from the successful |
 		  | | 2 | ❌️ | `1` server | |
 		  | | 3 | 1 batch | `1` server | |
 		  | | 4 | ❌️ | `M` server | |
