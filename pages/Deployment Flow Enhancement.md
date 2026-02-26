@@ -13,6 +13,7 @@
 		  | Deployment Frequency | Every 2 weeks | Multiple per-week |
 		  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than 7 ticket per deployment |
 		  | Deployment Environment | Staging Environment is 24/7 | Beta Environment is on demand |
-		  | Cherry-Pick | ✅️ | ❌️ |
-	- Topics to discuss
--
+		  | Cherry-Pick Deployment | ✅️ | ❌️ |
+	- ### Management Consideration
+		-
+	-
