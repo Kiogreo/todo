@@ -75,4 +75,4 @@
 		- On demand Beta environment
 			-
 		- No more cherry-pick deployment
-			-
+			- Since both Alpha & Beta environment is on demand
