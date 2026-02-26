@@ -32,7 +32,7 @@
 				      Beta --> PROD
 				  ```
 		- ### Alternative Flow
-			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 4}}
+			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 3}}
 				- ```mermaid
 				  block
 				      block:Ticket
