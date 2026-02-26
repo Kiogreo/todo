@@ -6,7 +6,12 @@
 	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + Jasper)
 - ## Notes
 	- ### Proposal
-		- | Flow # | Batch
+		- | **FLOW #** | **BATCH** | **SERVER** |
+		  | --- | --- |
+		  | 1 |  |  |
+		  | 2 |  |  |
+		  | 3 |  |  |
+		  | 4 |  |  |
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
