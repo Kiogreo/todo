@@ -8,10 +8,10 @@
 	- ### Proposal
 		- | **FLOW #** | **BATCH** | **SERVER** |
 		  | --- | --- |
-		  | 1 |  |  |
-		  | 2 |  |  |
-		  | 3 |  |  |
-		  | 4 |  |  |
+		  | 1 | 1 batch | 1 server |
+		  | 2 | ❌️ | 1 server |
+		  | 3 | ❌️ |  |
+		  | 4 | 1 batch |  |
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
