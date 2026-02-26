@@ -69,4 +69,9 @@
 			  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than 7 ticket per deployment |
 			  | Deployment Environment | Staging Environment is 24/7 | Beta Environment is on demand |
 			  | Cherry-Pick Deployment | ✅️ | ❌️ |
-		-
+		- Deployment Expectation
+			-
+		- On demand Beta environment
+			-
+		- No more cherry-pick deployment
+			-
