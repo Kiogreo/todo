@@ -8,10 +8,12 @@
 	- ### Proposal
 		- | **AGREED?** | **FLOW #** | **BATCH** | **SERVER** | **REMARKS** |
 		  | --- | --- | --- | --- |
-		  | ✅️ | 1 | 1 batch | `1` server | When some ticket fails QA, the whole batch will be discarded and a new batch will be created consisting only the ticket that passes QA |
+		  | ✅️ | 1 | 1 batch | `1` server | When some ticket fails QA, the whole batch will be discarded and a new batch will be created consisting only the ticket that passes QA to be deployed to `Alpha` environment |
 		  | | 2 | ❌️ | `1` server | |
-		  | | 3 | 1 batch | `1` server | When some ticket fails QA, only the passes QA |
+		  | | 3 | 1 batch | `1` server | When some ticket fails QA, only the passed QA tickets will be deployed to `Beta` environment |
 		  | | 4 | ❌️ | `M` server | |
+		- ```mermaid
+		  ```
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
