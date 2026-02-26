@@ -8,9 +8,9 @@
 	- ### Proposal
 		- | **AGREED?** | **FLOW #** | **BATCH** | **SERVER** | **REMARKS** |
 		  | --- | --- | --- | --- |
-		  | ✅️ | 1 | 1 batch | `1` server | When 1 ticket fails QA, the whole batch will be discarded and a new batch will be created from the successful |
+		  | ✅️ | 1 | 1 batch | `1` server | When 1 ticket fails QA, the whole batch will be discarded and a new batch will be created consisting only the ticket that passes QA |
 		  | | 2 | ❌️ | `1` server | |
-		  | | 3 | 1 batch | `1` server | |
+		  | | 3 | 1 batch | `1` server | When 1 ticket fails QA, the whole batch will be discarded and a new batch will be created consisting only the ticket that passes QA |
 		  | | 4 | ❌️ | `M` server | |
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
