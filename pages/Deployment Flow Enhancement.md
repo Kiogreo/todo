@@ -8,7 +8,7 @@
 	- ### Proposal
 		- | Topic | Current Flow | New Flow |
 		  | --- | --- | --- |
-		  | Deployment Expectation |  |  |
-		  | Beta Environment on Demand |  |  |
+		  | Deployment Frequency |  |  |
+		  | Deployment Environment | Staging Environemtn is 24/7 | Beta Environment is on demand |
 		  | Cherry Pick | ✅️ | ❌️ |
 		-
