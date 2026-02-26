@@ -32,16 +32,16 @@
 				      Beta --> PROD
 				  ```
 		- ### Alternative Flow
-			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 3}}
+			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 4}}
 				- ```mermaid
 				  block
 				      block:Ticket
-				          T1["TI "]
-				          T2
-				          T3
+				          T1["TI ✅️"]
+				          T2["T2 ❌️"]
+				          T3["T3 ✅️"]
 				      end
 				      space
-				      Alpha["Alpha (discarded)"]
+				      Alpha["Alpha (❌️ discarded)"]
 				      Ticket --> Alpha
 				  ```
 			- {{renderer :mermaid_699ff807-1448-42a9-b56b-81bddde179e4, 3}}
@@ -49,8 +49,8 @@
 				- ```mermaid
 				  block
 				      block:Ticket
-				          T1
-				          T3
+				          T1["TI ✅️"]
+				          T3["T3 ✅️"]
 				      end
 				      space
 				      Alpha["Alpha (new)"]
