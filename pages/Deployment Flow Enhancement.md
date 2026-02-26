@@ -9,7 +9,7 @@
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
 		  | Deployment Frequency | Every 2 weeks | Multiple per-week |
-		  | Deployment Ticket Quantity |  |  |
+		  | Deployment Ticket Quantity | 5-20+ ticket per deployment |  |
 		  | Deployment Environment | Staging Environemtn is 24/7 | Beta Environment is on demand |
 		  | Cherry Pick | ✅️ | ❌️ |
 		-
