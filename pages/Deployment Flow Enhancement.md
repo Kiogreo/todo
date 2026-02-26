@@ -33,11 +33,12 @@
 				  ```
 		- ### Alternative Flow
 			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 3}}
+			  collapsed:: true
 				- ```mermaid
 				  block
 				      block:Ticket
 				          T1["TI ✅️"]
-				          T2["T2 ❌️"]
+				          T2["T2 (❌️ fail)"]
 				          T3["T3 ✅️"]
 				      end
 				      space
