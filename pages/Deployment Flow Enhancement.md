@@ -70,7 +70,8 @@
 			  | Deployment Environment | Staging Environment is 24/7 | Beta Environment is on demand |
 			  | Cherry-Pick Deployment | ✅️ | ❌️ |
 		- Deployment Expectation
-			-
+			- Frequency: We can reduce the deployment frequency from 2 weeks to less than 1 week
+			- Ticket Quantity: We can expect to reduce the number of tickets to deploy per deployment window from 10+ tickets to less than 7
 		- On demand Beta environment
 			-
 		- No more cherry-pick deployment
