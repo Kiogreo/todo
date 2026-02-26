@@ -36,15 +36,16 @@
 				- ```mermaid
 				  block
 				      block:Ticket
-				          T1
+				          T1["TI "]
 				          T2
 				          T3
 				      end
-				      spaces
+				      space
 				      Alpha["Alpha (discarded)"]
 				      Ticket --> Alpha
 				  ```
-			-
+			- {{renderer :mermaid_699ff807-1448-42a9-b56b-81bddde179e4, 3}}
+			  collapsed:: true
 				- ```mermaid
 				  block
 				      block:Ticket
