@@ -13,7 +13,6 @@
 		  | | 3 | 1 batch | `1` server | When some ticket fails QA, only the passed QA tickets will be deployed to `Beta` environment |
 		  | | 4 | ❌️ | `M` server | |
 		- ```mermaid
-		  
 		  ```
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
