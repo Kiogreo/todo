@@ -31,6 +31,34 @@
 				      space
 				      Beta --> PROD
 				  ```
+		- ### Alternative Flow
+			- {{renderer :mermaid_699ff3db-fd53-440a-8d3f-527ca29ca87d, 3}}
+				- ```mermaid
+				  block
+				      block:Ticket
+				          T1
+				          T2
+				          T3
+				      end
+				      spaces
+				      Alpha["Alpha (discarded)"]
+				      Ticket --> Alpha
+				  ```
+			-
+				- ```mermaid
+				  block
+				      block:Ticket
+				          T1
+				          T3
+				      end
+				      space
+				      Alpha["Alpha (new)"]
+				      Ticket --> Alpha
+				      space
+				      Alpha --> Beta
+				      space
+				      Beta --> PROD
+				  ```
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
