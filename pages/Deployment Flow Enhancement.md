@@ -5,4 +5,9 @@
 	  :END:
 	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + Jasper)
 - ## Notes
-	-
+	- ### Proposal
+		- Current VS New Flow
+			- | Current Flow | New Flow |
+			  | --- | --- |
+			  | something | something else |
+		-
