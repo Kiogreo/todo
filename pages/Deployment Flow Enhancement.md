@@ -1,9 +1,8 @@
-## Task {{renderer :todomaster}}
-	- TODO Meeting with Sim + DevOps + Tech + QA
-		- Invitation
-			-
-	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + )
-		- Invitation
-			-
+## Meetings {{renderer :todomaster}}
+	- DOING Meeting with Sim + DevOps + Tech + QA
+	  :LOGBOOK:
+	  CLOCK: [2026-02-26 Thu 14:45:55]
+	  :END:
+	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + Jasper)
 - ## Notes
-	- df
+	-
