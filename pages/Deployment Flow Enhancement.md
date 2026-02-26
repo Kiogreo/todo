@@ -6,10 +6,11 @@
 	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + Jasper)
 - ## Notes
 	- ### Proposal
-		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
-		  | --- | --- | --- |
-		  | Deployment Frequency | Every 2 weeks | Multiple per-week |
-		  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than 7 ticket per deployment |
-		  | Deployment Environment | Staging Environment is 24/7 | Beta Environment is on demand |
-		  | Cherry Pick | ✅️ | ❌️ |
+		- Comparison on the current flow with the expected output of the new flow
+			- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
+			  | --- | --- | --- |
+			  | Deployment Frequency | Every 2 weeks | Multiple per-week |
+			  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than 7 ticket per deployment |
+			  | Deployment Environment | Staging Environment is 24/7 | Beta Environment is on demand |
+			  | Cherry Pick | ✅️ | ❌️ |
 		-
