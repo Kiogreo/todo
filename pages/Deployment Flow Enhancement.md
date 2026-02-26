@@ -10,4 +10,5 @@
 		  | --- | --- | --- |
 		  | Deployment Expectation |  |  |
 		  | Beta Environment on Demand |  |  |
-		  | Deployment Expectation |  |  |
+		  | Cherry Pick | ✅️ | ❌️ |
+		-
