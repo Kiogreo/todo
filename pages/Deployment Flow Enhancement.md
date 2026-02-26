@@ -6,12 +6,12 @@
 	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + Jasper)
 - ## Notes
 	- ### Proposal
-		- | **FLOW #** | **BATCH** | **SERVER** | **REMARKS** |
-		  | --- | --- | --- |
-		  | 1 | 1 batch | 1 server | |
-		  | 2 | ❌️ | 1 server | |
-		  | 3 | 1 batch | `1` server | |
-		  | 4 | ❌️ | `M` server | |
+		- | **AGREED?** | **FLOW #** | **BATCH** | **SERVER** | **REMARKS** |
+		  | --- | --- | --- | --- |
+		  | ✅️ | 1 | 1 batch | `1` server | |
+		  | | 2 | ❌️ | `1` server | |
+		  | | 3 | 1 batch | `1` server | |
+		  | | 4 | ❌️ | `M` server | |
 	- ### Pros & Cons Summary
 		- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 		  | --- | --- | --- |
