@@ -6,7 +6,7 @@
 	- TODO Meeting with Management (DevOps + Sim + Shangrong + Ben + Jasper)
 - ## Notes
 	- ### Proposal
-		- | TOPIC | CURRENT FLOW | NEW FLOW |
+		- | **TOPIC** | **CURRENT FLOW** | NEW FLOW |
 		  | --- | --- | --- |
 		  | Deployment Frequency | Every 2 weeks | Multiple per-week |
 		  | Deployment Ticket Quantity |  |  |
