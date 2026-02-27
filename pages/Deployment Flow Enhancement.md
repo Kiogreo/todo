@@ -70,14 +70,13 @@
 			  | Deployment Environment | Current Staging is 24/7 up-time | New Alpha & Beta Environment will be on demand (scalable) |
 			  | Cherry-Pick Deployment | ✅️ | ❌️ |
 		- Deployment Expectation
-			- Frequency
+			- **Deployment Frequency**
 				- We have the flexibility to either proceed with the current deployment schedule or change it to depending on the deployment batch and situations
-			- Ticket Quantity
+			- **Ticket Quantity**
 				- Flexibility on choosing to deploy a specific batch of tickets without affect other batch of tickets
 				- Example
 					- We may have 2 batches of tickets consisting of **Batch 1 (3+ feature tickets)** and **Batch 2 (1-2 bugfix ticket)**
-					- Depending on our deployment priority, we have may decide to proceed with **Batch 1**'s deployment before **Batch 2**, and vice versa
-					- Changes in **Batch 1**
+					- Depending on our deployment priority, we have may decide to proceed with **Batch 1**'s deployment before **Batch 2**, and vice versa with lower risk of deploying ticket that have tight dependencies
 		- On demand Beta environment
 			-
 		- No more cherry-pick deployment
