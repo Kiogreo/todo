@@ -83,6 +83,6 @@
 				- This way, we can reduce operation cost & cut off unnecessary overhead
 			- How will it affect the Product in terms of conducting demo?
 			- Are we still able to spin up Beta server 24/7 similar to the current Staging?
-				- Yes, at the same time, we also have the option to turn it off on demand assuming it is no longer needed at a certain point of
+				- Yes, at the same time, we also have the option to turn it off when it is no longer needed
 		- No more cherry-pick deployment
 			- Since both Alpha & Beta environment is on demand, there will
