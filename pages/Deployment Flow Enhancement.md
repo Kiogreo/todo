@@ -62,14 +62,14 @@
 				      Beta --> PROD
 				  ```
 	- ### Management Consideration
-		- Current VS New Flow
+		- #### Current VS New Flow
 			- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 			  | --- | --- | --- |
 			  | Deployment Frequency | Every 2 weeks | Multiple per week, every week or/and every 2 week (a lot more flexible) |
 			  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than current flow |
 			  | Deployment Environment | Current Staging is 24/7 up-time | New Alpha & Beta Environment will be on demand (scalable) |
 			  | Cherry-Pick Deployment | ✅️ | ❌️ (no longer necessary because the batch of tickets to deploy was already tested together) |
-		- Deployment Expectation
+		- #### Deployment Expectation
 			- **Deployment Frequency**
 				- We have the flexibility to either proceed with the current deployment schedule or change it to depending on the deployment batch and situations
 			- **Ticket Quantity**
@@ -77,7 +77,7 @@
 				- Example
 					- We may have 2 batches of tickets consisting of **Batch 1 (3+ feature tickets)** and **Batch 2 (1-2 bugfix ticket)**
 					- Depending on our deployment priority, we have may decide to proceed with **Batch 1**'s deployment before **Batch 2**, and vice versa with lower risk of deploying ticket that have tight dependencies
-		- Beta on demand environment
+		- #### Beta on demand environment
 			- What does it mean?
 				- We only spin up a new Beta environment when we need them
 				- Reduce unnecessary operation cost
@@ -85,5 +85,5 @@
 				- Yes, at the same time, we also have the option to turn it off when it is no longer needed
 			- How will it affect the Product in terms of conducting demo?
 				- For demo purposes, Product or Management need to request spin up a Beta environment
-		- No more cherry-pick deployment
-			- Since we deploy tickets by batch of ticket that are related, cherry-pick deployment are mostl
+		- #### No more cherry-pick deployment
+			- Since we deploy tickets by batch of ticket that are related, cherry-pick deployment are most-likely not needed
