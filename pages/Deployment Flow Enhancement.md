@@ -75,7 +75,7 @@
 			- Ticket Quantity
 				- Flexibility on choosing to deploy a specific batch of tickets without affect other batch of tickets
 				- Example
-					- We
+					- We may have 2 batches of tickets consisting of **Batch 1 (5+ tickets)** and **Batch 2 (5+ feature ticket)**, we can decide to proceed on deploying
 		- On demand Beta environment
 			-
 		- No more cherry-pick deployment
