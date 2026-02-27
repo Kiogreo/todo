@@ -73,7 +73,9 @@
 			- Frequency
 				- We have the flexibility to either proceed with the current deployment schedule or change it to depending on the deployment batch and situations
 			- Ticket Quantity
-				- We have the flexibility to either deploy certain ticket
+				- Flexibility on choosing to deploy a specific batch of tickets without affect other batch of tickets
+				- Example
+					- We
 		- On demand Beta environment
 			-
 		- No more cherry-pick deployment
