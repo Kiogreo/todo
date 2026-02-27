@@ -65,7 +65,7 @@
 		- Current VS New Flow
 			- | **TOPIC** | **CURRENT FLOW** | **NEW FLOW** |
 			  | --- | --- | --- |
-			  | Deployment Frequency | Every 2 weeks | between  |
+			  | Deployment Frequency | Every 2 weeks | Multiple per-week or/and every 2 week (a lot more flexible) |
 			  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than current flow |
 			  | Deployment Environment | Staging Environment is 24/7 | Beta Environment is on demand |
 			  | Cherry-Pick Deployment | ✅️ | ❌️ |
