@@ -78,6 +78,9 @@
 					- We may have 2 batches of tickets consisting of **Batch 1 (3+ feature tickets)** and **Batch 2 (1-2 bugfix ticket)**
 					- Depending on our deployment priority, we have may decide to proceed with **Batch 1**'s deployment before **Batch 2**, and vice versa with lower risk of deploying ticket that have tight dependencies
 		- Beta on demand environment
-			-
+			- What does it mean?
+				-
+			- How will it affect the Product in terms of conducting demo?
+			- We
 		- No more cherry-pick deployment
 			- Since both Alpha & Beta environment is on demand, there will
