@@ -71,7 +71,7 @@
 			  | Cherry-Pick Deployment | ✅️ | ❌️ |
 		- Deployment Expectation
 			- Frequency
-				- We have the flexibility to choose whether to follow the current deployment schedule, or change it to
+				- We have the flexibility to either proceed with the current deployment schedule or change it to depending on the deployment batch and situations
 			- Ticket Quantity
 				- We can expect to reduce the number of tickets to deploy per deployment window from 10+ tickets to less than 7
 		- On demand Beta environment
