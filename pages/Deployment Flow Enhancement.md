@@ -67,11 +67,13 @@
 			  | --- | --- | --- |
 			  | Deployment Frequency | Every 2 weeks | Multiple per week, every week or/and every 2 week (a lot more flexible) |
 			  | Deployment Ticket Quantity | Between 5-20+ ticket per deployment | Expecting less than current flow |
-			  | Deployment Environment | Current Staging is 24/7 up-time | New Alpha & Beta Environment is on demand |
+			  | Deployment Environment | Current Staging is 24/7 up-time | New Alpha & Beta Environment will be on demand (scalable) |
 			  | Cherry-Pick Deployment | ✅️ | ❌️ |
 		- Deployment Expectation
-			- Frequency: We can reduce the deployment frequency from 2 weeks to less than 1 week
-			- Ticket Quantity: We can expect to reduce the number of tickets to deploy per deployment window from 10+ tickets to less than 7
+			- Frequency
+				- We have the flexibility to choose  the deployment frequency from 2 weeks to less than 1 week
+			- Ticket Quantity
+				- We can expect to reduce the number of tickets to deploy per deployment window from 10+ tickets to less than 7
 		- On demand Beta environment
 			-
 		- No more cherry-pick deployment
