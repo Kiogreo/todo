@@ -79,7 +79,8 @@
 					- Depending on our deployment priority, we have may decide to proceed with **Batch 1**'s deployment before **Batch 2**, and vice versa with lower risk of deploying ticket that have tight dependencies
 		- Beta on demand environment
 			- What does it mean?
-				-
+				- We only spin up a new Beta environment when we need them
+				- This way, we can reduce operation cost & cut off unnecessary overhead
 			- How will it affect the Product in terms of conducting demo?
 			- We
 		- No more cherry-pick deployment
