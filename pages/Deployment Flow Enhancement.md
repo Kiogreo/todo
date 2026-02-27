@@ -80,10 +80,10 @@
 		- Beta on demand environment
 			- What does it mean?
 				- We only spin up a new Beta environment when we need them
-				- This way, we can reduce unnecessary operation cost
+				- Reduce unnecessary operation cost
 			- Are we still able to spin up Beta server 24/7 similar to the current Staging?
 				- Yes, at the same time, we also have the option to turn it off when it is no longer needed
 			- How will it affect the Product in terms of conducting demo?
 				- For demo purposes, Product or Management need to request spin up a Beta environment
 		- No more cherry-pick deployment
-			- Since both Alpha & Beta environment is on demand, there will
+			- Since we deploy tickets by batch of ticket that are related, cherry-pick deployment are mostl
