@@ -12,7 +12,10 @@
 	  CLOCK: [2026-01-23 Fri 08:59:09]--[2026-01-26 Mon 13:40:21] =>  76:41:12
 	  CLOCK: [2026-01-26 Mon 13:40:21]
 	  :END:
+- ## Production Issue
+	- TODO @alisa inve
 - ## Devops #devops {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [#A] [[HUB Webhook Docker Troubleshooting]]
 	  :LOGBOOK:
 	  CLOCK: [2026-01-26 Mon 13:41:02]--[2026-01-26 Mon 13:41:02] =>  00:00:00
@@ -35,6 +38,7 @@
 	  :END:
 	-
 - ## Wiki #wiki {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [#B] [[FE Code Standardization]]
 	  :LOGBOOK:
 	  CLOCK: [2026-01-06 Tue 17:37:36]--[2026-01-06 Tue 17:37:37] =>  00:00:01
@@ -46,6 +50,7 @@
 	  CLOCK: [2026-01-12 Mon 11:20:07]--[2026-01-12 Mon 11:20:07] =>  00:00:00
 	  :END:
 - ## Personal Development {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Feedback During Multi PO Phase 2 (2026-01-15 Thursday)]]
 	- TODO [[Staff Review 2025]]
 	-
