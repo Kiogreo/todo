@@ -31,8 +31,6 @@
 			  logseq.order-list-type:: number
 			- user-2 able to do GR for the same PO (assigned to previous user-1 & DA)
 			  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
-		-
 - ## Devops #devops {{renderer :todomaster}}
   collapsed:: true
 	- DONE [#A] [[HUB Webhook Docker Troubleshooting]]
