@@ -13,7 +13,13 @@
 	  CLOCK: [2026-01-26 Mon 13:40:21]
 	  :END:
 - ## Production Issue
-	- TODO @alisa inve
+	- TODO @alisa
+		- user-1 create DA (assign to user-1)
+		  logseq.order-list-type:: number
+		- user-1 create
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 - ## Devops #devops {{renderer :todomaster}}
   collapsed:: true
 	- DONE [#A] [[HUB Webhook Docker Troubleshooting]]
