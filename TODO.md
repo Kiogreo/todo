@@ -14,9 +14,11 @@
 	  :END:
 - ## Production Issue
 	- TODO @alisa
-		- user-1 create DA (assign to user-1)
+		- create DA
 		  logseq.order-list-type:: number
-		- user-1 create
+		- create PO
+		  logseq.order-list-type:: number
+		- assign DA to PO
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
