@@ -14,12 +14,22 @@
 	  :END:
 - ## Production Issue
 	- TODO @alisa
-		- create DA
-		  logseq.order-list-type:: number
-		- create PO
-		  logseq.order-list-type:: number
-		- assign DA to PO
-		  logseq.order-list-type:: number
+		- Actor
+			- Admin
+			- user-1 (assigned to DA & PO)
+			- user-2 (not assigned to DA & PO)
+		- Step
+			- create DA
+			  logseq.order-list-type:: number
+			- create PO
+			  logseq.order-list-type:: number
+			- assign DA to PO & user-1
+			  logseq.order-list-type:: number
+			- submit PO
+			  logseq.order-list-type:: number
+			- delete DA
+			  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 - ## Devops #devops {{renderer :todomaster}}
