@@ -195,6 +195,7 @@
 		- ### Individual PO Form Setting {{renderer :todomaster}}
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab
+			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- DONE Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
@@ -260,6 +261,7 @@
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab
+			  collapsed:: true
 				- Part 1 {{renderer :todomaster}}
 					- DOING #re-test Delivery Information
 					  :LOGBOOK:
@@ -296,7 +298,7 @@
 							- #q&a Not now
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
-			- TODO #re-test PO PDF Tab
+			- DONE #re-test PO PDF Tab
 			  :LOGBOOK:
 			  CLOCK: [2026-02-23 Mon 10:14:01]--[2026-02-23 Mon 10:14:01] =>  00:00:00
 			  :END:
@@ -311,9 +313,9 @@
 			  CLOCK: [2026-02-23 Mon 09:23:09]
 			  :END:
 				- Blocker
-					- DOING component import issue
+					- DONE component import issue
 					  :LOGBOOK:
-					  CLOCK: [2026-02-24 Tue 12:20:30]
+					  CLOCK: [2026-02-24 Tue 12:20:30]--[2026-04-07 Tue 11:07:02] =>  1006:46:32
 					  :END:
 						- ```
 						  [Vue warn]: Failed to resolve async component: function() {
@@ -328,9 +330,6 @@
 						    }
 						  Reason: TypeError: Cannot destructure property 'proxy' of 'getCurrentInstance(...)' as it is null.
 						  ```
-						- Root cause
-							-
-					-
 			- DOING Refactor Main Information Component
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
