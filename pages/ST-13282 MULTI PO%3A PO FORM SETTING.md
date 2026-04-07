@@ -310,7 +310,13 @@
 			  CLOCK: [2026-02-11 Wed 17:36:57]
 			  :END:
 			- TODO RTN tab {{renderer :todomaster}}
+			  :LOGBOOK:
+			  CLOCK: [2026-04-07 Tue 11:21:52]--[2026-04-07 Tue 11:21:57] =>  00:00:05
+			  :END:
 				- TODO create new keys in backend from form setting
+				  :LOGBOOK:
+				  CLOCK: [2026-04-07 Tue 11:21:53]--[2026-04-07 Tue 11:21:56] =>  00:00:03
+				  :END:
 					- formSettings.settings.goods_returned_info
 					- formSettings.settings_config.goods_returned_info
 			- DOING migration script {{renderer :todomaster}}
