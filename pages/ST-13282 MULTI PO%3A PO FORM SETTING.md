@@ -328,7 +328,9 @@
 				- TODO Approved source from
 				- TODO Bulk Upload
 			- TODO Edit Added Item
-				-
+				- TODO Item name
+				- TODO item description
+				- /allow itemc
 				- TODO Vendor selection
 				- TODO Auto populate unit price
 - # Pending Tasks
