@@ -323,8 +323,9 @@
 				  :END:
 		- [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
 			- TODO Add Item Via
-				-
+				- TODO Free Text Item
 				- TODO Catalogue
+				- TODO Appproved source from
 			- TODO Edit Added Item
 			- TODO
 - # Pending Tasks
