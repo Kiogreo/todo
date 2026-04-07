@@ -276,16 +276,13 @@
 					  :LOGBOOK:
 					  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:06] =>  1319:17:18
 					  :END:
-					- TODO Relabel Budget Setting (**Check JIRA Epic**)
-					  :LOGBOOK:
-					  CLOCK: [2026-02-19 Thu 15:47:03]--[2026-02-19 Thu 15:47:04] =>  00:00:01
-					  :END:
 					- TODO Limit value based
 						- add toggle to enable/disable
 						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
 						  collapsed:: true
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 				- Part 2 - Item configuration {{renderer :todomaster}}
+				  collapsed:: true
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 					  collapsed:: true
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
@@ -324,6 +321,8 @@
 				  :LOGBOOK:
 				  CLOCK: [2026-04-07 Tue 11:11:46]
 				  :END:
+		- [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
+			- TODO
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
