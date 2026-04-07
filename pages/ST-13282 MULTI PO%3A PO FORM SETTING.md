@@ -194,8 +194,7 @@
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting {{renderer :todomaster}}
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
-			- Form Setting Tab
-			  collapsed:: true
+			- Form Setting Tab {{renderer :todomaster}}
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- DONE Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
@@ -258,7 +257,7 @@
 							  | PO Email Template | `purchase_order_email_template` | `templates.email` |
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
-			- Form Fields Tab
+			- Form Fields Tab {{renderer :todomaster}}
 			  collapsed:: true
 				- Part 1 {{renderer :todomaster}}
 					- DOING #re-test Delivery Information
@@ -314,8 +313,9 @@
 				  :LOGBOOK:
 				  CLOCK: [2026-02-11 Wed 17:34:59]--[2026-02-11 Wed 17:36:45] =>  00:01:46
 				  :END:
-			- TODO RTN tab
-				- create new
+			- TODO RTN tab {{renderer :todomaster}}
+				- TODO create new keys in backend
+					-
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
