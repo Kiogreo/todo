@@ -312,7 +312,7 @@
 			- TODO RTN tab {{renderer :todomaster}}
 				- TODO create new keys in backend from form setting
 					- formSettings.settings.goods_returned_info
-					- settings_config.goods_returned_info
+					- formSettings.settings_config.goods_returned_info
 			- DOING migration script {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:11:45]
