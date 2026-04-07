@@ -330,7 +330,7 @@
 			- TODO Edit Added Item
 				- TODO Item name
 				- TODO item description
-				- /allow itemc
+				- /allow item code entry
 				- TODO Vendor selection
 				- TODO Auto populate unit price
 - # Pending Tasks
