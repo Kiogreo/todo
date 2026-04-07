@@ -336,7 +336,7 @@
 			- TODO Edit Added Item
 				- TODO Item name
 				- TODO item description
-				- /allow item code entry
+				- TODO allow item code entry
 				- TODO Vendor selection
 				- TODO Auto populate unit price
 - # Pending Tasks
