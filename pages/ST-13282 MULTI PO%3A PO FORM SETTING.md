@@ -319,7 +319,15 @@
 				  :END:
 					- formSettings.settings.goods_returned_info
 					- formSettings.settings_config.goods_returned_info
-			- TODO Glue BE and FE
+			- DOING Glue BE and FE
+			  :LOGBOOK:
+			  CLOCK: [2026-04-07 Tue 11:33:13]
+			  :END:
+				- TODO form setting tab
+				- TODO form fields tab
+				- TODO GR fields
+				- TODO RTN
+				-
 			- DOING migration script {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:11:45]
