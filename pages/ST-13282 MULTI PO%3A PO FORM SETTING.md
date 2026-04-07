@@ -325,9 +325,12 @@
 			- TODO Add Item Via
 				- TODO Free Text Item
 				- TODO Catalogue
-				- TODO Appproved source from
+				- TODO Approved source from
+				- TODO Bulk Upload
 			- TODO Edit Added Item
-			- TODO
+				-
+				- TODO Vendor selection
+				- TODO Auto populate unit price
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
