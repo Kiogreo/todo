@@ -318,7 +318,8 @@
 				  CLOCK: [2026-04-07 Tue 11:21:53]--[2026-04-07 Tue 11:21:56] =>  00:00:03
 				  :END:
 					- formSettings.settings.goods_returned_info
-					- formSettings.settings_config.goods_returned_info
+					- formSettings.settings_config.goods_returned_info\
+			- TODO Glue BE and
 			- DOING migration script {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:11:45]
