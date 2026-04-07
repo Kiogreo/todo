@@ -259,23 +259,22 @@
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab {{renderer :todomaster}}
-			  collapsed:: true
 				- Part 1 {{renderer :todomaster}}
-					- DOING #re-test Delivery Information
+					- DONE #re-test Delivery Information
 					  :LOGBOOK:
-					  CLOCK: [2026-02-11 Wed 11:54:19]
+					  CLOCK: [2026-02-11 Wed 11:54:19]--[2026-04-07 Tue 11:12:03] =>  1319:17:44
 					  :END:
-					- DOING #re-test Vendor Information
+					- DONE #re-test Vendor Information
 					  :LOGBOOK:
-					  CLOCK: [2026-02-11 Wed 11:54:47]
+					  CLOCK: [2026-02-11 Wed 11:54:47]--[2026-04-07 Tue 11:12:05] =>  1319:17:18
 					  :END:
-					- DOING #re-test Submission Information
+					- DONE #re-test Submission Information
 					  :LOGBOOK:
-					  CLOCK: [2026-02-11 Wed 11:54:48]
+					  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:05] =>  1319:17:17
 					  :END:
-					- DOING #re-test Item information
+					- DONE #re-test Item information
 					  :LOGBOOK:
-					  CLOCK: [2026-02-11 Wed 11:54:48]
+					  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:06] =>  1319:17:18
 					  :END:
 					- TODO Relabel Budget Setting (**Check JIRA Epic**)
 					  :LOGBOOK:
@@ -284,14 +283,17 @@
 					- TODO Limit value based
 						- add toggle to enable/disable
 						- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
+						  collapsed:: true
 							- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 				- Part 2 - Item configuration {{renderer :todomaster}}
 					- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
+					  collapsed:: true
 						- DONE **KIV** from @ben in what are the setting that we want to #q&a
 						  :LOGBOOK:
 						  CLOCK: [2026-01-15 Thu 16:10:31]--[2026-01-15 Thu 16:10:32] =>  00:00:01
 						  :END:
 					- DONE Add Item from approved origin #q&a
+					  collapsed:: true
 						- DONE Item Source: Contract Item
 							- #q&a Not now
 							- What does it do?
@@ -310,16 +312,18 @@
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
 			  :END:
-				- DONE Refactor Form Setting Tab
-				  :LOGBOOK:
-				  CLOCK: [2026-02-11 Wed 17:34:59]--[2026-02-11 Wed 17:36:45] =>  00:01:46
-				  :END:
 			- TODO RTN tab {{renderer :todomaster}}
 				- TODO create new keys in backend
 					- settings.goods_returned_info
 					- settings_config.goods_returned_info
-			- TODO migration script
-				- convert all company settings keys into po form setting keys
+			- DOING migration script {{renderer :todomaster}}
+			  :LOGBOOK:
+			  CLOCK: [2026-04-07 Tue 11:11:45]
+			  :END:
+				- DOING convert all company settings keys into po form setting keys
+				  :LOGBOOK:
+				  CLOCK: [2026-04-07 Tue 11:11:46]
+				  :END:
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
