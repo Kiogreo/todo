@@ -234,7 +234,6 @@
 								-
 					- DONE PO T&C #q&a
 					  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:33]--[2026-01-23 Fri 08:59:21] =>  45:49:48
 					  CLOCK: [2026-01-23 Fri 08:59:23]--[2026-01-26 Mon 14:07:46] =>  77:08:23
@@ -247,7 +246,6 @@
 							  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
 					- DONE PO Email Text #q&a
 					  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
 					  CLOCK: [2026-01-23 Fri 08:59:25]--[2026-02-11 Wed 11:53:56] =>  458:54:31
@@ -308,36 +306,16 @@
 			  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
 			  :END:
 			- DONE Refactor Users Tab
-			- DOING Refactor Form Field Tab
-			  :LOGBOOK:
-			  CLOCK: [2026-02-23 Mon 09:23:09]
-			  :END:
-				- Blocker
-					- DONE component import issue
-					  :LOGBOOK:
-					  CLOCK: [2026-02-24 Tue 12:20:30]--[2026-04-07 Tue 11:07:02] =>  1006:46:32
-					  :END:
-						- ```
-						  [Vue warn]: Failed to resolve async component: function() {
-						      var component = load();
-						      return {
-						        component,
-						        delay,
-						        timeout,
-						        error: errorComponent,
-						        loading: loadingComponent
-						      };
-						    }
-						  Reason: TypeError: Cannot destructure property 'proxy' of 'getCurrentInstance(...)' as it is null.
-						  ```
 			- DOING Refactor Main Information Component
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
 			  :END:
-			- DONE Refactor Form Setting Tab
-			  :LOGBOOK:
-			  CLOCK: [2026-02-11 Wed 17:34:59]--[2026-02-11 Wed 17:36:45] =>  00:01:46
-			  :END:
+				- DONE Refactor Form Setting Tab
+				  :LOGBOOK:
+				  CLOCK: [2026-02-11 Wed 17:34:59]--[2026-02-11 Wed 17:36:45] =>  00:01:46
+				  :END:
+			- TODO RTN tab
+				- create new
 - # Pending Tasks
 	- TODO Update Ticket For Multi PO: 2nd Phase
 	- Dev
