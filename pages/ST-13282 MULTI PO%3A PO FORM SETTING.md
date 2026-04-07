@@ -310,7 +310,7 @@
 			  CLOCK: [2026-02-11 Wed 17:36:57]
 			  :END:
 			- TODO RTN tab {{renderer :todomaster}}
-				- TODO create new keys in backend
+				- TODO create new keys in backend from
 					- settings.goods_returned_info
 					- settings_config.goods_returned_info
 			- DOING migration script {{renderer :todomaster}}
