@@ -327,7 +327,10 @@
 				  :LOGBOOK:
 				  CLOCK: [2026-04-08 Wed 08:48:29]
 				  :END:
-				- TODO form fields tab
+				- DOING form fields tab
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:38]
+				  :END:
 				- DOING GR fields
 				  :LOGBOOK:
 				  CLOCK: [2026-04-08 Wed 08:48:33]
@@ -336,17 +339,29 @@
 				  :LOGBOOK:
 				  CLOCK: [2026-04-08 Wed 08:48:34]
 				  :END:
-				- TODO PI fields
-				- TODO pdf
-				- TODO setup log
-				- TODO users
-			- DOING migration script {{renderer :todomaster}}
-			  :LOGBOOK:
-			  CLOCK: [2026-04-07 Tue 11:11:45]
-			  :END:
-				- DOING convert all company settings keys into po form setting keys
+				- DOING PI fields
 				  :LOGBOOK:
-				  CLOCK: [2026-04-07 Tue 11:11:46]
+				  CLOCK: [2026-04-08 Wed 08:48:36]
+				  :END:
+				- DOING pdf
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:37]
+				  :END:
+				- DOING setup log
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:37]
+				  :END:
+				- DOING users
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:37]
+				  :END:
+			- TODO migration script {{renderer :todomaster}}
+			  :LOGBOOK:
+			  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
+			  :END:
+				- TODO convert all company settings keys into po form setting keys
+				  :LOGBOOK:
+				  CLOCK: [2026-04-07 Tue 11:11:46]--[2026-04-08 Wed 08:48:41] =>  21:36:55
 				  :END:
 		- [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
 			- TODO Add Item Via
