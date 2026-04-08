@@ -312,22 +312,38 @@
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
 			  :END:
-			- TODO GR tab {{renderer :todomaster}}
+			- DONE GR tab {{renderer :todomaster}}
+			  collapsed:: true
 				- DONE keys for GR tab
 					- | **FIELD** | **KEY** |
 					  | --- | --- |
 					  | To show GR tab | `purchase_order_enable_gr_module` |
-			- TODO RTN tab {{renderer :todomaster}}
+			- DONE RTN tab {{renderer :todomaster}}
+			  collapsed:: true
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:21:52]--[2026-04-07 Tue 11:21:57] =>  00:00:05
+			  CLOCK: [2026-04-08 Wed 20:45:11]--[2026-04-08 Wed 20:45:13] =>  00:00:02
 			  :END:
-				- TODO new keys for RTN tab
+				- DONE new keys for RTN tab
 				  :LOGBOOK:
 				  CLOCK: [2026-04-07 Tue 11:21:53]--[2026-04-07 Tue 11:21:56] =>  00:00:03
+				  CLOCK: [2026-04-08 Wed 20:45:12]--[2026-04-08 Wed 20:45:12] =>  00:00:00
 				  :END:
 					- | Field | Key |
-					  | ---
-					-
+					  | --- | --- |
+					  | To show RTN tab | `purchase_order_enable_rtn_module` |
+			- DONE PI tab {{renderer :todomaster}}
+			  collapsed:: true
+			  :LOGBOOK:
+			  CLOCK: [2026-04-08 Wed 20:46:01]--[2026-04-08 Wed 20:46:02] =>  00:00:01
+			  :END:
+				- DONE keys for PI tab
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 20:46:00]--[2026-04-08 Wed 20:46:01] =>  00:00:01
+				  :END:
+					- | Field | Key |
+					  | --- | --- |
+					  | To show PI tab | `purchase_order_enable_ir_module` |
 			- DOING Glue BE and FE
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:33:13]
