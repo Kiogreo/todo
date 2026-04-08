@@ -314,7 +314,11 @@
 			  :END:
 			- TODO GR tab {{renderer :todomaster}}
 				- TODO ensure company setting has BE key
-					- |
+					- | **FIELD** | **KEY** |
+					  | --- | --- |
+					  | To show GR tab | `purchase_order_enable_gr_module` |
+					  | To show RTN tab | `purchase_order_enable_rtn_module` |
+					  | To show PI tab | `purchase_order_enable_ir_module` |
 			- TODO RTN tab {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:21:52]--[2026-04-07 Tue 11:21:57] =>  00:00:05
