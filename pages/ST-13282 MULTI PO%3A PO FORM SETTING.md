@@ -345,8 +345,9 @@
 					  | --- | --- |
 					  | To show PI tab | `purchase_order_enable_ir_module` |
 			- Functionality {{renderer :todomaster}}
-				- TODO Auto PO
-					- TODO PR A auto create PO A
+				- TODO Auto PO {{renderer :todomaster}}
+				  collapsed:: true
+					- TODO `PR A` auto create `PO A`
 						- Create PR Form Setting A
 						  logseq.order-list-type:: number
 						- Create PO Form Setting A
@@ -355,9 +356,9 @@
 						  logseq.order-list-type:: number
 						- Submit PR A and approve them
 						  logseq.order-list-type:: number
-						- Expected output = PO A was created from PR A
+						- Expected output = PO A was automatically created from PR A
 						  logseq.order-list-type:: number
-					- TODO PR B auto create PO B
+					- TODO `PR B` auto create `PO B`
 						- Create PR Form Setting B
 						  logseq.order-list-type:: number
 						- Create PO Form Setting B
@@ -366,9 +367,9 @@
 						  logseq.order-list-type:: number
 						- Submit PR B and approve them
 						  logseq.order-list-type:: number
-						- Expected output = PO B was created from PR B
+						- Expected output = PO B was automatically created from PR B
 						  logseq.order-list-type:: number
-					- TODO PR C manual create PO C
+					- TODO `PR C` manual create `PO C`
 						- Create PR Form Setting C
 						  logseq.order-list-type:: number
 						- Create PO Form Setting C
@@ -379,7 +380,7 @@
 						  logseq.order-list-type:: number
 						- Manually convert PR C to PO C
 						  logseq.order-list-type:: number
-						- Expected output = PO C was created from PR A
+						- Expected output = PO C was created from PR C
 						  logseq.order-list-type:: number
 				- TODO Auto Split PO
 				- TODO Email placeholder
