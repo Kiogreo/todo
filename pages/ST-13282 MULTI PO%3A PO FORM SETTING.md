@@ -353,9 +353,34 @@
 						  logseq.order-list-type:: number
 						- Link PR A to PO A
 						  logseq.order-list-type:: number
-						- logseq.order-list-type:: number
+						- Submit PR A and approve them
+						  logseq.order-list-type:: number
+						- Expected output = PO A was created from PR A
+						  logseq.order-list-type:: number
 					- TODO PR B auto create PO B
+						- Create PR Form Setting B
+						  logseq.order-list-type:: number
+						- Create PO Form Setting B
+						  logseq.order-list-type:: number
+						- Link PR B to PO B
+						  logseq.order-list-type:: number
+						- Submit PR B and approve them
+						  logseq.order-list-type:: number
+						- Expected output = PO B was created from PR B
+						  logseq.order-list-type:: number
 					- TODO PR C manual create PO C
+						- Create PR Form Setting C
+						  logseq.order-list-type:: number
+						- Create PO Form Setting C
+						  logseq.order-list-type:: number
+						- Link PR C to PO C
+						  logseq.order-list-type:: number
+						- Submit PR C and approve them
+						  logseq.order-list-type:: number
+						- Manually convert PR C to PO C
+						  logseq.order-list-type:: number
+						- Expected output = PO C was created from PR A
+						  logseq.order-list-type:: number
 				- TODO Auto Split PO
 				- TODO Email placeholder
 					- TODO By default, use PO's email placeholder
