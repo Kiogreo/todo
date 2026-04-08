@@ -323,10 +323,19 @@
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:33:13]
 			  :END:
-				- TODO form setting tab
+				- DOING form setting tab
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:29]
+				  :END:
 				- TODO form fields tab
-				- TODO GR fields
-				- TODO RTN fields
+				- DOING GR fields
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:33]
+				  :END:
+				- DOING RTN fields
+				  :LOGBOOK:
+				  CLOCK: [2026-04-08 Wed 08:48:34]
+				  :END:
 				- TODO PI fields
 				- TODO pdf
 				- TODO setup log
