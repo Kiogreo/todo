@@ -195,6 +195,7 @@
 		- ### Individual PO Form Setting {{renderer :todomaster}}
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- Form Setting Tab {{renderer :todomaster}}
+			  collapsed:: true
 				- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
 					- DONE Auto PO #q&a
 					  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
@@ -258,6 +259,7 @@
 							  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 							  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 			- Form Fields Tab {{renderer :todomaster}}
+			  collapsed:: true
 				- Part 1 {{renderer :todomaster}}
 					- DONE #re-test Delivery Information
 					  :LOGBOOK:
