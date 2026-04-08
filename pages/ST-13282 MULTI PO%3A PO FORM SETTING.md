@@ -344,42 +344,6 @@
 					- | Field | Key |
 					  | --- | --- |
 					  | To show PI tab | `purchase_order_enable_ir_module` |
-			- DOING Glue BE and FE
-			  :LOGBOOK:
-			  CLOCK: [2026-04-07 Tue 11:33:13]
-			  :END:
-				- DOING form setting tab
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:29]
-				  :END:
-				- DOING form fields tab
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:38]
-				  :END:
-				- DOING GR fields
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:33]
-				  :END:
-				- DOING RTN fields
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:34]
-				  :END:
-				- DOING PI fields
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:36]
-				  :END:
-				- DOING pdf
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:37]
-				  :END:
-				- DOING setup log
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:37]
-				  :END:
-				- DOING users
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 08:48:37]
-				  :END:
 			- TODO migration script {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
