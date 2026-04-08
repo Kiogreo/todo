@@ -13,7 +13,12 @@
 	  CLOCK: [2026-01-26 Mon 13:40:21]
 	  :END:
 - ## Production Issue
-	- TODO @alisa
+	- DOING @alisa
+	  collapsed:: true
+	  :LOGBOOK:
+	  CLOCK: [2026-04-08 Wed 08:46:21]--[2026-04-08 Wed 08:46:22] =>  00:00:01
+	  CLOCK: [2026-04-08 Wed 08:46:42]
+	  :END:
 		- Actor
 			- Admin
 			- user-1 (assigned to DA & PO)
