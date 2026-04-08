@@ -313,22 +313,21 @@
 			  CLOCK: [2026-02-11 Wed 17:36:57]
 			  :END:
 			- TODO GR tab {{renderer :todomaster}}
-				- TODO ensure company setting has BE key
+				- DONE keys for GR tab
 					- | **FIELD** | **KEY** |
 					  | --- | --- |
 					  | To show GR tab | `purchase_order_enable_gr_module` |
-					  | To show RTN tab | `purchase_order_enable_rtn_module` |
-					  | To show PI tab | `purchase_order_enable_ir_module` |
 			- TODO RTN tab {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:21:52]--[2026-04-07 Tue 11:21:57] =>  00:00:05
 			  :END:
-				- TODO create new keys in backend from form setting
+				- TODO new keys for RTN tab
 				  :LOGBOOK:
 				  CLOCK: [2026-04-07 Tue 11:21:53]--[2026-04-07 Tue 11:21:56] =>  00:00:03
 				  :END:
-					- formSettings.settings.goods_returned_info
-					- formSettings.settings_config.goods_returned_info
+					- | Field | Key |
+					  | ---
+					-
 			- DOING Glue BE and FE
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:33:13]
