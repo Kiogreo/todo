@@ -346,8 +346,16 @@
 					  | To show PI tab | `purchase_order_enable_ir_module` |
 			- Functionality {{renderer :todomaster}}
 				- TODO Auto PO
-					- Test case
-						- TODO PR A to
+					- TODO PR A auto create PO A
+						- Create PR Form Setting A
+						  logseq.order-list-type:: number
+						- Create PO Form Setting A
+						  logseq.order-list-type:: number
+						- Link PR A to PO A
+						  logseq.order-list-type:: number
+						- logseq.order-list-type:: number
+					- TODO PR B auto create PO B
+					- TODO PR C manual create PO C
 				- TODO Auto Split PO
 				- TODO Email placeholder
 					- TODO By default, use PO's email placeholder
