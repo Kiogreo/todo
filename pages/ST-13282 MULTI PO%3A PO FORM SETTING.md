@@ -344,6 +344,11 @@
 					- | Field | Key |
 					  | --- | --- |
 					  | To show PI tab | `purchase_order_enable_ir_module` |
+			- Functionality {{renderer :todomaster}}
+				- TODO Auto PO
+					- TODO | Status | Cause | Effect |
+					  | --- | --- | --- |
+					  |
 			- TODO migration script {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
