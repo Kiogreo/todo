@@ -346,9 +346,12 @@
 					  | To show PI tab | `purchase_order_enable_ir_module` |
 			- Functionality {{renderer :todomaster}}
 				- TODO Auto PO
+					- Test case
+						- TODO PR A to
 				- TODO Auto Split PO
 				- TODO Email placeholder
-					- TODO
+					- TODO By default, use PO's email placeholder
+					- TODO Use Vendor email palceholder if it exist
 			- TODO migration script {{renderer :todomaster}}
 			  :LOGBOOK:
 			  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
