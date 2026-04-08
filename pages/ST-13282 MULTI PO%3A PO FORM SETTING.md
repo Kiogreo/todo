@@ -298,16 +298,21 @@
 							- #q&a Not now
 							- What does it do?
 							- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
-			- DONE #re-test PO PDF Tab
+			- DOING #re-test PO PDF Tab
 			  :LOGBOOK:
 			  CLOCK: [2026-02-23 Mon 10:14:01]--[2026-02-23 Mon 10:14:01] =>  00:00:00
+			  CLOCK: [2026-04-08 Wed 20:57:30]
 			  :END:
-			- DONE Refactor Setup Logs Tab
+			- DOING Refactor Setup Logs Tab
 			  id:: 6976fe32-9b24-4aad-8848-983697f8147b
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
+			  CLOCK: [2026-04-08 Wed 20:57:29]
 			  :END:
-			- DONE Refactor Users Tab
+			- DOING Refactor Users Tab
+			  :LOGBOOK:
+			  CLOCK: [2026-04-08 Wed 20:57:33]
+			  :END:
 			- DOING Refactor Main Information Component
 			  :LOGBOOK:
 			  CLOCK: [2026-02-11 Wed 17:36:57]
@@ -344,7 +349,7 @@
 					- | Field | Key |
 					  | --- | --- |
 					  | To show PI tab | `purchase_order_enable_ir_module` |
-			- Functionality {{renderer :todomaster}}
+			- TODO Functionality {{renderer :todomaster}}
 				- TODO Auto PO {{renderer :todomaster}}
 				  collapsed:: true
 					- TODO `PR A` auto create `PO A`
@@ -383,7 +388,7 @@
 						- Expected output = PO C was created from PR C
 						  logseq.order-list-type:: number
 				- TODO Auto Split PO
-				- TODO Email placeholder
+				- TODO Email placeholder {{renderer :todomaster}}
 					- TODO By default, use PO's email placeholder
 					- TODO Use Vendor email palceholder if it exist
 			- TODO migration script {{renderer :todomaster}}
@@ -396,11 +401,13 @@
 				  :END:
 		- [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
 			- TODO Add Item Via
+			  collapsed:: true
 				- TODO Free Text Item
 				- TODO Catalogue
 				- TODO Approved source from
 				- TODO Bulk Upload
 			- TODO Edit Added Item
+			  collapsed:: true
 				- TODO Item name
 				- TODO item description
 				- TODO allow item code entry
