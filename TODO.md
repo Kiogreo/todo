@@ -74,6 +74,7 @@
 - ## Personal Development {{renderer :todomaster}}
 	- TODO Appreciation
 		- Plan for big meal to appreciate them (just like old days)
+			- maybe open up,
 		- Invitation list
 			- TODO @sim
 			- TODO @zikri
