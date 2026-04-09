@@ -263,6 +263,15 @@
 									  | PO Email Template | `purchase_order_email_template` | `templates.email` |
 									  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 									  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
+							- Bug
+								- DOING Send a copy to submitter
+								  :LOGBOOK:
+								  CLOCK: [2026-04-09 Thu 17:09:46]
+								  :END:
+								- DOING Send a copy to requestor
+								  :LOGBOOK:
+								  CLOCK: [2026-04-09 Thu 17:09:46]
+								  :END:
 				- Form Fields Tab {{renderer :todomaster}}
 					- Part 1 {{renderer :todomaster}}
 						- DONE #re-test Delivery Information
