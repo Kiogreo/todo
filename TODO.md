@@ -74,15 +74,16 @@
 - ## Personal Development {{renderer :todomaster}}
 	- TODO Appreciation
 		- Plan for big meal to appreciate them (just like old days)
-			-
-			- @sim
-			- @zikri
-			- @zahir
-			- @hazim
-			- @yuzrie
-			- @jasper
-			- @hadi
-			- @luqman
-			- @ima
+		- Invitation list
+			- TODO @sim
+			- TODO @zikri
+			- TODO @zahir
+			- TODO @hazim
+			- TODO @yuzrie
+			- TODO @jasper
+			- TODO @hadi
+			- TODO @luqman
+			- TODO @ima
+			- TODO @shangrong
 	- TODO [[Feedback During Multi PO Phase 2 (2026-01-15 Thursday)]]
 	- TODO [[Staff Review 2025]]
