@@ -125,7 +125,9 @@
 			  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 				- #### FRONTEND {{renderer :todomaster}}
 					- Form Setting Tab {{renderer :todomaster}}
+					  collapsed:: true
 						- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
+						  collapsed:: true
 							- DONE Auto PO #q&a
 							  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
 							  collapsed:: true
@@ -178,6 +180,7 @@
 									  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
 							- DONE PO Email Text #q&a
 							  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
+							  collapsed:: true
 							  :LOGBOOK:
 							  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
 							  CLOCK: [2026-01-23 Fri 08:59:25]--[2026-02-11 Wed 11:53:56] =>  458:54:31
@@ -193,13 +196,13 @@
 										  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
 										  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 								- Bug
-									- DOING Send a copy to submitter
+									- DONE Send a copy to submitter
 									  :LOGBOOK:
-									  CLOCK: [2026-04-09 Thu 17:09:46]
+									  CLOCK: [2026-04-09 Thu 17:09:46]--[2026-04-09 Thu 18:01:13] =>  00:51:27
 									  :END:
-									- DOING Send a copy to requestor
+									- DONE Send a copy to requestor
 									  :LOGBOOK:
-									  CLOCK: [2026-04-09 Thu 17:09:46]
+									  CLOCK: [2026-04-09 Thu 17:09:46]--[2026-04-09 Thu 18:01:14] =>  00:51:28
 									  :END:
 					- Form Fields Tab {{renderer :todomaster}}
 						- Part 1 {{renderer :todomaster}}
