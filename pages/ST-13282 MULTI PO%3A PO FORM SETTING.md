@@ -1,34 +1,4 @@
-# Acceptance Criteria
-collapsed:: true
-	- [[Form Setting Splitting]]
-	  logseq.order-list-type:: number
-		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
-		- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
-	- [[Reorganise PO Settings]]
-	  logseq.order-list-type:: number
-		- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
-		  logseq.order-list-type:: number
-- ## Q&A
-  collapsed:: true
-	- DONE What is the main difference between Global PO Setting & Individual PO Setting?
-	  collapsed:: true
-		- | Global PO Setting | Individual PO Setting |
-		  | --- | ---- |
-		  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
-		  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
-	- DONE For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
-	  collapsed:: true
-		- Yes, the user access the PO details page from the reference in PR details page
-			- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
-		- DONE @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
-	- DONE Po acceptance not needed to split
-	- DONE Regarding the `PO pull items from PR`, we don't have them yet
-	  collapsed:: true
-		- Currently the concept **PULL** are only being used by RFX
-		- For PR, it **PUSH** item to create a new PO
-	- DONE For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
-	- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
-- # Task Breakdown
+# Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
 	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
@@ -152,6 +122,7 @@ collapsed:: true
 				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 		- ### Individual PO Form Setting {{renderer :todomaster}}
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
+		  collapsed:: true
 			- #### FRONTEND {{renderer :todomaster}}
 				- Form Setting Tab {{renderer :todomaster}}
 					- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
@@ -371,23 +342,96 @@ collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-07 Tue 11:11:46]--[2026-04-08 Wed 08:48:41] =>  21:36:55
 					  :END:
-		- [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
-			- TODO Add Item Via
-			  collapsed:: true
-				- TODO Free Text Item
-				- TODO Catalogue
-				- TODO Approved source from
-				- TODO Bulk Upload
-			- TODO Edit Added Item
-			  collapsed:: true
-				- TODO Item name
-				- TODO item description
-				- TODO allow item code entry
-				- TODO Vendor selection
-				- TODO Auto populate unit price
+	- ## [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
+		- TODO Add Item Via
+		  collapsed:: true
+			- TODO Free Text Item
+			- TODO Catalogue
+			- TODO Approved source from
+			- TODO Bulk Upload
+		- TODO Edit Added Item
+		  collapsed:: true
+			- TODO Item name
+			- TODO item description
+			- TODO allow item code entry
+			- TODO Vendor selection
+			- TODO Auto populate unit price
 - # Archive
-	-
+	- # Acceptance Criteria
+	  collapsed:: true
+		- [[Form Setting Splitting]]
+		  logseq.order-list-type:: number
+			- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
+			- **Individual PO Form Setting** page = The page after user clicked on the `More Settings` from the `Purchase Order: Purchase Orders Settings` page
+		- [[Reorganise PO Settings]]
+		  logseq.order-list-type:: number
+			- Some fields from **Global PO Form Setting** will be moved into **Individual PO Form Setting**
+			  logseq.order-list-type:: number
+	- ## Q&A
+	  collapsed:: true
+		- DONE What is the main difference between Global PO Setting & Individual PO Setting?
+		  collapsed:: true
+			- | Global PO Setting | Individual PO Setting |
+			  | --- | ---- |
+			  | Feature toggle will affect existing PO (live change) | Feature toggle will only affect newly drafted PO |
+			  | Changes will be set under global Company Setting | Changes will be set under PO Form Setting |
+		- DONE For the `enable requestor to access PO Details page` setting, do we still use this? If yes, can anyone help me to understand how it works?
+		  collapsed:: true
+			- Yes, the user access the PO details page from the reference in PR details page
+				- Can remove first `Enable Requestor to access PO Details` & see what modules are affected
+			- DONE @Nadzmi to check & confirm what is the current flow for those companies that toggle this setting?
+		- DONE Po acceptance not needed to split
+		- DONE Regarding the `PO pull items from PR`, we don't have them yet
+		  collapsed:: true
+			- Currently the concept **PULL** are only being used by RFX
+			- For PR, it **PUSH** item to create a new PO
+		- DONE For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
+		- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
+	- # Reminders
+	  collapsed:: true
+		- #meeting PO Form Setting: Item Setting Re-organisation
+		  id:: 69644daa-4699-4996-85a4-9daa3d45a2f9
+		  collapsed:: true
+		  :LOGBOOK:
+		  CLOCK: [2026-01-12 Mon 09:33:44]--[2026-01-12 Mon 09:34:00] =>  00:00:16
+		  CLOCK: [2026-01-12 Mon 09:34:01]--[2026-01-12 Mon 09:34:32] =>  00:00:31
+		  CLOCK: [2026-01-12 Mon 09:34:33]
+		  :END:
+			- Objective
+			  collapsed:: true
+				- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
+				- DONE @nadzmi to check again how the re-structuring of the item config should be done #q&a
+			- Current Status
+			  collapsed:: true
+				- We want to change the `Item Configuration` sub-section from:
+				  collapsed:: true
+					- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
+					- To the below:
+					  collapsed:: true
+						- [] Enable add FFT
+						- [] Enable add catalogue products
+							- [] Enable editing of Catalogue Item Name
+							  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
+							- [] Enable editing of Catalogue Item Description
+							- [] Enable add Item Code
+						- [] Enable assigned vendor (to product)
+							- () show all
+							- () show assigned
+								- [] block submission
+						- [] Enable item from approved origin
+				- ## **UPDATED**
+				  collapsed:: true
+					- Enable add FFT
+					- 1. [ ] Show assigned vendor
+						- a. ( ) Allow all vendor when none assigned
+						- b. ( ) Only allow assigned vendor
+					- 2. [ ] Pull price from catalogue?
+					- 3. Enable add item from popup
+						- Display catalogue item as grid
+						- Display catalogue item as list
+					- 4. Enable bulk create item
 	- # Pending Tasks
+	  collapsed:: true
 		- TODO Update Ticket For Multi PO: 2nd Phase
 		- Dev
 		  collapsed:: true

@@ -63,6 +63,7 @@
 				- Note
 					- Add item from approved origin
 					- Display assigned vendor
+					  collapsed:: true
 						-
 			- TODO PO T&C
 				- ![image.png](../assets/image_1767851154836_0.png)
