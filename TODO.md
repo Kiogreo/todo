@@ -72,7 +72,11 @@
 	  CLOCK: [2026-01-12 Mon 11:20:07]--[2026-01-12 Mon 11:20:07] =>  00:00:00
 	  :END:
 - ## Personal Development {{renderer :todomaster}}
-  collapsed:: true
+	- TODO Appreciation
+		- Check with them again and reconcile for what happened
+			- @sim
+			- @zikri
+			- @zahir
+			- @
 	- TODO [[Feedback During Multi PO Phase 2 (2026-01-15 Thursday)]]
 	- TODO [[Staff Review 2025]]
-	-
