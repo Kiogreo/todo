@@ -53,295 +53,296 @@
 				- Form Deletion
 				- Form Name Change
 				- Form Details change
-	- ## [[Reorganise PO Settings]] {{renderer :todomaster}}
-		- ### Global PO Form Setting {{renderer :todomaster}}
-		  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-		  collapsed:: true
-			- #re-test Internal Source
-				- DONE figure out how it work in BE
-			- PO Acceptance
-				- DONE #q&a Is this referring to a scenario where vendor is accepted?
-					- **Answer** yes
-				- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
-					- **Answer** NO
-			- Enable Requestor to access PO Details
-				- DONE #q&a #tanya-ben Is this still used?
-					- **Answer**
-						- Yes, still used.
-						- From PR details page, requester will access PO details page through the internal source reference.
-			- #re-test Revise & Edit PO
-				- DONE Enable Revise PO
-				- DONE Require Approval for Lower Revision Sum
-					- **Revision Sum** = total item cost
-					- By default all revise PO that has higher **Revision Sum** require approval
-				- DONE Enable Revise on POs that have GR activity on them
-				- DONE Enable Edit PO
-				  :LOGBOOK:
-				  CLOCK: [2026-01-07 Wed 16:07:55]--[2026-01-15 Thu 16:15:01] =>  192:07:06
-				  :END:
-			- #re-test Company PO Page filters
-				- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
-			- #re-test Closing Po
-				- DONE Enable Goods Received Closing
-				- DONE Enable Extra Receiving Quantity
-				  collapsed:: true
-					- | Toggle | Screenshot |
-					  | --- | --- |
-					  | **Enabled** | ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 254, :width 531} |
-					  | **Disabled** | ![Screenshot 2026-01-08 at 11.44.09 AM.png](../assets/Screenshot_2026-01-08_at_11.44.09 AM_1767843900502_0.png){:height 168, :width 536} |
-				- DONE Enable FOC Quantities
-				  collapsed:: true
-					- | Toggle | Screenshot |
-					  | --- | --- |
-					  | **Enabled** | ![image.png](../assets/image_1767844171099_0.png) |
-					  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
-				- DONE Enable Invoice Received Closing
-				  collapsed:: true
-					- | Toggle | Screenshot |
-					  | --- | --- |
-					  | **Enabled** | ![image.png](../assets/image_1767849912691_0.png) |
-					  | **Disabled** | ![image.png](../assets/image_1767849829983_0.png) |
-				- DONE Enable Receiving Invoice Price Update
-				- DONE Enable Goods Return
-			- Advance Payment
-				- DONE create mailing group
-				- DONE check advance payment flow
-			- EVA settings
-				- DONE Notify Users when Vendor Uploads GR attachment
-				- DONE Notify Users when Vendor Uploads Invoice
-		- ### Form Listing Page {{renderer :todomaster}}
-		  collapsed:: true
-			- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
-				- DONE Create new Form
-				- DONE History Logs
-					- Form Creation
-					  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
-					- Form Deletion
-					- Form Name Change
-					- Form Details change
-				- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
-		- ### Individual PO Form Setting {{renderer :todomaster}}
-		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
-		  collapsed:: true
-			- #### FRONTEND {{renderer :todomaster}}
-				- Form Setting Tab {{renderer :todomaster}}
-					- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-						- DONE Auto PO #q&a
-						  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
-						  collapsed:: true
-						  :LOGBOOK:
-						  CLOCK: [2026-01-21 Wed 11:09:30]--[2026-01-23 Fri 08:59:18] =>  45:49:48
-						  CLOCK: [2026-01-23 Fri 08:59:18]--[2026-01-26 Mon 13:41:32] =>  76:42:14
-						  :END:
-							- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
-							- Setting key
-							  id:: 695f4504-b56d-4123-9f41-8de373c2c547
-								- id:: 695f450e-dd00-47d5-811b-1a042eeed348
-								  | **FIELD** | **KEY** | **NEW KEY IN FORM SETTING** |
-								  | --- | --- | --- |
-								  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `other_settings.enable_auto_generate_po_from_pr` |
-								  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
-						- DONE Auto PO Email #q&a
-						  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
-						  collapsed:: true
-						  :LOGBOOK:
-						  CLOCK: [2026-01-21 Wed 11:09:31]--[2026-01-23 Fri 08:59:17] =>  45:49:46
-						  CLOCK: [2026-01-23 Fri 08:59:19]--[2026-01-26 Mon 13:41:45] =>  76:42:26
-						  :END:
-							- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
-							- Setting key
-								- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
-								  | --- | --- | --- |
-								  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
-								  | Auto Email POs created manually` | `purchase_order_enable_auto_email_po` | `other_settings.enable_auto_email_po` |
-								  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
-								  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
-								  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `other_settings.enable_auto_email_auto_po`, `other_settings.enable_auto_email_auto_po_forms` |
-								  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_auto_po_send_to_submitter` |
-								  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
-							- Note
-								- Add item from approved origin
-								- Display assigned vendor
-									-
-						- DONE PO T&C #q&a
-						  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
-						  collapsed:: true
-						  :LOGBOOK:
-						  CLOCK: [2026-01-21 Wed 11:09:33]--[2026-01-23 Fri 08:59:21] =>  45:49:48
-						  CLOCK: [2026-01-23 Fri 08:59:23]--[2026-01-26 Mon 14:07:46] =>  77:08:23
-						  :END:
-							- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
-							- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
-							- Setting key
-								- | **FIELD** | **KEY** | **REMARKS** |
-								  | --- | --- | --- |
-								  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
-						- DONE PO Email Text #q&a
-						  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
-						  :LOGBOOK:
-						  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
-						  CLOCK: [2026-01-23 Fri 08:59:25]--[2026-02-11 Wed 11:53:56] =>  458:54:31
-						  :END:
-							- Setting keys
+	- ## [ST-13006](https://supplycart.atlassian.net/browse/ST-13006) {{renderer :todomaster}}
+		- ## [[Reorganise PO Settings]]
+			- ### Global PO Form Setting {{renderer :todomaster}}
+			  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+			  collapsed:: true
+				- #re-test Internal Source
+					- DONE figure out how it work in BE
+				- PO Acceptance
+					- DONE #q&a Is this referring to a scenario where vendor is accepted?
+						- **Answer** yes
+					- DONE #tanya-ben For the “PO Acceptance“ feature, do we not need to separate them into it’s own individual PO setting?
+						- **Answer** NO
+				- Enable Requestor to access PO Details
+					- DONE #q&a #tanya-ben Is this still used?
+						- **Answer**
+							- Yes, still used.
+							- From PR details page, requester will access PO details page through the internal source reference.
+				- #re-test Revise & Edit PO
+					- DONE Enable Revise PO
+					- DONE Require Approval for Lower Revision Sum
+						- **Revision Sum** = total item cost
+						- By default all revise PO that has higher **Revision Sum** require approval
+					- DONE Enable Revise on POs that have GR activity on them
+					- DONE Enable Edit PO
+					  :LOGBOOK:
+					  CLOCK: [2026-01-07 Wed 16:07:55]--[2026-01-15 Thu 16:15:01] =>  192:07:06
+					  :END:
+				- #re-test Company PO Page filters
+					- DONE check again with both @sim & @ben since we've implemented Filtering for `Form Name`
+				- #re-test Closing Po
+					- DONE Enable Goods Received Closing
+					- DONE Enable Extra Receiving Quantity
+					  collapsed:: true
+						- | Toggle | Screenshot |
+						  | --- | --- |
+						  | **Enabled** | ![Screenshot 2026-01-08 at 11.41.56 AM.png](../assets/Screenshot_2026-01-08_at_11.41.56 AM_1767843745201_0.png){:height 254, :width 531} |
+						  | **Disabled** | ![Screenshot 2026-01-08 at 11.44.09 AM.png](../assets/Screenshot_2026-01-08_at_11.44.09 AM_1767843900502_0.png){:height 168, :width 536} |
+					- DONE Enable FOC Quantities
+					  collapsed:: true
+						- | Toggle | Screenshot |
+						  | --- | --- |
+						  | **Enabled** | ![image.png](../assets/image_1767844171099_0.png) |
+						  | **Disabled** | ![image.png](../assets/image_1767844255138_0.png) |
+					- DONE Enable Invoice Received Closing
+					  collapsed:: true
+						- | Toggle | Screenshot |
+						  | --- | --- |
+						  | **Enabled** | ![image.png](../assets/image_1767849912691_0.png) |
+						  | **Disabled** | ![image.png](../assets/image_1767849829983_0.png) |
+					- DONE Enable Receiving Invoice Price Update
+					- DONE Enable Goods Return
+				- Advance Payment
+					- DONE create mailing group
+					- DONE check advance payment flow
+				- EVA settings
+					- DONE Notify Users when Vendor Uploads GR attachment
+					- DONE Notify Users when Vendor Uploads Invoice
+			- ### Form Listing Page {{renderer :todomaster}}
+			  collapsed:: true
+				- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
+					- DONE Create new Form
+					- DONE History Logs
+						- Form Creation
+						  id:: 695e0094-fb6e-4486-b9f4-6fb715536c16
+						- Form Deletion
+						- Form Name Change
+						- Form Details change
+					- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
+			- ### Individual PO Form Setting {{renderer :todomaster}}
+			  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
+			  collapsed:: true
+				- #### FRONTEND {{renderer :todomaster}}
+					- Form Setting Tab {{renderer :todomaster}}
+						- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
+							- DONE Auto PO #q&a
+							  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
 							  collapsed:: true
-								- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
-								- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
+							  :LOGBOOK:
+							  CLOCK: [2026-01-21 Wed 11:09:30]--[2026-01-23 Fri 08:59:18] =>  45:49:48
+							  CLOCK: [2026-01-23 Fri 08:59:18]--[2026-01-26 Mon 13:41:32] =>  76:42:14
+							  :END:
+								- ![Screenshot 2026-01-12 at 12.06.55 PM.png](../assets/Screenshot_2026-01-12_at_12.06.55 PM_1768190844059_0.png)
+								- Setting key
+								  id:: 695f4504-b56d-4123-9f41-8de373c2c547
+									- id:: 695f450e-dd00-47d5-811b-1a042eeed348
+									  | **FIELD** | **KEY** | **NEW KEY IN FORM SETTING** |
+									  | --- | --- | --- |
+									  | Enable auto-generate PO from PR | `purchase_requisition_enable_auto_generate_po_from_pr` | `other_settings.enable_auto_generate_po_from_pr` |
+									  | Enable Auto-split | `purchase_requisition_enable_auto_split_po_from_pr` | `other_settings.enable_auto_split_po_from_pr` |
+							- DONE Auto PO Email #q&a
+							  id:: 6966f4bd-5a34-4d87-8625-56e7ff13db5c
+							  collapsed:: true
+							  :LOGBOOK:
+							  CLOCK: [2026-01-21 Wed 11:09:31]--[2026-01-23 Fri 08:59:17] =>  45:49:46
+							  CLOCK: [2026-01-23 Fri 08:59:19]--[2026-01-26 Mon 13:41:45] =>  76:42:26
+							  :END:
+								- ![Screenshot 2026-01-12 at 12.09.02 PM.png](../assets/Screenshot_2026-01-12_at_12.09.02 PM_1768190954602_0.png)
 								- Setting key
 									- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
 									  | --- | --- | --- |
-									  | PO Email Template | `purchase_order_email_template` | `templates.email` |
-									  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
-									  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
-							- Bug
-								- DOING Send a copy to submitter
-								  :LOGBOOK:
-								  CLOCK: [2026-04-09 Thu 17:09:46]
-								  :END:
-								- DOING Send a copy to requestor
-								  :LOGBOOK:
-								  CLOCK: [2026-04-09 Thu 17:09:46]
-								  :END:
-				- Form Fields Tab {{renderer :todomaster}}
-					- Part 1 {{renderer :todomaster}}
-						- DONE #re-test Delivery Information
-						  :LOGBOOK:
-						  CLOCK: [2026-02-11 Wed 11:54:19]--[2026-04-07 Tue 11:12:03] =>  1319:17:44
-						  :END:
-						- DONE #re-test Vendor Information
-						  :LOGBOOK:
-						  CLOCK: [2026-02-11 Wed 11:54:47]--[2026-04-07 Tue 11:12:05] =>  1319:17:18
-						  :END:
-						- DONE #re-test Submission Information
-						  :LOGBOOK:
-						  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:05] =>  1319:17:17
-						  :END:
-						- DONE #re-test Item information
-						  :LOGBOOK:
-						  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:06] =>  1319:17:18
-						  :END:
-						- DOING Limit value based
-						  :LOGBOOK:
-						  CLOCK: [2026-04-09 Thu 17:34:28]
-						  :END:
-							- add toggle to enable/disable
-							- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
+									  | Enable auto PO email | `purchase_order_enable_auto_po` | This setting is not shown in UI |
+									  | Auto Email POs created manually` | `purchase_order_enable_auto_email_po` | `other_settings.enable_auto_email_po` |
+									  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_po_send_to_submitter` |
+									  | Send a copy to requestor | `purchase_order_auto_email_auto_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
+									  | Auto Email PO generated via Auto PO for the following PR forms | `purchase_order_enable_auto_email_auto_po`, `purchase_order_enable_auto_email_auto_po_forms` | `other_settings.enable_auto_email_auto_po`, `other_settings.enable_auto_email_auto_po_forms` |
+									  | Send a copy to submitter | `purchase_order_auto_email_po_send_to_submitter` | `other_settings.enable_auto_email_auto_po_send_to_submitter` |
+									  | Send a copy to requestor | `purchase_order_auto_email_po_send_to_requestor` | `other_settings.enable_auto_email_auto_po_send_to_requestor` |
+								- Note
+									- Add item from approved origin
+									- Display assigned vendor
+										-
+							- DONE PO T&C #q&a
+							  id:: 6966f4bd-c7e6-435c-86da-7b38aee28507
 							  collapsed:: true
-								- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
-					- Part 2 - Item configuration {{renderer :todomaster}}
-					  collapsed:: true
-						- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
-						  collapsed:: true
-							- DONE **KIV** from @ben in what are the setting that we want to #q&a
 							  :LOGBOOK:
-							  CLOCK: [2026-01-15 Thu 16:10:31]--[2026-01-15 Thu 16:10:32] =>  00:00:01
+							  CLOCK: [2026-01-21 Wed 11:09:33]--[2026-01-23 Fri 08:59:21] =>  45:49:48
+							  CLOCK: [2026-01-23 Fri 08:59:23]--[2026-01-26 Mon 14:07:46] =>  77:08:23
 							  :END:
-						- DONE Add Item from approved origin #q&a
+								- ![Screenshot 2026-01-12 at 12.10.18 PM.png](../assets/Screenshot_2026-01-12_at_12.10.18 PM_1768191030384_0.png)
+								- ![Screenshot 2026-01-12 at 12.12.19 PM.png](../assets/Screenshot_2026-01-12_at_12.12.19 PM_1768191153918_0.png)
+								- Setting key
+									- | **FIELD** | **KEY** | **REMARKS** |
+									  | --- | --- | --- |
+									  | PDF Terms & Conditionsc | `other_settings.purchase_requisition_tnc` | `templates.tnc` |
+							- DONE PO Email Text #q&a
+							  id:: 6966f4bd-08b8-4321-a3cb-4a74ba033488
+							  :LOGBOOK:
+							  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
+							  CLOCK: [2026-01-23 Fri 08:59:25]--[2026-02-11 Wed 11:53:56] =>  458:54:31
+							  :END:
+								- Setting keys
+								  collapsed:: true
+									- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
+									- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
+									- Setting key
+										- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
+										  | --- | --- | --- |
+										  | PO Email Template | `purchase_order_email_template` | `templates.email` |
+										  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
+										  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
+								- Bug
+									- DOING Send a copy to submitter
+									  :LOGBOOK:
+									  CLOCK: [2026-04-09 Thu 17:09:46]
+									  :END:
+									- DOING Send a copy to requestor
+									  :LOGBOOK:
+									  CLOCK: [2026-04-09 Thu 17:09:46]
+									  :END:
+					- Form Fields Tab {{renderer :todomaster}}
+						- Part 1 {{renderer :todomaster}}
+							- DONE #re-test Delivery Information
+							  :LOGBOOK:
+							  CLOCK: [2026-02-11 Wed 11:54:19]--[2026-04-07 Tue 11:12:03] =>  1319:17:44
+							  :END:
+							- DONE #re-test Vendor Information
+							  :LOGBOOK:
+							  CLOCK: [2026-02-11 Wed 11:54:47]--[2026-04-07 Tue 11:12:05] =>  1319:17:18
+							  :END:
+							- DONE #re-test Submission Information
+							  :LOGBOOK:
+							  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:05] =>  1319:17:17
+							  :END:
+							- DONE #re-test Item information
+							  :LOGBOOK:
+							  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:06] =>  1319:17:18
+							  :END:
+							- DOING Limit value based
+							  :LOGBOOK:
+							  CLOCK: [2026-04-09 Thu 17:34:28]
+							  :END:
+								- add toggle to enable/disable
+								- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
+								  collapsed:: true
+									- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
+						- Part 2 - Item configuration {{renderer :todomaster}}
 						  collapsed:: true
-							- DONE Item Source: Contract Item
-								- #q&a Not now
-								- What does it do?
-								- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
-				- DONE #re-test PO PDF Tab
-				  :LOGBOOK:
-				  CLOCK: [2026-02-23 Mon 10:14:01]--[2026-02-23 Mon 10:14:01] =>  00:00:00
-				  CLOCK: [2026-04-08 Wed 20:57:30]--[2026-04-09 Thu 17:07:47] =>  20:10:17
-				  :END:
-				- DONE Refactor Setup Logs Tab
-				  id:: 6976fe32-9b24-4aad-8848-983697f8147b
-				  :LOGBOOK:
-				  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
-				  CLOCK: [2026-04-08 Wed 20:57:29]--[2026-04-09 Thu 17:07:51] =>  20:10:22
-				  :END:
-				- DONE Refactor Users Tab
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 20:57:33]--[2026-04-09 Thu 17:07:52] =>  20:10:19
-				  :END:
-				- DONE Refactor Main Information Component
-				  :LOGBOOK:
-				  CLOCK: [2026-02-11 Wed 17:36:57]--[2026-04-09 Thu 17:07:53] =>  1367:30:56
-				  :END:
-				- DONE GR tab {{renderer :todomaster}}
-				  collapsed:: true
-					- DONE keys for GR tab
-						- | **FIELD** | **KEY** |
-						  | --- | --- |
-						  | To show GR tab | `purchase_order_enable_gr_module` |
-				- DONE RTN tab {{renderer :todomaster}}
-				  collapsed:: true
-				  :LOGBOOK:
-				  CLOCK: [2026-04-07 Tue 11:21:52]--[2026-04-07 Tue 11:21:57] =>  00:00:05
-				  CLOCK: [2026-04-08 Wed 20:45:11]--[2026-04-08 Wed 20:45:13] =>  00:00:02
-				  :END:
-					- DONE new keys for RTN tab
+							- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
+							  collapsed:: true
+								- DONE **KIV** from @ben in what are the setting that we want to #q&a
+								  :LOGBOOK:
+								  CLOCK: [2026-01-15 Thu 16:10:31]--[2026-01-15 Thu 16:10:32] =>  00:00:01
+								  :END:
+							- DONE Add Item from approved origin #q&a
+							  collapsed:: true
+								- DONE Item Source: Contract Item
+									- #q&a Not now
+									- What does it do?
+									- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
+					- DONE #re-test PO PDF Tab
 					  :LOGBOOK:
-					  CLOCK: [2026-04-07 Tue 11:21:53]--[2026-04-07 Tue 11:21:56] =>  00:00:03
-					  CLOCK: [2026-04-08 Wed 20:45:12]--[2026-04-08 Wed 20:45:12] =>  00:00:00
+					  CLOCK: [2026-02-23 Mon 10:14:01]--[2026-02-23 Mon 10:14:01] =>  00:00:00
+					  CLOCK: [2026-04-08 Wed 20:57:30]--[2026-04-09 Thu 17:07:47] =>  20:10:17
 					  :END:
-						- | Field | Key |
-						  | --- | --- |
-						  | To show RTN tab | `purchase_order_enable_rtn_module` |
-				- DONE PI tab {{renderer :todomaster}}
-				  collapsed:: true
-				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 20:46:01]--[2026-04-08 Wed 20:46:02] =>  00:00:01
-				  :END:
-					- DONE keys for PI tab
+					- DONE Refactor Setup Logs Tab
+					  id:: 6976fe32-9b24-4aad-8848-983697f8147b
 					  :LOGBOOK:
-					  CLOCK: [2026-04-08 Wed 20:46:00]--[2026-04-08 Wed 20:46:01] =>  00:00:01
+					  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
+					  CLOCK: [2026-04-08 Wed 20:57:29]--[2026-04-09 Thu 17:07:51] =>  20:10:22
 					  :END:
-						- | Field | Key |
-						  | --- | --- |
-						  | To show PI tab | `purchase_order_enable_ir_module` |
-			- #### BACKEND {{renderer :todomaster}}
-				- TODO Auto PO {{renderer :todomaster}}
-				  collapsed:: true
-					- TODO `PR A` auto create `PO A`
-						- Create PR Form Setting A
-						  logseq.order-list-type:: number
-						- Create PO Form Setting A
-						  logseq.order-list-type:: number
-						- Link PR A to PO A
-						  logseq.order-list-type:: number
-						- Submit PR A and approve them
-						  logseq.order-list-type:: number
-						- Expected output = PO A was automatically created from PR A
-						  logseq.order-list-type:: number
-					- TODO `PR B` auto create `PO B`
-						- Create PR Form Setting B
-						  logseq.order-list-type:: number
-						- Create PO Form Setting B
-						  logseq.order-list-type:: number
-						- Link PR B to PO B
-						  logseq.order-list-type:: number
-						- Submit PR B and approve them
-						  logseq.order-list-type:: number
-						- Expected output = PO B was automatically created from PR B
-						  logseq.order-list-type:: number
-					- TODO `PR C` manual create `PO C`
-						- Create PR Form Setting C
-						  logseq.order-list-type:: number
-						- Create PO Form Setting C
-						  logseq.order-list-type:: number
-						- Link PR C to PO C
-						  logseq.order-list-type:: number
-						- Submit PR C and approve them
-						  logseq.order-list-type:: number
-						- Manually convert PR C to PO C
-						  logseq.order-list-type:: number
-						- Expected output = PO C was created from PR C
-						  logseq.order-list-type:: number
-				- TODO Auto Split PO
-				- TODO Email placeholder {{renderer :todomaster}}
-					- TODO By default, use PO's email placeholder
-					- TODO Use Vendor email palceholder if it exist
-				- TODO migration script {{renderer :todomaster}}
-				  :LOGBOOK:
-				  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
-				  :END:
-					- TODO convert all company settings keys into po form setting keys
+					- DONE Refactor Users Tab
 					  :LOGBOOK:
-					  CLOCK: [2026-04-07 Tue 11:11:46]--[2026-04-08 Wed 08:48:41] =>  21:36:55
+					  CLOCK: [2026-04-08 Wed 20:57:33]--[2026-04-09 Thu 17:07:52] =>  20:10:19
 					  :END:
+					- DONE Refactor Main Information Component
+					  :LOGBOOK:
+					  CLOCK: [2026-02-11 Wed 17:36:57]--[2026-04-09 Thu 17:07:53] =>  1367:30:56
+					  :END:
+					- DONE GR tab {{renderer :todomaster}}
+					  collapsed:: true
+						- DONE keys for GR tab
+							- | **FIELD** | **KEY** |
+							  | --- | --- |
+							  | To show GR tab | `purchase_order_enable_gr_module` |
+					- DONE RTN tab {{renderer :todomaster}}
+					  collapsed:: true
+					  :LOGBOOK:
+					  CLOCK: [2026-04-07 Tue 11:21:52]--[2026-04-07 Tue 11:21:57] =>  00:00:05
+					  CLOCK: [2026-04-08 Wed 20:45:11]--[2026-04-08 Wed 20:45:13] =>  00:00:02
+					  :END:
+						- DONE new keys for RTN tab
+						  :LOGBOOK:
+						  CLOCK: [2026-04-07 Tue 11:21:53]--[2026-04-07 Tue 11:21:56] =>  00:00:03
+						  CLOCK: [2026-04-08 Wed 20:45:12]--[2026-04-08 Wed 20:45:12] =>  00:00:00
+						  :END:
+							- | Field | Key |
+							  | --- | --- |
+							  | To show RTN tab | `purchase_order_enable_rtn_module` |
+					- DONE PI tab {{renderer :todomaster}}
+					  collapsed:: true
+					  :LOGBOOK:
+					  CLOCK: [2026-04-08 Wed 20:46:01]--[2026-04-08 Wed 20:46:02] =>  00:00:01
+					  :END:
+						- DONE keys for PI tab
+						  :LOGBOOK:
+						  CLOCK: [2026-04-08 Wed 20:46:00]--[2026-04-08 Wed 20:46:01] =>  00:00:01
+						  :END:
+							- | Field | Key |
+							  | --- | --- |
+							  | To show PI tab | `purchase_order_enable_ir_module` |
+				- #### BACKEND {{renderer :todomaster}}
+					- TODO Auto PO {{renderer :todomaster}}
+					  collapsed:: true
+						- TODO `PR A` auto create `PO A`
+							- Create PR Form Setting A
+							  logseq.order-list-type:: number
+							- Create PO Form Setting A
+							  logseq.order-list-type:: number
+							- Link PR A to PO A
+							  logseq.order-list-type:: number
+							- Submit PR A and approve them
+							  logseq.order-list-type:: number
+							- Expected output = PO A was automatically created from PR A
+							  logseq.order-list-type:: number
+						- TODO `PR B` auto create `PO B`
+							- Create PR Form Setting B
+							  logseq.order-list-type:: number
+							- Create PO Form Setting B
+							  logseq.order-list-type:: number
+							- Link PR B to PO B
+							  logseq.order-list-type:: number
+							- Submit PR B and approve them
+							  logseq.order-list-type:: number
+							- Expected output = PO B was automatically created from PR B
+							  logseq.order-list-type:: number
+						- TODO `PR C` manual create `PO C`
+							- Create PR Form Setting C
+							  logseq.order-list-type:: number
+							- Create PO Form Setting C
+							  logseq.order-list-type:: number
+							- Link PR C to PO C
+							  logseq.order-list-type:: number
+							- Submit PR C and approve them
+							  logseq.order-list-type:: number
+							- Manually convert PR C to PO C
+							  logseq.order-list-type:: number
+							- Expected output = PO C was created from PR C
+							  logseq.order-list-type:: number
+					- TODO Auto Split PO
+					- TODO Email placeholder {{renderer :todomaster}}
+						- TODO By default, use PO's email placeholder
+						- TODO Use Vendor email palceholder if it exist
+					- TODO migration script {{renderer :todomaster}}
+					  :LOGBOOK:
+					  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
+					  :END:
+						- TODO convert all company settings keys into po form setting keys
+						  :LOGBOOK:
+						  CLOCK: [2026-04-07 Tue 11:11:46]--[2026-04-08 Wed 08:48:41] =>  21:36:55
+						  :END:
 	- ## [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
 		- TODO Add Item Via
 		  collapsed:: true
