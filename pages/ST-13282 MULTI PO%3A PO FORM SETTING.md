@@ -196,9 +196,7 @@
 		  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 			- #### FRONTEND {{renderer :todomaster}}
 				- Form Setting Tab {{renderer :todomaster}}
-				  collapsed:: true
 					- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
-					  collapsed:: true
 						- DONE Auto PO #q&a
 						  id:: 6966f4bd-3d8e-4235-89e0-6086e5821088
 						  collapsed:: true
@@ -255,16 +253,17 @@
 						  CLOCK: [2026-01-21 Wed 11:09:37]--[2026-01-23 Fri 08:59:21] =>  45:49:44
 						  CLOCK: [2026-01-23 Fri 08:59:25]--[2026-02-11 Wed 11:53:56] =>  458:54:31
 						  :END:
-							- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
-							- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
-							- Setting key
-								- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
-								  | --- | --- | --- |
-								  | PO Email Template | `purchase_order_email_template` | `templates.email` |
-								  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
-								  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
+							- Setting keys
+							  collapsed:: true
+								- ![Screenshot 2026-01-12 at 12.10.53 PM.png](../assets/Screenshot_2026-01-12_at_12.10.53 PM_1768191065280_0.png)
+								- ![Screenshot 2026-01-12 at 12.11.51 PM.png](../assets/Screenshot_2026-01-12_at_12.11.51 PM_1768191123450_0.png)
+								- Setting key
+									- | **FIELD** | **KEY** | **NEW FORM SETTING KEY** |
+									  | --- | --- | --- |
+									  | PO Email Template | `purchase_order_email_template` | `templates.email` |
+									  | Send a copy to submitter | `purchase_order_email_default_send_to_submitter` | `other_settings.enable_email_default_send_to_submitter` |
+									  | Send a copy to requestor | `purchase_order_email_default_send_to_requestor` | `other_settings.enable_email_default_send_to_requestor` |
 				- Form Fields Tab {{renderer :todomaster}}
-				  collapsed:: true
 					- Part 1 {{renderer :todomaster}}
 						- DONE #re-test Delivery Information
 						  :LOGBOOK:
@@ -301,24 +300,24 @@
 								- #q&a Not now
 								- What does it do?
 								- If it works the same way as `Vendor Pricing` config, should we still show the `Vendor Pricing` config?
-				- DOING #re-test PO PDF Tab
+				- DONE #re-test PO PDF Tab
 				  :LOGBOOK:
 				  CLOCK: [2026-02-23 Mon 10:14:01]--[2026-02-23 Mon 10:14:01] =>  00:00:00
-				  CLOCK: [2026-04-08 Wed 20:57:30]
+				  CLOCK: [2026-04-08 Wed 20:57:30]--[2026-04-09 Thu 17:07:47] =>  20:10:17
 				  :END:
-				- DOING Refactor Setup Logs Tab
+				- DONE Refactor Setup Logs Tab
 				  id:: 6976fe32-9b24-4aad-8848-983697f8147b
 				  :LOGBOOK:
 				  CLOCK: [2026-02-11 Wed 17:31:06]--[2026-02-11 Wed 17:33:19] =>  00:02:13
-				  CLOCK: [2026-04-08 Wed 20:57:29]
+				  CLOCK: [2026-04-08 Wed 20:57:29]--[2026-04-09 Thu 17:07:51] =>  20:10:22
 				  :END:
-				- DOING Refactor Users Tab
+				- DONE Refactor Users Tab
 				  :LOGBOOK:
-				  CLOCK: [2026-04-08 Wed 20:57:33]
+				  CLOCK: [2026-04-08 Wed 20:57:33]--[2026-04-09 Thu 17:07:52] =>  20:10:19
 				  :END:
-				- DOING Refactor Main Information Component
+				- DONE Refactor Main Information Component
 				  :LOGBOOK:
-				  CLOCK: [2026-02-11 Wed 17:36:57]
+				  CLOCK: [2026-02-11 Wed 17:36:57]--[2026-04-09 Thu 17:07:53] =>  1367:30:56
 				  :END:
 				- DONE GR tab {{renderer :todomaster}}
 				  collapsed:: true
