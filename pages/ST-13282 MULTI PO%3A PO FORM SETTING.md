@@ -123,7 +123,6 @@
 					- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 			- ### Individual PO Form Setting {{renderer :todomaster}}
 			  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
-			  collapsed:: true
 				- #### FRONTEND {{renderer :todomaster}}
 					- Form Setting Tab {{renderer :todomaster}}
 						- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
@@ -345,13 +344,11 @@
 						  :END:
 	- ## [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
 		- TODO Add Item Via
-		  collapsed:: true
 			- TODO Free Text Item
 			- TODO Catalogue
 			- TODO Approved source from
 			- TODO Bulk Upload
 		- TODO Edit Added Item
-		  collapsed:: true
 			- TODO Item name
 			- TODO item description
 			- TODO allow item code entry
