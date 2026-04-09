@@ -73,9 +73,9 @@
 	  :END:
 - ## Personal Development {{renderer :todomaster}}
 	- TODO Appreciation
-		- Plan for big meal to appreciate them (just like old days)
-			- maybe open up, I guess?
+		- Plan for big meal to appreciate them (just like old days in Carsome)
 		- Invitation list
+		  collapsed:: true
 			- TODO @sim
 			- TODO @zikri
 			- TODO @zahir
