@@ -1,47 +1,5 @@
-# Reminders
-	- #meeting PO Form Setting: Item Setting Re-organisation
-	  id:: 69644daa-4699-4996-85a4-9daa3d45a2f9
-	  collapsed:: true
-	  :LOGBOOK:
-	  CLOCK: [2026-01-12 Mon 09:33:44]--[2026-01-12 Mon 09:34:00] =>  00:00:16
-	  CLOCK: [2026-01-12 Mon 09:34:01]--[2026-01-12 Mon 09:34:32] =>  00:00:31
-	  CLOCK: [2026-01-12 Mon 09:34:33]
-	  :END:
-		- Objective
-		  collapsed:: true
-			- Discuss & finalize the item setting reorganisation stated in the `Item Information Part2` section of https://supplycart.atlassian.net/browse/ST-13282
-			- DONE @nadzmi to check again how the re-structuring of the item config should be done #q&a
-		- Current Status
-		  collapsed:: true
-			- We want to change the `Item Configuration` sub-section from:
-			  collapsed:: true
-				- ![image.png](../assets/image_1768188937302_0.png){:height 424, :width 462}
-				- To the below:
-				  collapsed:: true
-					- [] Enable add FFT
-					- [] Enable add catalogue products
-						- [] Enable editing of Catalogue Item Name
-						  id:: 6965e7bc-1d0d-437e-b3b9-4752bf192a94
-						- [] Enable editing of Catalogue Item Description
-						- [] Enable add Item Code
-					- [] Enable assigned vendor (to product)
-						- () show all
-						- () show assigned
-							- [] block submission
-					- [] Enable item from approved origin
-			- ## **UPDATED**
-			  collapsed:: true
-				- Enable add FFT
-				- 1. [ ] Show assigned vendor
-					- a. ( ) Allow all vendor when none assigned
-					- b. ( ) Only allow assigned vendor
-				- 2. [ ] Pull price from catalogue?
-				- 3. Enable add item from popup
-					- Display catalogue item as grid
-					- Display catalogue item as list
-				- 4. Enable bulk create item
-- # Acceptance Criteria
-  collapsed:: true
+# Acceptance Criteria
+collapsed:: true
 	- [[Form Setting Splitting]]
 	  logseq.order-list-type:: number
 		- **Global PO Form Setting** page = The current `Purchase Order: Purchase Orders Settings` page
@@ -427,44 +385,47 @@
 				- TODO allow item code entry
 				- TODO Vendor selection
 				- TODO Auto populate unit price
-- # Pending Tasks
-	- TODO Update Ticket For Multi PO: 2nd Phase
-	- Dev
-	  collapsed:: true
-		- DONE [[Company & Form Setting Setup]]
-		- DONE [[Form Setting Splitting]]
-		- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
-			- DONE Form Listing Page
-			- DONE Global PO Form Setting
-			- TODO Individual PO Form Setting
-				- Form Setting Tab
-					- [Auto PO](logseq://graph/TODO?block-id=6966f4bd-3d8e-4235-89e0-6086e5821088)
-						- FE
-							- `<AutoPO />` component skeleton is done
-						- BE
-							- Save config into
-							- **REFERENCE** {{embed ((6966f4bd-3d8e-4235-89e0-6086e5821088))}}
-					- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
-						- FE
-							-
-						- BE
-							-
-					- [PDF Terms & Conditions](logseq://graph/TODO?block-id=6966f4bd-c7e6-435c-86da-7b38aee28507)
-						- FE
-							-
-						- BE
-							- TODO make sure to save them within the `form_settings.values` column
-								- ```json
-								  {
-								    ...
-								    "template": {
-								      "tnc": "T&C templates....",
-								    }
-								  }
-								  ```
-							-
-					- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
-						- FE
-						- BE
-				- Form Fields Tab
-					-
+- # Archive
+	-
+	- # Pending Tasks
+		- TODO Update Ticket For Multi PO: 2nd Phase
+		- Dev
+		  collapsed:: true
+			- DONE [[Company & Form Setting Setup]]
+			- DONE [[Form Setting Splitting]]
+			- TODO [[Reorganise PO Settings]] {{renderer :todomaster}}
+				- DONE Form Listing Page
+				- DONE Global PO Form Setting
+				- TODO Individual PO Form Setting
+					- Form Setting Tab
+						- [Auto PO](logseq://graph/TODO?block-id=6966f4bd-3d8e-4235-89e0-6086e5821088)
+							- FE
+								- `<AutoPO />` component skeleton is done
+							- BE
+								- Save config into
+								- **REFERENCE** {{embed ((6966f4bd-3d8e-4235-89e0-6086e5821088))}}
+						- [Enable auto PO email](logseq://graph/TODO?block-id=6966f4bd-5a34-4d87-8625-56e7ff13db5c)
+							- FE
+								-
+							- BE
+								-
+						- [PDF Terms & Conditions](logseq://graph/TODO?block-id=6966f4bd-c7e6-435c-86da-7b38aee28507)
+							- FE
+								-
+							- BE
+								- TODO make sure to save them within the `form_settings.values` column
+									- ```json
+									  {
+									    ...
+									    "template": {
+									      "tnc": "T&C templates....",
+									    }
+									  }
+									  ```
+								-
+						- [PO Email Template](logseq://graph/TODO?block-id=6966f4bd-08b8-4321-a3cb-4a74ba033488)
+							- FE
+							- BE
+					- Form Fields Tab
+						-
+-
