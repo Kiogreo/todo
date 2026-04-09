@@ -290,7 +290,10 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-02-11 Wed 11:54:48]--[2026-04-07 Tue 11:12:06] =>  1319:17:18
 						  :END:
-						- TODO Limit value based
+						- DOING Limit value based
+						  :LOGBOOK:
+						  CLOCK: [2026-04-09 Thu 17:34:28]
+						  :END:
 							- add toggle to enable/disable
 							- DONE Do we need to remove the SETTING PERMISSION from HUB? (2 possible answer) #q&a
 							  collapsed:: true
