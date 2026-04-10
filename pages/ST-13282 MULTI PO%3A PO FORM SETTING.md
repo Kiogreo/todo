@@ -452,7 +452,11 @@
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 09:15:10]
 					  :END:
-						- TODO `PR A` auto create `PO A`
+						- TODO Bug
+						- DOING `PR A` auto create `PO A`
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 17:43:21]
+						  :END:
 							- Create PR Form Setting A
 							  logseq.order-list-type:: number
 							- Create PO Form Setting A
@@ -463,7 +467,10 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO A was automatically created from PR A
 							  logseq.order-list-type:: number
-						- TODO `PR B` auto create `PO B`
+						- DOING `PR B` auto create `PO B`
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 17:43:21]
+						  :END:
 							- Create PR Form Setting B
 							  logseq.order-list-type:: number
 							- Create PO Form Setting B
@@ -474,7 +481,10 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO B was automatically created from PR B
 							  logseq.order-list-type:: number
-						- TODO `PR C` manual create `PO C`
+						- DOING `PR C` manual create `PO C`
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 17:43:22]
+						  :END:
 							- Create PR Form Setting C
 							  logseq.order-list-type:: number
 							- Create PO Form Setting C
@@ -487,21 +497,21 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO C was created from PR C
 							  logseq.order-list-type:: number
-					- DOING Auto Split PO
+					- TODO Auto Split PO
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 09:15:10]
+					  CLOCK: [2026-04-10 Fri 09:15:10]--[2026-04-10 Fri 17:43:28] =>  08:28:18
 					  :END:
-					- DOING Email placeholder {{renderer :todomaster}}
+					- TODO Email placeholder {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 09:15:11]
+					  CLOCK: [2026-04-10 Fri 09:15:11]--[2026-04-10 Fri 17:43:27] =>  08:28:16
 					  :END:
-						- DOING By default, use PO's email placeholder
+						- TODO By default, use PO's email placeholder
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 09:15:12]
+						  CLOCK: [2026-04-10 Fri 09:15:12]--[2026-04-10 Fri 17:43:29] =>  08:28:17
 						  :END:
-						- DOING Use Vendor email palceholder if it exist
+						- TODO Use Vendor email palceholder if it exist
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 09:15:15]
+						  CLOCK: [2026-04-10 Fri 09:15:15]--[2026-04-10 Fri 17:43:29] =>  08:28:14
 						  :END:
 					- TODO migration script {{renderer :todomaster}}
 					  :LOGBOOK:
