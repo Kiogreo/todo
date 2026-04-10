@@ -143,30 +143,30 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 16:59:54]--[2026-04-10 Fri 16:59:54] =>  00:00:00
 						  :END:
-					- DOING RQ {{renderer :todomaster}}
+					- DONE RQ {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 16:58:20]
+					  CLOCK: [2026-04-10 Fri 16:58:20]--[2026-04-10 Fri 17:36:43] =>  00:38:23
 					  :END:
 						- DONE Form Fields
 						  id:: 69d85c5a-7d11-487f-aa63-1c880e589df9
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:13:55]--[2026-04-10 Fri 17:15:07] =>  00:01:12
 						  :END:
-						- TODO PDF
+						- DONE PDF
 						- DONE Setup Logs
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
 						- DONE User Tab
-					- DOING PR {{renderer :todomaster}}
+					- DONE PR {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 16:58:18]
+					  CLOCK: [2026-04-10 Fri 16:58:18]--[2026-04-10 Fri 17:37:05] =>  00:38:47
 					  :END:
 						- DONE Form Fields
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:13:56]--[2026-04-10 Fri 17:15:24] =>  00:01:28
 						  :END:
-						- TODO PDF
+						- DONE PDF
 						- DONE Setup Logs
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
