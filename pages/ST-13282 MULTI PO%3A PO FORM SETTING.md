@@ -141,7 +141,9 @@
 					- TODO PRQ
 						- TODO PDF
 						- TODO User
-					- TODO
+					- TODO Contract
+						- TODO Setup Logs
+					-
 				- #### FRONTEND {{renderer :todomaster}}
 				  collapsed:: true
 					- Form Setting Tab {{renderer :todomaster}}
