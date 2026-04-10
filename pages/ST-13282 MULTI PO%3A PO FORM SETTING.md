@@ -208,11 +208,24 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:34:01]--[2026-04-10 Fri 16:58:49] =>  02:24:48
 						  :END:
+						- DONE Setup Logs
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 14:34:01]--[2026-04-10 Fri 16:58:49] =>  02:24:48
+						  :END:
+						- DONE Setup Logs
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 14:34:01]--[2026-04-10 Fri 16:58:49] =>  02:24:48
+						  :END:
 					- DOING CN
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:23]
 					  :END:
+						- TODO Form Fields
 						- TODO PDF
+						- DOING Setup Logs
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 17:10:51]
+						  :END:
 						- TODO User
 				- #### FRONTEND {{renderer :todomaster}}
 				  collapsed:: true
