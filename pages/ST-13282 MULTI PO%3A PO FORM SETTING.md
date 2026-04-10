@@ -157,7 +157,6 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
-						- TODO PDF
 						- TODO User Tab
 					- DOING PR {{renderer :todomaster}}
 					  :LOGBOOK:
@@ -172,7 +171,7 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
-						- TODO User Tab
+						- DONE User Tab
 					- TODO PO {{renderer :todomaster}}
 						- TODO Form Setting
 						  :LOGBOOK:
