@@ -296,8 +296,11 @@
 							  | --- | --- |
 							  | To show PI tab | `purchase_order_enable_ir_module` |
 				- #### BACKEND {{renderer :todomaster}}
-					- TODO Auto PO {{renderer :todomaster}}
+					- DOING Auto PO {{renderer :todomaster}}
 					  collapsed:: true
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 09:15:10]
+					  :END:
 						- TODO `PR A` auto create `PO A`
 							- Create PR Form Setting A
 							  logseq.order-list-type:: number
@@ -333,17 +336,31 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO C was created from PR C
 							  logseq.order-list-type:: number
-					- TODO Auto Split PO
-					- TODO Email placeholder {{renderer :todomaster}}
-						- TODO By default, use PO's email placeholder
-						- TODO Use Vendor email palceholder if it exist
+					- DOING Auto Split PO
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 09:15:10]
+					  :END:
+					- DOING Email placeholder {{renderer :todomaster}}
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 09:15:11]
+					  :END:
+						- DOING By default, use PO's email placeholder
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 09:15:12]
+						  :END:
+						- DOING Use Vendor email palceholder if it exist
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 09:15:15]
+						  :END:
 					- TODO migration script {{renderer :todomaster}}
 					  :LOGBOOK:
 					  CLOCK: [2026-04-07 Tue 11:11:45]--[2026-04-08 Wed 08:48:41] =>  21:36:56
+					  CLOCK: [2026-04-10 Fri 09:15:15]--[2026-04-10 Fri 09:15:17] =>  00:00:02
 					  :END:
 						- TODO convert all company settings keys into po form setting keys
 						  :LOGBOOK:
 						  CLOCK: [2026-04-07 Tue 11:11:46]--[2026-04-08 Wed 08:48:41] =>  21:36:55
+						  CLOCK: [2026-04-10 Fri 09:15:16]--[2026-04-10 Fri 09:15:18] =>  00:00:02
 						  :END:
 	- ## [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
 		- TODO Add Item Via
