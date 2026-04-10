@@ -130,11 +130,16 @@
 					  CLOCK: [2026-04-10 Fri 14:34:24]
 					  :END:
 						- DONE Setup Logs Tab
+						  id:: 69d85c49-461c-4b64-915e-2040f361a601
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 10:33:22]--[2026-04-10 Fri 14:34:07] =>  04:00:45
 						  CLOCK: [2026-04-10 Fri 14:34:23]--[2026-04-10 Fri 16:57:53] =>  02:23:30
 						  :END:
-					- TODO RQ {{renderer :todomaster}}
+						- DONE Setup Logs Tab
+					- DOING RQ {{renderer :todomaster}}
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 16:58:20]
+					  :END:
 						- TODO User Tab
 						- DONE Setup Logs
 						  :LOGBOOK:
@@ -142,25 +147,40 @@
 						  :END:
 						- TODO PDF
 						- TODO Form Fields
-					- TODO PR {{renderer :todomaster}}
+					- DOING PR {{renderer :todomaster}}
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 16:58:18]
+					  :END:
 						- TODO PDF
 						- DONE Setup Logs
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:58]--[2026-04-10 Fri 16:58:14] =>  02:24:16
 						  :END:
 						- TODO User
-					- TODO OPF {{renderer :todomaster}}
+					- DOING OPF {{renderer :todomaster}}
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 16:58:19]
+					  :END:
 						- TODO PDF
 						- TODO USER
-					- TODO PRQ
+					- DOING PRQ
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 16:58:22]
+					  :END:
 						- TODO PDF
 						- TODO User
-					- TODO Contract
-						- DOING Setup Logs
+					- DOING Contract
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 16:58:22]
+					  :END:
+						- DONE Setup Logs
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 14:34:01]
+						  CLOCK: [2026-04-10 Fri 14:34:01]--[2026-04-10 Fri 16:58:49] =>  02:24:48
 						  :END:
-					- TODO CN
+					- DOING CN
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 16:58:23]
+					  :END:
 						- TODO PDF
 						- TODO User
 				- #### FRONTEND {{renderer :todomaster}}
