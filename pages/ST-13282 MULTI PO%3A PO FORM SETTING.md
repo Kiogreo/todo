@@ -129,10 +129,10 @@
 					  CLOCK: [2026-04-10 Fri 10:33:21]--[2026-04-10 Fri 14:34:08] =>  04:00:47
 					  CLOCK: [2026-04-10 Fri 14:34:24]
 					  :END:
-						- DOING Setup Logs Tab
+						- DONE Setup Logs Tab
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 10:33:22]--[2026-04-10 Fri 14:34:07] =>  04:00:45
-						  CLOCK: [2026-04-10 Fri 14:34:23]
+						  CLOCK: [2026-04-10 Fri 14:34:23]--[2026-04-10 Fri 16:57:53] =>  02:23:30
 						  :END:
 					- TODO RQ {{renderer :todomaster}}
 						- TODO User Tab
@@ -144,9 +144,9 @@
 						- TODO Form Fields
 					- TODO PR {{renderer :todomaster}}
 						- TODO PDF
-						- DOING Setup Logs
+						- DONE Setup Logs
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 14:33:58]
+						  CLOCK: [2026-04-10 Fri 14:33:58]--[2026-04-10 Fri 16:58:14] =>  02:24:16
 						  :END:
 						- TODO User
 					- TODO OPF {{renderer :todomaster}}
