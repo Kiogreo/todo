@@ -180,7 +180,13 @@
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:19]
 					  :END:
+						- TODO Form Fields
 						- TODO PDF
+						- DOING Setup Logs
+						  :LOGBOOK:
+						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
+						  CLOCK: [2026-04-10 Fri 17:08:44]
+						  :END:
 						- TODO USER
 					- DOING PRQ
 					  :LOGBOOK:
