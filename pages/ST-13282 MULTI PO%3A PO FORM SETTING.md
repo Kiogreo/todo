@@ -123,7 +123,9 @@
 					- ![Screenshot 2026-01-07 at 4.40.36 PM.png](../assets/Screenshot_2026-01-07_at_4.40.36 PM_1767775241702_0.png){:height 269, :width 718}
 			- ### Individual PO Form Setting {{renderer :todomaster}}
 			  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
+				-
 				- #### FRONTEND {{renderer :todomaster}}
+				  collapsed:: true
 					- Form Setting Tab {{renderer :todomaster}}
 					  collapsed:: true
 						- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
@@ -296,6 +298,7 @@
 							  | --- | --- |
 							  | To show PI tab | `purchase_order_enable_ir_module` |
 				- #### BACKEND {{renderer :todomaster}}
+				  collapsed:: true
 					- DOING Auto PO {{renderer :todomaster}}
 					  collapsed:: true
 					  :LOGBOOK:
