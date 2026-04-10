@@ -449,7 +449,6 @@
 							  | To show PI tab | `purchase_order_enable_ir_module` |
 				- #### BACKEND {{renderer :todomaster}}
 					- DOING Auto PO {{renderer :todomaster}}
-					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 09:15:10]
 					  :END:
