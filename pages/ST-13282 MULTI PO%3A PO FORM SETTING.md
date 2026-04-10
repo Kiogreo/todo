@@ -124,7 +124,9 @@
 			- ### Individual PO Form Setting {{renderer :todomaster}}
 			  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 				- ### 🐞 Bugs {{renderer :todomaster}}
+				  collapsed:: true
 					- DONE RFX {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 10:33:21]--[2026-04-10 Fri 14:34:08] =>  04:00:47
 					  CLOCK: [2026-04-10 Fri 14:34:24]--[2026-04-10 Fri 17:31:16] =>  02:56:52
@@ -144,6 +146,7 @@
 						  CLOCK: [2026-04-10 Fri 16:59:54]--[2026-04-10 Fri 16:59:54] =>  00:00:00
 						  :END:
 					- DONE RQ {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:20]--[2026-04-10 Fri 17:36:43] =>  00:38:23
 					  :END:
@@ -159,6 +162,7 @@
 						  :END:
 						- DONE User Tab
 					- DONE PR {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:18]--[2026-04-10 Fri 17:37:05] =>  00:38:47
 					  :END:
@@ -172,8 +176,12 @@
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
 						- DONE User Tab
-					- TODO PO {{renderer :todomaster}}
-						- TODO Form Setting
+					- DONE PO {{renderer :todomaster}}
+					  collapsed:: true
+					  :LOGBOOK:
+					  CLOCK: [2026-04-10 Fri 17:40:51]--[2026-04-10 Fri 17:41:06] =>  00:00:15
+					  :END:
+						- DONE Form Setting
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:14:00]--[2026-04-10 Fri 17:14:01] =>  00:00:01
 						  CLOCK: [2026-04-10 Fri 17:15:26]--[2026-04-10 Fri 17:15:46] =>  00:00:20
@@ -182,16 +190,17 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:14:02]--[2026-04-10 Fri 17:15:55] =>  00:01:53
 						  :END:
-						- TODO GR Fields
-						- TODO RTN Fields
-						- TODO PI Fields
-						- TODO PDF
+						- DONE GR Fields
+						- DONE RTN Fields
+						- DONE PI Fields
+						- DONE PDF
 						- DONE Setup Logs
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
-						- TODO User Tab
+						- DONE User Tab
 					- DONE OPF {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:19]--[2026-04-10 Fri 17:38:23] =>  00:40:04
 					  :END:
@@ -210,6 +219,7 @@
 						  :END:
 						- DONE USER
 					- DONE PRQ {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:22]--[2026-04-10 Fri 17:38:43] =>  00:40:21
 					  :END:
@@ -228,6 +238,7 @@
 						  :END:
 						- DONE User
 					- DONE Contract {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:22]--[2026-04-10 Fri 17:39:45] =>  00:41:23
 					  :END:
@@ -246,6 +257,7 @@
 						  CLOCK: [2026-04-10 Fri 17:18:07]--[2026-04-10 Fri 17:39:44] =>  00:21:37
 						  :END:
 					- DONE CN {{renderer :todomaster}}
+					  collapsed:: true
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:23]--[2026-04-10 Fri 17:40:08] =>  00:41:45
 					  :END:
@@ -436,7 +448,6 @@
 							  | --- | --- |
 							  | To show PI tab | `purchase_order_enable_ir_module` |
 				- #### BACKEND {{renderer :todomaster}}
-				  collapsed:: true
 					- DOING Auto PO {{renderer :todomaster}}
 					  collapsed:: true
 					  :LOGBOOK:
