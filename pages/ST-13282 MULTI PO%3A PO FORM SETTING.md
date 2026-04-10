@@ -124,10 +124,10 @@
 			- ### Individual PO Form Setting {{renderer :todomaster}}
 			  id:: 695e0e27-9809-42ad-9a50-64e67dc9a2db
 				- ### 🐞 Bugs {{renderer :todomaster}}
-					- DOING RFX {{renderer :todomaster}}
+					- DONE RFX {{renderer :todomaster}}
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 10:33:21]--[2026-04-10 Fri 14:34:08] =>  04:00:47
-					  CLOCK: [2026-04-10 Fri 14:34:24]
+					  CLOCK: [2026-04-10 Fri 14:34:24]--[2026-04-10 Fri 17:31:16] =>  02:56:52
 					  :END:
 						- DONE Form Fields
 						  :LOGBOOK:
@@ -139,7 +139,7 @@
 						  CLOCK: [2026-04-10 Fri 10:33:22]--[2026-04-10 Fri 14:34:07] =>  04:00:45
 						  CLOCK: [2026-04-10 Fri 14:34:23]--[2026-04-10 Fri 16:57:53] =>  02:23:30
 						  :END:
-						- TODO Users
+						- DONE Users
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 16:59:54]--[2026-04-10 Fri 16:59:54] =>  00:00:00
 						  :END:
