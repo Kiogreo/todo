@@ -191,17 +191,17 @@
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
 						- TODO User Tab
-					- DOING OPF {{renderer :todomaster}}
+					- DONE OPF {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 16:58:19]
+					  CLOCK: [2026-04-10 Fri 16:58:19]--[2026-04-10 Fri 17:38:23] =>  00:40:04
 					  :END:
 						- DONE Form Fields
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:14:04]--[2026-04-10 Fri 17:14:26] =>  00:00:22
 						  :END:
-						- DOING PDF
+						- DONE PDF
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:18:59]
+						  CLOCK: [2026-04-10 Fri 17:18:59]--[2026-04-10 Fri 17:38:22] =>  00:19:23
 						  :END:
 						- DONE Setup Logs
 						  :LOGBOOK:
@@ -209,17 +209,17 @@
 						  CLOCK: [2026-04-10 Fri 17:08:44]--[2026-04-10 Fri 17:13:40] =>  00:04:56
 						  :END:
 						- DONE USER
-					- DOING PRQ {{renderer :todomaster}}
+					- DONE PRQ {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 16:58:22]
+					  CLOCK: [2026-04-10 Fri 16:58:22]--[2026-04-10 Fri 17:38:43] =>  00:40:21
 					  :END:
 						- DONE Form Fields
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:14:05]--[2026-04-10 Fri 17:16:27] =>  00:02:22
 						  :END:
-						- DOING PDF
+						- DONE PDF
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:18:29]
+						  CLOCK: [2026-04-10 Fri 17:18:29]--[2026-04-10 Fri 17:38:42] =>  00:20:13
 						  :END:
 						- DONE Setup Logs
 						  :LOGBOOK:
