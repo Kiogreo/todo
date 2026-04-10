@@ -227,9 +227,9 @@
 						  CLOCK: [2026-04-10 Fri 17:08:44]--[2026-04-10 Fri 17:13:17] =>  00:04:33
 						  :END:
 						- DONE User
-					- DOING Contract {{renderer :todomaster}}
+					- DONE Contract {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 16:58:22]
+					  CLOCK: [2026-04-10 Fri 16:58:22]--[2026-04-10 Fri 17:39:45] =>  00:41:23
 					  :END:
 						- DONE Form Fields
 						  :LOGBOOK:
@@ -240,22 +240,22 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:34:01]--[2026-04-10 Fri 16:58:49] =>  02:24:48
 						  :END:
-						- DOING Users
+						- DONE Users
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:34:01]--[2026-04-10 Fri 16:58:49] =>  02:24:48
-						  CLOCK: [2026-04-10 Fri 17:18:07]
+						  CLOCK: [2026-04-10 Fri 17:18:07]--[2026-04-10 Fri 17:39:44] =>  00:21:37
 						  :END:
-					- DOING CN {{renderer :todomaster}}
+					- DONE CN {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 16:58:23]
+					  CLOCK: [2026-04-10 Fri 16:58:23]--[2026-04-10 Fri 17:40:08] =>  00:41:45
 					  :END:
 						- DONE Form Fields
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:14:11]--[2026-04-10 Fri 17:17:10] =>  00:02:59
 						  :END:
-						- DOING PDF
+						- DONE PDF
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:17:22]
+						  CLOCK: [2026-04-10 Fri 17:17:22]--[2026-04-10 Fri 17:40:07] =>  00:22:45
 						  :END:
 						- DONE Setup Logs
 						  :LOGBOOK:
