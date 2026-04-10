@@ -157,7 +157,7 @@
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 14:33:57]--[2026-04-10 Fri 14:34:28] =>  00:00:31
 						  :END:
-						- TODO User Tab
+						- DONE User Tab
 					- DOING PR {{renderer :todomaster}}
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:18]
