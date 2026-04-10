@@ -147,10 +147,10 @@
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:20]
 					  :END:
-						- DOING Form Fields
+						- DONE Form Fields
 						  id:: 69d85c5a-7d11-487f-aa63-1c880e589df9
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:13:55]
+						  CLOCK: [2026-04-10 Fri 17:13:55]--[2026-04-10 Fri 17:15:07] =>  00:01:12
 						  :END:
 						- TODO PDF
 						- DONE Setup Logs
@@ -163,9 +163,9 @@
 					  :LOGBOOK:
 					  CLOCK: [2026-04-10 Fri 16:58:18]
 					  :END:
-						- DOING Form Fields
+						- DONE Form Fields
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:13:56]
+						  CLOCK: [2026-04-10 Fri 17:13:56]--[2026-04-10 Fri 17:15:24] =>  00:01:28
 						  :END:
 						- TODO PDF
 						- DONE Setup Logs
@@ -177,10 +177,11 @@
 						- TODO Form Setting
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:14:00]--[2026-04-10 Fri 17:14:01] =>  00:00:01
+						  CLOCK: [2026-04-10 Fri 17:15:26]--[2026-04-10 Fri 17:15:46] =>  00:00:20
 						  :END:
-						- DOING Form Fields
+						- DONE Form Fields
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:14:02]
+						  CLOCK: [2026-04-10 Fri 17:14:02]--[2026-04-10 Fri 17:15:55] =>  00:01:53
 						  :END:
 						- TODO GR Fields
 						- TODO RTN Fields
