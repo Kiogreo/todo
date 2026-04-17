@@ -448,14 +448,15 @@
 							  | --- | --- |
 							  | To show PI tab | `purchase_order_enable_ir_module` |
 				- #### BACKEND {{renderer :todomaster}}
-					- DOING Auto PO {{renderer :todomaster}}
+					- Auto PO {{renderer :todomaster}}
 					  :LOGBOOK:
-					  CLOCK: [2026-04-10 Fri 09:15:10]
+					  CLOCK: [2026-04-10 Fri 09:15:10]--[2026-04-17 Fri 08:59:35] =>  167:44:25
+					  CLOCK: [2026-04-17 Fri 08:59:35]
 					  :END:
 						- TODO Bug
-						- DOING `PR A` auto create `PO A`
+						- TODO `PR A` auto create `PO A`
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:43:21]
+						  CLOCK: [2026-04-10 Fri 17:43:21]--[2026-04-17 Fri 08:59:29] =>  159:16:08
 						  :END:
 							- Create PR Form Setting A
 							  logseq.order-list-type:: number
@@ -467,9 +468,9 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO A was automatically created from PR A
 							  logseq.order-list-type:: number
-						- DOING `PR B` auto create `PO B`
+						- TODO `PR B` auto create `PO B`
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:43:21]
+						  CLOCK: [2026-04-10 Fri 17:43:21]--[2026-04-17 Fri 08:59:30] =>  159:16:09
 						  :END:
 							- Create PR Form Setting B
 							  logseq.order-list-type:: number
