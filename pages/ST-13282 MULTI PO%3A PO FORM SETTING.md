@@ -459,7 +459,7 @@
 					  CLOCK: [2026-04-10 Fri 09:15:10]--[2026-04-17 Fri 08:59:35] =>  167:44:25
 					  CLOCK: [2026-04-17 Fri 08:59:35]
 					  :END:
-						- Bug {{renderer :todomaster}}
+						- ### 🐞 Bugs {{renderer :todomaster}}
 							- DOING Auto PO: PR does not auto generate PO
 							  :LOGBOOK:
 							  CLOCK: [2026-04-22 Wed 14:06:59]
