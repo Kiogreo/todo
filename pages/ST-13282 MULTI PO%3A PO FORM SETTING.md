@@ -464,7 +464,7 @@
 							  :LOGBOOK:
 							  CLOCK: [2026-04-22 Wed 14:06:59]
 							  :END:
-							- TODO PO Form Setting UI:
+							- TODO PO Form Setting UI: Wrong tab content
 						- DOING `PR A` auto create `PO A`
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:43:21]--[2026-04-17 Fri 08:59:29] =>  159:16:08
