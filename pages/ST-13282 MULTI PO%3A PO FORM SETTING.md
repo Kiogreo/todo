@@ -55,7 +55,6 @@
 		- ## [[Reorganise PO Settings]]
 			- ### Global PO Form Setting {{renderer :todomaster}}
 			  id:: 695df31d-f53a-450c-8235-f4a73fe16036
-			  collapsed:: true
 				- #re-test Internal Source
 					- DONE figure out how it work in BE
 				- PO Acceptance
@@ -109,7 +108,6 @@
 					- DONE Notify Users when Vendor Uploads GR attachment
 					- DONE Notify Users when Vendor Uploads Invoice
 			- ### Form Listing Page {{renderer :todomaster}}
-			  collapsed:: true
 				- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 					- DONE Create new Form
 					- DONE History Logs
@@ -380,15 +378,12 @@
 								  collapsed:: true
 									- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 						- Part 2 - Item configuration {{renderer :todomaster}}
-						  collapsed:: true
 							- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
-							  collapsed:: true
 								- DONE **KIV** from @ben in what are the setting that we want to #q&a
 								  :LOGBOOK:
 								  CLOCK: [2026-01-15 Thu 16:10:31]--[2026-01-15 Thu 16:10:32] =>  00:00:01
 								  :END:
 							- DONE Add Item from approved origin #q&a
-							  collapsed:: true
 								- DONE Item Source: Contract Item
 									- #q&a Not now
 									- What does it do?
