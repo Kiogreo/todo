@@ -15,6 +15,7 @@
 		  collapsed:: true
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
+	  collapsed:: true
 		- ### Global PO Form Setting
 		  collapsed:: true
 			- #q&a From ticket `Context` section:
@@ -61,6 +62,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [ST-13006](https://supplycart.atlassian.net/browse/ST-13006) {{renderer :todomaster}}
+	  collapsed:: true
 		- ## [[Reorganise PO Settings]]
 			- ### Global PO Form Setting {{renderer :todomaster}}
 			  id:: 695df31d-f53a-450c-8235-f4a73fe16036
@@ -531,6 +533,7 @@
 						  CLOCK: [2026-04-10 Fri 09:15:16]--[2026-04-10 Fri 09:15:18] =>  00:00:02
 						  :END:
 	- ## [ST-12386](https://supplycart.atlassian.net/browse/ST-13286) {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO Add Item Via
 			- TODO Free Text Item
 			- TODO Catalogue
@@ -574,6 +577,7 @@
 		- DONE For the `Display Assigned Vendor Only` setting, why do we have the`Block` setting instead of making the vendor item selection fields compulsory?
 		- DONE For `PO T&C` & `PO Email Text`, we no longer need the `Save` button, right?
 	- # Reminders
+	  collapsed:: true
 		- #meeting PO Form Setting: Item Setting Re-organisation
 		  id:: 69644daa-4699-4996-85a4-9daa3d45a2f9
 		  :LOGBOOK:
