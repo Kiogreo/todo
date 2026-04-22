@@ -1,6 +1,5 @@
 # Task Breakdown
 	- ## [[Company & Form Setting Setup]] {{renderer :todomaster}}
-	  collapsed:: true
 		- #re-test **Hub/ADAM features page**
 			- DONE #q&a Do we still need to add setting in HUB?
 				- We already implemented the feature flag without using HUB at the moment
@@ -8,13 +7,12 @@
 				- A: `switchover` here means when we switch from partial Multi PO implementation into full Multi PO implementation throughout **ADAM**
 		- #re-test **Role & Permissions**
 			- DONE #q&a The **"remain the same"** here means that all single PO's exis``ting permission applies to multi PO, right?
-			  collapsed:: true
 				- A: the **Remain the same** statement under the **Roles & Permissions** means that all Multi PO’s permission shares the same permission as existing Single PO
 		- #re-test **User Form Assignment**
 			- DONE we already implemented this in existing Multi PO & Single PO
 	- ## [[Form Setting Splitting]] {{renderer :todomaster}}
-	  collapsed:: true
 		- ### Global PO Form Setting
+		  collapsed:: true
 			- #q&a From ticket `Context` section:
 				- DONE What does **"for GROUPs"** & **PO Template** refers to?
 				- ```
@@ -54,7 +52,9 @@
 				- Form Name Change
 				- Form Details change
 	- ## [ST-13006](https://supplycart.atlassian.net/browse/ST-13006) {{renderer :todomaster}}
+	  collapsed:: true
 		- ## [[Reorganise PO Settings]]
+		  collapsed:: true
 			- ### Global PO Form Setting {{renderer :todomaster}}
 			  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			  collapsed:: true
