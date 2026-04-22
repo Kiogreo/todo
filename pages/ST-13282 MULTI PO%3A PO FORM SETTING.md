@@ -52,9 +52,7 @@
 				- Form Name Change
 				- Form Details change
 	- ## [ST-13006](https://supplycart.atlassian.net/browse/ST-13006) {{renderer :todomaster}}
-	  collapsed:: true
 		- ## [[Reorganise PO Settings]]
-		  collapsed:: true
 			- ### Global PO Form Setting {{renderer :todomaster}}
 			  id:: 695df31d-f53a-450c-8235-f4a73fe16036
 			  collapsed:: true
@@ -275,7 +273,6 @@
 						  :END:
 						- DONE User
 				- #### FRONTEND {{renderer :todomaster}}
-				  collapsed:: true
 					- Form Setting Tab {{renderer :todomaster}}
 					  collapsed:: true
 						- Move the below fields from ((695df31d-f53a-450c-8235-f4a73fe16036)) into ((695e0e27-9809-42ad-9a50-64e67dc9a2db))
