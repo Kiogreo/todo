@@ -482,9 +482,10 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO B was automatically created from PR B
 							  logseq.order-list-type:: number
-						- DOING `PR C` manual create `PO C`
+						- DONE `PR C` manual create `PO C`
+						  collapsed:: true
 						  :LOGBOOK:
-						  CLOCK: [2026-04-10 Fri 17:43:22]
+						  CLOCK: [2026-04-10 Fri 17:43:22]--[2026-04-22 Wed 09:08:41] =>  279:25:19
 						  :END:
 							- Create PR Form Setting C
 							  logseq.order-list-type:: number
