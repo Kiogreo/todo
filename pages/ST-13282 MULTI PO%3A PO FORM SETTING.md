@@ -30,6 +30,7 @@
 				- A: Group here means that multi po will help in terms of making single po form setting to encapsulate different groups of companies' needs
 		- ### Individual PO Form Setting
 			- #re-test **PR** or **RFX** Form Settings can be routed to the different **PO** Form Settings
+			  collapsed:: true
 				- **PR**
 					- DONE `Manual PR -> PO`
 					- DONE `Auto PR -> PO`
@@ -38,6 +39,7 @@
 					  id:: 695e10f2-48e5-49a3-8576-d02f932e6884
 					- DONE `PR > RFX > PO`
 			- #re-test Each PO will have GR & IR form attached
+			  collapsed:: true
 				- Answer to all the below questions:
 					- it's not needed to add `Form Name` column for GR, RTN & PI moduel.
 				- DONE #q&a We should add the `Form Name` column within both `Good Received (GR)` & `Purchase Invoice (PI) (PI)` similar to the `My Purchase Orders` & `Company Purchase Order` listing page
@@ -47,10 +49,13 @@
 				- DONE #q&a Do we need to add filter dropdown for PO Form Setting within  `GR` & `PI` listing page?
 				- DONE #q&a We should also apply the same thing within `Good Returns (GRN)` listing page including the filter & search function?
 			- #re-test Each PO form can be revised or **issued** and sent to a different approval flow
+			  collapsed:: true
 				- DONE #q&a Does the word `issued` here are synonymous to `created` PO?
 			- #re-test Create new Form
+			  collapsed:: true
 				- Type of PO form
 			- #re-test History Logs
+			  collapsed:: true
 				- Form Creation
 				- Form Deletion
 				- Form Name Change
