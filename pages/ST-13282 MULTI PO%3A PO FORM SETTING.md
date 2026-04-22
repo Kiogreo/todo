@@ -64,6 +64,7 @@
 		- ## [[Reorganise PO Settings]]
 			- ### Global PO Form Setting {{renderer :todomaster}}
 			  id:: 695df31d-f53a-450c-8235-f4a73fe16036
+			  collapsed:: true
 				- #re-test Internal Source
 					- DONE figure out how it work in BE
 				- PO Acceptance
@@ -117,6 +118,7 @@
 					- DONE Notify Users when Vendor Uploads GR attachment
 					- DONE Notify Users when Vendor Uploads Invoice
 			- ### Form Listing Page {{renderer :todomaster}}
+			  collapsed:: true
 				- #re-test Form listing Page (deployed during Phase 1 of Multi PO)
 					- DONE Create new Form
 					- DONE History Logs
