@@ -391,6 +391,7 @@
 								  collapsed:: true
 									- No, Since we intend to allow customer to be able to toggle them by themselves we don't need HUB
 						- Part 2 - Item configuration {{renderer :todomaster}}
+						  collapsed:: true
 							- DONE Plan = split up all the grouped settings into each individual settings into modular #q&a
 								- DONE **KIV** from @ben in what are the setting that we want to #q&a
 								  :LOGBOOK:
@@ -458,7 +459,11 @@
 					  CLOCK: [2026-04-10 Fri 09:15:10]--[2026-04-17 Fri 08:59:35] =>  167:44:25
 					  CLOCK: [2026-04-17 Fri 08:59:35]
 					  :END:
-						- TODO Bug
+						- Bug {{renderer :todomaster}}
+							- DOING Auto PO: PR does not auto generate PO
+							  :LOGBOOK:
+							  CLOCK: [2026-04-22 Wed 14:06:59]
+							  :END:
 						- DOING `PR A` auto create `PO A`
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:43:21]--[2026-04-17 Fri 08:59:29] =>  159:16:08
