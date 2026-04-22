@@ -457,9 +457,10 @@
 					  CLOCK: [2026-04-17 Fri 08:59:35]
 					  :END:
 						- TODO Bug
-						- TODO `PR A` auto create `PO A`
+						- DOING `PR A` auto create `PO A`
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:43:21]--[2026-04-17 Fri 08:59:29] =>  159:16:08
+						  CLOCK: [2026-04-22 Wed 11:23:54]
 						  :END:
 							- Create PR Form Setting A
 							  logseq.order-list-type:: number
@@ -471,9 +472,10 @@
 							  logseq.order-list-type:: number
 							- Expected output = PO A was automatically created from PR A
 							  logseq.order-list-type:: number
-						- TODO `PR B` auto create `PO B`
+						- DOING `PR B` auto create `PO B`
 						  :LOGBOOK:
 						  CLOCK: [2026-04-10 Fri 17:43:21]--[2026-04-17 Fri 08:59:30] =>  159:16:09
+						  CLOCK: [2026-04-22 Wed 11:23:55]
 						  :END:
 							- Create PR Form Setting B
 							  logseq.order-list-type:: number
